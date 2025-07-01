@@ -12,6 +12,7 @@
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
     <AssemblyVersion>1.3.0.0</AssemblyVersion>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -32,6 +33,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.AvailablePhoneNumber</ReturnType>
@@ -74,6 +76,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.OperatorDetails</ReturnType>
@@ -102,6 +105,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.OperatorInformation</ReturnType>
@@ -136,6 +140,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.OperatorInformationResult</ReturnType>
@@ -163,6 +168,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberAdministrativeDivision</ReturnType>
@@ -191,6 +197,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberAreaCode</ReturnType>
@@ -215,6 +222,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberCost</ReturnType>
@@ -245,6 +253,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -279,6 +288,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberCountry</ReturnType>
@@ -307,6 +317,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberLocality</ReturnType>
@@ -333,6 +344,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberOffering</ReturnType>
@@ -363,6 +375,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumbersBrowseResult</ReturnType>
@@ -387,6 +400,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberSearchResult</ReturnType>
@@ -425,6 +439,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberSearchResult</ReturnType>
@@ -465,6 +480,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumberSearchResult</ReturnType>
@@ -507,6 +523,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PhoneNumbersReservation</ReturnType>
@@ -537,6 +554,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.PhoneNumbers</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.PhoneNumbers.PurchasedPhoneNumber</ReturnType>
