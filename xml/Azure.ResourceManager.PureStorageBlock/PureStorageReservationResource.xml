@@ -73,7 +73,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Add a tag to the current resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -105,7 +105,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Add a tag to the current resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -185,7 +185,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -214,7 +214,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -240,7 +240,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -266,7 +266,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -292,7 +292,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Provides a summarized report along with actions for resources billed via given reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingReport</description></item><item><term>Operation Id</term><description>Reservations_GetBillingReport</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingReport</description></item><item><term>Operation Id</term><description>Reservations_GetBillingReport</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -318,7 +318,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Provides a summarized report along with actions for resources billed via given reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingReport</description></item><item><term>Operation Id</term><description>Reservations_GetBillingReport</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingReport</description></item><item><term>Operation Id</term><description>Reservations_GetBillingReport</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -344,7 +344,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Provides various statistics about resources billed via given reservation.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingStatus</description></item><item><term>Operation Id</term><description>Reservations_GetBillingStatus</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingStatus</description></item><item><term>Operation Id</term><description>Reservations_GetBillingStatus</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -370,7 +370,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Provides various statistics about resources billed via given reservation.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingStatus</description></item><item><term>Operation Id</term><description>Reservations_GetBillingStatus</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getBillingStatus</description></item><item><term>Operation Id</term><description>Reservations_GetBillingStatus</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -396,7 +396,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Limits constraining certain resource properties.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getResourceLimits</description></item><item><term>Operation Id</term><description>Reservations_GetResourceLimits</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getResourceLimits</description></item><item><term>Operation Id</term><description>Reservations_GetResourceLimits</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -422,7 +422,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Limits constraining certain resource properties.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getResourceLimits</description></item><item><term>Operation Id</term><description>Reservations_GetResourceLimits</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}/getResourceLimits</description></item><item><term>Operation Id</term><description>Reservations_GetResourceLimits</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -470,7 +470,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Removes a tag by key from the resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -500,7 +500,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Removes a tag by key from the resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -549,7 +549,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Replace the tags on the resource with the given set.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -579,7 +579,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Replace the tags on the resource with the given set.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -766,7 +766,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Update a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Update</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Update</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -799,7 +799,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Update a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Update</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Update</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">

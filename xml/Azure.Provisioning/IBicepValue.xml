@@ -9,6 +9,7 @@
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Interfaces />
   <Docs>
@@ -29,6 +30,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -54,6 +56,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Expressions.BicepExpression</ReturnType>
@@ -77,6 +80,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Expressions.BicepExpression</ReturnType>
@@ -99,6 +103,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -121,6 +126,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -143,6 +149,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -165,6 +172,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -187,6 +195,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValueKind</ReturnType>
@@ -210,6 +219,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Object</ReturnType>
@@ -232,6 +242,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Primitives.BicepValueReference</ReturnType>
@@ -254,6 +265,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -276,6 +288,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Primitives.BicepValueReference</ReturnType>

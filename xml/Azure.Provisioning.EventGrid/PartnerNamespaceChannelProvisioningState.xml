@@ -8,6 +8,7 @@
     <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
@@ -28,8 +29,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.EventGrid.PartnerNamespaceChannelProvisioningState</ReturnType>
@@ -50,8 +51,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.EventGrid.PartnerNamespaceChannelProvisioningState</ReturnType>
@@ -72,8 +73,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.EventGrid.PartnerNamespaceChannelProvisioningState</ReturnType>
@@ -94,8 +95,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.EventGrid.PartnerNamespaceChannelProvisioningState</ReturnType>
@@ -116,11 +117,11 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet">
+        <Attribute>
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -144,8 +145,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.EventGrid.PartnerNamespaceChannelProvisioningState</ReturnType>
@@ -166,8 +167,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.EventGrid.PartnerNamespaceChannelProvisioningState</ReturnType>
@@ -188,8 +189,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.EventGrid</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.EventGrid.PartnerNamespaceChannelProvisioningState</ReturnType>

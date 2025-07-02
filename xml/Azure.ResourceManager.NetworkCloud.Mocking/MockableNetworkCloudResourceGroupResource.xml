@@ -9,6 +9,7 @@
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -28,6 +29,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -45,6 +47,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudBareMetalMachineResource&gt;</ReturnType>
@@ -77,6 +80,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudBareMetalMachineResource&gt;&gt;</ReturnType>
@@ -109,6 +113,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudBareMetalMachineCollection</ReturnType>
@@ -130,6 +135,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudCloudServicesNetworkResource&gt;</ReturnType>
@@ -162,6 +168,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudCloudServicesNetworkResource&gt;&gt;</ReturnType>
@@ -194,6 +201,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudCloudServicesNetworkCollection</ReturnType>
@@ -215,6 +223,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterResource&gt;</ReturnType>
@@ -247,6 +256,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterResource&gt;&gt;</ReturnType>
@@ -279,6 +289,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterManagerResource&gt;</ReturnType>
@@ -311,6 +322,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterManagerResource&gt;&gt;</ReturnType>
@@ -343,6 +355,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudClusterManagerCollection</ReturnType>
@@ -364,6 +377,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudClusterCollection</ReturnType>
@@ -385,6 +399,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -417,6 +432,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;</ReturnType>
@@ -449,6 +465,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterCollection</ReturnType>
@@ -470,6 +487,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL2NetworkResource&gt;</ReturnType>
@@ -502,6 +520,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL2NetworkResource&gt;&gt;</ReturnType>
@@ -534,6 +553,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudL2NetworkCollection</ReturnType>
@@ -555,6 +575,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL3NetworkResource&gt;</ReturnType>
@@ -587,6 +608,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL3NetworkResource&gt;&gt;</ReturnType>
@@ -619,6 +641,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudL3NetworkCollection</ReturnType>
@@ -640,6 +663,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudRackResource&gt;</ReturnType>
@@ -672,6 +696,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudRackResource&gt;&gt;</ReturnType>
@@ -704,6 +729,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudRackCollection</ReturnType>
@@ -725,6 +751,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -757,6 +784,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;</ReturnType>
@@ -789,6 +817,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceCollection</ReturnType>
@@ -810,6 +839,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudTrunkedNetworkResource&gt;</ReturnType>
@@ -842,6 +872,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudTrunkedNetworkResource&gt;&gt;</ReturnType>
@@ -874,6 +905,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudTrunkedNetworkCollection</ReturnType>
@@ -895,6 +927,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVirtualMachineResource&gt;</ReturnType>
@@ -927,6 +960,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVirtualMachineResource&gt;&gt;</ReturnType>
@@ -959,6 +993,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudVirtualMachineCollection</ReturnType>
@@ -980,6 +1015,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVolumeResource&gt;</ReturnType>
@@ -1012,6 +1048,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVolumeResource&gt;&gt;</ReturnType>
@@ -1044,6 +1081,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudVolumeCollection</ReturnType>

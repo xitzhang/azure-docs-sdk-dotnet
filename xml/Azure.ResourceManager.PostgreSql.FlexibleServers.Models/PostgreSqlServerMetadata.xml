@@ -8,6 +8,7 @@
     <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
     <AssemblyVersion>1.3.0.0</AssemblyVersion>
+    <AssemblyVersion>1.4.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -38,13 +39,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="writer" Type="System.Text.Json.Utf8JsonWriter" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="writer" Type="System.Text.Json.Utf8JsonWriter" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" />
       </Parameters>
       <Docs>
         <param name="writer"> The JSON writer. </param>
@@ -62,8 +64,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.Core.AzureLocation&gt;</ReturnType>
@@ -75,24 +77,19 @@
       </Docs>
     </Member>
     <Member MemberName="Sku">
-      <MemberSignature Language="C#" Value="public Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku Sku { get; }" FrameworkAlternate="azure-dotnet" />
-      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku Sku" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku Sku { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku Sku" />
       <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlServerMetadata.Sku" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Sku As PostgreSqlFlexibleServersServerSku" FrameworkAlternate="azure-dotnet" />
-      <MemberSignature Language="F#" Value="member this.Sku : Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku" Usage="Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlServerMetadata.Sku" FrameworkAlternate="azure-dotnet" />
-      <MemberSignature Language="C#" Value="public Azure.ResourceManager.PostgreSql.FlexibleServers.Models.ServerSku Sku { get; }" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.PostgreSql.FlexibleServers.Models.ServerSku Sku" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Sku As ServerSku" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="F#" Value="member this.Sku : Azure.ResourceManager.PostgreSql.FlexibleServers.Models.ServerSku" Usage="Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlServerMetadata.Sku" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Sku As PostgreSqlFlexibleServersServerSku" />
+      <MemberSignature Language="F#" Value="member this.Sku : Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku" Usage="Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlServerMetadata.Sku" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType FrameworkAlternate="azure-dotnet">Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku</ReturnType>
-        <ReturnType FrameworkAlternate="azure-dotnet-preview">Azure.ResourceManager.PostgreSql.FlexibleServers.Models.ServerSku</ReturnType>
+        <ReturnType>Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlFlexibleServersServerSku</ReturnType>
       </ReturnValue>
       <Docs>
         <summary> SKU for the database server. This object is empty for PG single server. </summary>
@@ -109,8 +106,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -133,8 +130,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlServerMetadata</ReturnType>
@@ -166,8 +163,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -198,8 +195,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PostgreSql.FlexibleServers.Models.PostgreSqlServerMetadata</ReturnType>
@@ -231,8 +228,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -261,8 +258,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -289,8 +286,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PostgreSql</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

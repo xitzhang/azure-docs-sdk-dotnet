@@ -73,7 +73,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Add a tag to the current resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -105,7 +105,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Add a tag to the current resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -185,7 +185,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -214,7 +214,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Delete</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -243,7 +243,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Disable the existing AVS connection
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/disableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_DisableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/disableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_DisableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -272,7 +272,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Disable the existing AVS connection
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/disableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_DisableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/disableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_DisableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -303,7 +303,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Initiate a connection between the storage pool and a specified AVS SDDC resource
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/enableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_EnableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/enableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_EnableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -336,7 +336,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Initiate a connection between the storage pool and a specified AVS SDDC resource
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/enableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_EnableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/enableAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_EnableAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -369,7 +369,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Finalize an already started AVS connection to a specific AVS SDDC
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/finalizeAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_FinalizeAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/finalizeAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_FinalizeAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -402,7 +402,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Finalize an already started AVS connection to a specific AVS SDDC
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/finalizeAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_FinalizeAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/finalizeAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_FinalizeAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -430,7 +430,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -456,7 +456,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -482,7 +482,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Returns current information about an on-going connection to an AVS instance
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -508,7 +508,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Returns current information about an on-going connection to an AVS instance
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -534,7 +534,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Returns the status of the storage pool connection to AVS
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsStatus</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsStatus</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -560,7 +560,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Returns the status of the storage pool connection to AVS
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsStatus</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getAvsStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetAvsStatus</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -586,7 +586,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Retrieve health metrics of a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getHealthStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetHealthStatus</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getHealthStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetHealthStatus</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -612,7 +612,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Retrieve health metrics of a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getHealthStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetHealthStatus</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/getHealthStatus</description></item><item><term>Operation Id</term><description>StoragePools_GetHealthStatus</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -640,7 +640,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get an AVS storage container
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsStorageContainers/{storageContainerName}</description></item><item><term>Operation Id</term><description>AvsStorageContainer_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsStorageContainers/{storageContainerName}</description></item><item><term>Operation Id</term><description>AvsStorageContainer_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -672,7 +672,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get an AVS storage container
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsStorageContainers/{storageContainerName}</description></item><item><term>Operation Id</term><description>AvsStorageContainer_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsStorageContainers/{storageContainerName}</description></item><item><term>Operation Id</term><description>AvsStorageContainer_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -725,7 +725,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get an AVS VM
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsVms/{avsVmId}</description></item><item><term>Operation Id</term><description>AvsVm_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsVms/{avsVmId}</description></item><item><term>Operation Id</term><description>AvsVm_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -757,7 +757,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get an AVS VM
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsVms/{avsVmId}</description></item><item><term>Operation Id</term><description>AvsVm_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/avsVms/{avsVmId}</description></item><item><term>Operation Id</term><description>AvsVm_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -830,7 +830,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Removes a tag by key from the resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -860,7 +860,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Removes a tag by key from the resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -891,7 +891,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Test and repair, if needed, all configuration elements of the storage pool connection to the AVS instance
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/repairAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_RepairAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/repairAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_RepairAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -920,7 +920,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Test and repair, if needed, all configuration elements of the storage pool connection to the AVS instance
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/repairAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_RepairAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}/repairAvsConnection</description></item><item><term>Operation Id</term><description>StoragePools_RepairAvsConnection</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -967,7 +967,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Replace the tags on the resource with the given set.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -997,7 +997,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Replace the tags on the resource with the given set.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -1184,7 +1184,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Update a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Update</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Update</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -1217,7 +1217,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Update a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Update</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Update</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">

@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Provisioning.Primitives.ProvisionableResource</BaseTypeName>
@@ -29,6 +30,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="bicepIdentifier" Type="System.String" />
@@ -58,6 +60,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Provisioning.AppContainers.ContainerType&gt;</ReturnType>
@@ -80,6 +83,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.AppContainers.CustomContainerTemplate</ReturnType>
@@ -103,6 +107,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -125,6 +130,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.AppContainers.SessionPoolLifecycleConfiguration</ReturnType>
@@ -147,6 +153,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Core.ResourceIdentifier&gt;</ReturnType>
@@ -169,6 +176,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.AppContainers.SessionPool</ReturnType>
@@ -202,6 +210,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Core.ResourceIdentifier&gt;</ReturnType>
@@ -224,6 +233,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.ManagedServiceIdentity</ReturnType>
@@ -247,6 +257,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Core.AzureLocation&gt;</ReturnType>
@@ -269,6 +280,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepList&lt;Azure.Provisioning.AppContainers.SessionPoolManagedIdentitySetting&gt;</ReturnType>
@@ -292,6 +304,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.String&gt;</ReturnType>
@@ -314,6 +327,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.Int32&gt;</ReturnType>
@@ -336,6 +350,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.Uri&gt;</ReturnType>
@@ -358,6 +373,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Provisioning.AppContainers.PoolManagementType&gt;</ReturnType>
@@ -380,6 +396,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Provisioning.AppContainers.SessionPoolProvisioningState&gt;</ReturnType>
@@ -402,6 +419,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.AppContainers.SessionPoolScaleConfiguration</ReturnType>
@@ -424,6 +442,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepList&lt;Azure.Provisioning.AppContainers.SessionPoolSecret&gt;</ReturnType>
@@ -446,6 +465,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Provisioning.AppContainers.SessionNetworkStatus&gt;</ReturnType>
@@ -468,6 +488,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.SystemData</ReturnType>
@@ -490,6 +511,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.AppContainers</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepDictionary&lt;System.String&gt;</ReturnType>

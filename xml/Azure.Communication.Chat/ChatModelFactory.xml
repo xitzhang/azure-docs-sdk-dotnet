@@ -15,6 +15,7 @@
     <AssemblyVersion>1.3.0.0</AssemblyVersion>
     <AssemblyVersion>1.3.1.0</AssemblyVersion>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -35,6 +36,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.AddChatParticipantsResult</ReturnType>
@@ -59,6 +61,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatAttachment</ReturnType>
@@ -93,6 +96,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatError</ReturnType>
@@ -125,13 +129,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
-      <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
-          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
-          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
-        </Attribute>
-      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatMessage</ReturnType>
       </ReturnValue>
@@ -175,13 +174,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
-      <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
-          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
-          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
-        </Attribute>
-      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatMessage</ReturnType>
       </ReturnValue>
@@ -227,6 +221,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatMessageContent</ReturnType>
@@ -259,6 +254,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatMessageContent</ReturnType>
@@ -293,13 +289,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
-      <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
-          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
-          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
-        </Attribute>
-      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatMessageReadReceipt</ReturnType>
       </ReturnValue>
@@ -329,6 +320,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatParticipant</ReturnType>
@@ -359,15 +351,16 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatParticipant</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="user" Type="Azure.Communication.CommunicationIdentifier" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="displayName" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="shareHistoryTime" Type="System.Nullable&lt;System.DateTimeOffset&gt;" Index="2" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="metadata" Type="System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;" Index="3" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="user" Type="Azure.Communication.CommunicationIdentifier" />
+        <Parameter Name="displayName" Type="System.String" />
+        <Parameter Name="shareHistoryTime" Type="System.Nullable&lt;System.DateTimeOffset&gt;" />
+        <Parameter Name="metadata" Type="System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;" />
       </Parameters>
       <Docs>
         <param name="user"> User </param>
@@ -391,13 +384,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
-      <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
-          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
-          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
-        </Attribute>
-      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatThreadItem</ReturnType>
       </ReturnValue>
@@ -429,6 +417,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.ChatThreadProperties</ReturnType>
@@ -463,6 +452,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.CreateChatThreadResult</ReturnType>
@@ -491,6 +481,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.Chat</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.Chat.SendChatMessageResult</ReturnType>
