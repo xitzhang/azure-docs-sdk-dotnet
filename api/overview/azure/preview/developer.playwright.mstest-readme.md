@@ -1,17 +1,17 @@
 ---
-title: Azure Playwright NUnit client library for .NET
-keywords: Azure, dotnet, SDK, API, Azure.Developer.Playwright.NUnit, loadtestservice
+title: Azure Playwright MSTest client library for .NET
+keywords: Azure, dotnet, SDK, API, Azure.Developer.Playwright.MSTest, loadtestservice
 ms.date: 07/02/2025
 ms.topic: reference
 ms.devlang: dotnet
 ms.service: loadtestservice
 ---
-# Azure Playwright NUnit client library for .NET - version 1.0.0-alpha.20250701.6 
+# Azure Playwright MSTest client library for .NET - version 1.0.0-alpha.20250701.6 
 
 
 Azure Playwright is a fully managed service that uses the cloud to enable you to run Playwright tests with much higher parallelization across different operating system-browser combinations simultaneously. This means faster test runs with broader scenario coverage, which helps speed up delivery of features without sacrificing quality. The service also enables you to publish test results and related artifacts to the service and view them in the service portal enabling faster and easier troubleshooting. With Azure Playwright, you can release features faster and more confidently.
 
-Ready to get started? Jump into our [quickstart guide](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/loadtestservice/Azure.Developer.Playwright.NUnit/README.md#getting-started)!
+Ready to get started? Jump into our [quickstart guide](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/loadtestservice/Azure.Developer.Playwright.MSTest/README.md#getting-started)!
 
 ## Useful links
 
@@ -28,7 +28,7 @@ Ready to get started? Jump into our [quickstart guide](https://github.com/Azure/
 Install the client library for .NET with [NuGet](https://www.nuget.org/):
 
 ```dotnetcli
-dotnet add package Azure.Developer.Playwright.NUnit --prerelease
+dotnet add package Azure.Developer.Playwright.MSTest --prerelease
 ```
 
 ### Prerequisites
@@ -63,18 +63,35 @@ To learn more about options for Microsoft Entra Id authentication, refer to [Azu
 
 Create a file `PlaywrightServiceSetup.cs` in the root directory with the below content
 
-```C# Snippet:NUnit_Sample1_SimpleSetup
-using Azure.Developer.Playwright.NUnit;
+```C# Snippet:MSTest_Sample1_SimpleSetup
+using System.Threading.Tasks;
+using Azure.Developer.Playwright.MSTest;
 using Azure.Identity;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace PlaywrightService.SampleTests; // Remember to change this as per your project namespace
 
-[SetUpFixture]
-public class PlaywrightServiceNUnitSetup : PlaywrightServiceBrowserNUnit { }
+public class PlaywrightServiceMSTestSetup
+{
+    private static PlaywrightServiceBrowserMSTest playwrightClient = null!;
+
+    [AssemblyInitialize]
+    public static async Task AssemblyInitialize(TestContext testContext)
+    {
+        playwrightClient = new PlaywrightServiceBrowserMSTest(context: testContext, credential: new DefaultAzureCredential());
+        await playwrightClient.InitializeAsync();
+    }
+
+    [AssemblyCleanup]
+    public static async Task AssemblyCleanup()
+    {
+        await playwrightClient.DisposeAsync();
+    }
+}
 ```
 
 > [!NOTE]
-> Make sure your project uses `Microsoft.Playwright.NUnit` version 1.37 or above.
+> Make sure your project uses `Microsoft.Playwright.MSTest` version 1.37 or above.
 
 ### Obtain region endpoint
 
@@ -98,13 +115,13 @@ dotnet test
 
 ## Key concepts
 
-Key concepts of the Azure Playwright NUnit SDK for .NET can be found [here](https://aka.ms/mpt/what-is-mpt)
+Key concepts of the Azure Playwright MSTest SDK for .NET can be found [here](https://aka.ms/mpt/what-is-mpt)
 
 ## Examples
 
 Code samples for using this SDK can be found in the following locations
 
--   [.NET Azure Playwright NUnit Library Code Samples](https://aka.ms/mpt/sample)
+-   [.NET Azure Playwright MSTest Library Code Samples](https://aka.ms/mpt/sample)
 
 ## Troubleshooting
 
@@ -130,5 +147,5 @@ This project has adopted the [Microsoft Open Source Code of Conduct][coc].
 For more information see the [Code of Conduct FAQ][coc_faq] or contact
 [opencode@microsoft.com][coc_contact] with any additional questions or comments.
 
-![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-net/sdk/loadtestservice/Azure.Developer.Playwright.NUnit/README.png)
+![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-net/sdk/loadtestservice/Azure.Developer.Playwright.MSTest/README.png)
 

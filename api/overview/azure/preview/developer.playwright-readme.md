@@ -1,12 +1,12 @@
 ---
 title: Azure Playwright client library for .NET
 keywords: Azure, dotnet, SDK, API, Azure.Developer.Playwright, loadtestservice
-ms.date: 07/01/2025
+ms.date: 07/02/2025
 ms.topic: reference
 ms.devlang: dotnet
 ms.service: loadtestservice
 ---
-# Azure Playwright client library for .NET - version 1.0.0-beta.1 
+# Azure Playwright client library for .NET - version 1.0.0-alpha.20250701.6 
 
 
 Azure Playwright is a fully managed service that uses the cloud to enable you to run Playwright tests with much higher parallelization across different operating system-browser combinations simultaneously. This means faster test runs with broader scenario coverage, which helps speed up delivery of features without sacrificing quality. The service also enables you to publish test results and related artifacts to the service and view them in the service portal enabling faster and easier troubleshooting. With Azure Playwright, you can release features faster and more confidently.
@@ -23,7 +23,7 @@ dotnet add package Azure.Developer.Playwright --prerelease
 
 ### Authenticate the client
 
-To learn more about options for Microsoft Entra Id authentication, refer to [Azure.Identity credentials](https://github.com/Azure/azure-sdk-for-net/tree/Azure.Developer.Playwright_1.0.0-beta.1/sdk/identity/Azure.Identity#credentials).
+To learn more about options for Microsoft Entra Id authentication, refer to [Azure.Identity credentials](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/identity/Azure.Identity#credentials).
 
 ### Prerequisites
 
