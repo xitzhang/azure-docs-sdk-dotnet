@@ -90,8 +90,7 @@
       <MemberSignature Language="ILAsm" Value=".method familyhidebysig virtual instance void DefineProvisionableProperties() cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Provisioning.CosmosDB.MongoDBDatabaseResourceInfo.DefineProvisionableProperties" />
       <MemberSignature Language="VB.NET" Value="Protected Overrides Sub DefineProvisionableProperties ()" />
-      <MemberSignature Language="F#" Value="override this.DefineProvisionableProperties : unit -&gt; unit" Usage="mongoDBDatabaseResourceInfo.DefineProvisionableProperties " FrameworkAlternate="azure-dotnet" />
-      <MemberSignature Language="F#" Value="abstract member DefineProvisionableProperties : unit -&gt; unit&#xA;override this.DefineProvisionableProperties : unit -&gt; unit" Usage="mongoDBDatabaseResourceInfo.DefineProvisionableProperties " FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="F#" Value="override this.DefineProvisionableProperties : unit -&gt; unit" Usage="mongoDBDatabaseResourceInfo.DefineProvisionableProperties " />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.CosmosDB</AssemblyName>
