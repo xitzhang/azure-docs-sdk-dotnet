@@ -1,15 +1,15 @@
 {
-  "Name": "Azure.Developer.Playwright.NUnit",
+  "Name": "Azure.Developer.Playwright.MSTest",
   "Version": "1.0.0-alpha.20250702.1",
   "DevVersion": "1.0.0-alpha.20250702.1",
-  "DirectoryPath": "sdk/loadtestservice/Azure.Developer.Playwright.NUnit",
+  "DirectoryPath": "sdk/loadtestservice/Azure.Developer.Playwright.MSTest",
   "ServiceDirectory": "loadtestservice",
-  "ReadMePath": "sdk/loadtestservice/Azure.Developer.Playwright.NUnit/README.md",
-  "ChangeLogPath": "sdk/loadtestservice/Azure.Developer.Playwright.NUnit/CHANGELOG.md",
+  "ReadMePath": "sdk/loadtestservice/Azure.Developer.Playwright.MSTest/README.md",
+  "ChangeLogPath": "sdk/loadtestservice/Azure.Developer.Playwright.MSTest/CHANGELOG.md",
   "Group": null,
   "SdkType": "client",
   "IsNewSdk": true,
-  "ArtifactName": "Azure.Developer.Playwright.NUnit",
+  "ArtifactName": "Azure.Developer.Playwright.MSTest",
   "ReleaseStatus": "Unreleased",
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
@@ -17,8 +17,8 @@
     "triggeringPaths": [
       "/sdk/loadtestservice/ci.yml"
     ],
-    "safeName": "AzureDeveloperPlaywrightNUnit",
-    "name": "Azure.Developer.Playwright.NUnit"
+    "safeName": "AzureDeveloperPlaywrightMSTest",
+    "name": "Azure.Developer.Playwright.MSTest"
   },
   "CIParameters": {
     "CheckAOTCompat": false,
@@ -27,6 +27,6 @@
     "BuildSnippets": false
   },
   "Namespaces": [
-    "Azure.Developer.Playwright.NUnit"
+    "Azure.Developer.Playwright.MSTest"
   ]
 }
