@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -26,7 +27,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.StorageTaskData</ReturnType>
@@ -64,7 +65,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskPreviewBlobProperties</ReturnType>
@@ -96,7 +97,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskProperties</ReturnType>
@@ -130,7 +131,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance</ReturnType>
@@ -162,7 +163,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties</ReturnType>
@@ -200,6 +201,40 @@
         <param name="runResult"> Represents the overall result of the execution for the run instance. </param>
         <summary> Initializes a new instance of <see cref="T:Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties" />. </summary>
         <returns> A new <see cref="T:Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties" /> instance for mocking. </returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="StorageTaskUpdateProperties">
+      <MemberSignature Language="C#" Value="public static Azure.ResourceManager.StorageActions.Models.StorageTaskUpdateProperties StorageTaskUpdateProperties (long? taskVersion = default, bool? enabled = default, string description = default, Azure.ResourceManager.StorageActions.Models.StorageTaskAction action = default, Azure.ResourceManager.StorageActions.Models.StorageTaskProvisioningState? provisioningState = default, DateTimeOffset? creationTimeInUtc = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.ResourceManager.StorageActions.Models.StorageTaskUpdateProperties StorageTaskUpdateProperties(valuetype System.Nullable`1&lt;int64&gt; taskVersion, valuetype System.Nullable`1&lt;bool&gt; enabled, string description, class Azure.ResourceManager.StorageActions.Models.StorageTaskAction action, valuetype System.Nullable`1&lt;valuetype Azure.ResourceManager.StorageActions.Models.StorageTaskProvisioningState&gt; provisioningState, valuetype System.Nullable`1&lt;valuetype System.DateTimeOffset&gt; creationTimeInUtc) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.StorageActions.Models.ArmStorageActionsModelFactory.StorageTaskUpdateProperties(System.Nullable{System.Int64},System.Nullable{System.Boolean},System.String,Azure.ResourceManager.StorageActions.Models.StorageTaskAction,System.Nullable{Azure.ResourceManager.StorageActions.Models.StorageTaskProvisioningState},System.Nullable{System.DateTimeOffset})" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Function StorageTaskUpdateProperties (Optional taskVersion As Nullable(Of Long) = Nothing, Optional enabled As Nullable(Of Boolean) = Nothing, Optional description As String = Nothing, Optional action As StorageTaskAction = Nothing, Optional provisioningState As Nullable(Of StorageTaskProvisioningState) = Nothing, Optional creationTimeInUtc As Nullable(Of DateTimeOffset) = Nothing) As StorageTaskUpdateProperties" />
+      <MemberSignature Language="F#" Value="static member StorageTaskUpdateProperties : Nullable&lt;int64&gt; * Nullable&lt;bool&gt; * string * Azure.ResourceManager.StorageActions.Models.StorageTaskAction * Nullable&lt;Azure.ResourceManager.StorageActions.Models.StorageTaskProvisioningState&gt; * Nullable&lt;DateTimeOffset&gt; -&gt; Azure.ResourceManager.StorageActions.Models.StorageTaskUpdateProperties" Usage="Azure.ResourceManager.StorageActions.Models.ArmStorageActionsModelFactory.StorageTaskUpdateProperties (taskVersion, enabled, description, action, provisioningState, creationTimeInUtc)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskUpdateProperties</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="taskVersion" Type="System.Nullable&lt;System.Int64&gt;" />
+        <Parameter Name="enabled" Type="System.Nullable&lt;System.Boolean&gt;" />
+        <Parameter Name="description" Type="System.String" />
+        <Parameter Name="action" Type="Azure.ResourceManager.StorageActions.Models.StorageTaskAction" />
+        <Parameter Name="provisioningState" Type="System.Nullable&lt;Azure.ResourceManager.StorageActions.Models.StorageTaskProvisioningState&gt;" />
+        <Parameter Name="creationTimeInUtc" Type="System.Nullable&lt;System.DateTimeOffset&gt;" />
+      </Parameters>
+      <Docs>
+        <param name="taskVersion"> Storage task version. </param>
+        <param name="enabled"> Storage Task is enabled when set to true and disabled when set to false. </param>
+        <param name="description"> Text that describes the purpose of the storage task. </param>
+        <param name="action"> The storage task action that is executed. </param>
+        <param name="provisioningState"> Represents the provisioning state of the storage task. </param>
+        <param name="creationTimeInUtc"> The creation date and time of the storage task in UTC. </param>
+        <summary> Initializes a new instance of <see cref="T:Azure.ResourceManager.StorageActions.Models.StorageTaskUpdateProperties" />. </summary>
+        <returns> A new <see cref="T:Azure.ResourceManager.StorageActions.Models.StorageTaskUpdateProperties" /> instance for mocking. </returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>

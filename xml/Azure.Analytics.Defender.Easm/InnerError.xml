@@ -23,7 +23,7 @@
     </Interface>
   </Interfaces>
   <Docs>
-    <summary> This is an object containing more specific information than the current object about the error. </summary>
+    <summary> An object containing more specific information about the error. As per Microsoft One API guidelines - https://github.com/microsoft/api-guidelines/blob/vNext/azure/Guidelines.md#handling-errors. </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
@@ -42,8 +42,52 @@
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary> This is a more specific error code than was provided by the containing error. </summary>
+        <summary> One of a server-defined set of error codes. </summary>
         <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Innererror">
+      <MemberSignature Language="C#" Value="public Azure.Analytics.Defender.Easm.InnerError Innererror { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.Analytics.Defender.Easm.InnerError Innererror" />
+      <MemberSignature Language="DocId" Value="P:Azure.Analytics.Defender.Easm.InnerError.Innererror" />
+      <MemberSignature Language="F#" Value="member this.Innererror : Azure.Analytics.Defender.Easm.InnerError" Usage="Azure.Analytics.Defender.Easm.InnerError.Innererror" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Analytics.Defender.Easm</AssemblyName>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Analytics.Defender.Easm.InnerError</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary> Inner error. </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="JsonModelWriteCore">
+      <MemberSignature Language="C#" Value="protected virtual void JsonModelWriteCore (System.Text.Json.Utf8JsonWriter writer, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance void JsonModelWriteCore(class System.Text.Json.Utf8JsonWriter writer, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Analytics.Defender.Easm.InnerError.JsonModelWriteCore(System.Text.Json.Utf8JsonWriter,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Sub JsonModelWriteCore (writer As Utf8JsonWriter, options As ModelReaderWriterOptions)" />
+      <MemberSignature Language="F#" Value="abstract member JsonModelWriteCore : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit&#xA;override this.JsonModelWriteCore : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit" Usage="innerError.JsonModelWriteCore (writer, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Analytics.Defender.Easm</AssemblyName>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="writer" Type="System.Text.Json.Utf8JsonWriter" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" />
+      </Parameters>
+      <Docs>
+        <param name="writer"> The JSON writer. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -163,11 +207,11 @@
         <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" />
       </Parameters>
       <Docs>
-        <param name="options">To be added.</param>
+        <param name="options">The <see cref="T:System.ClientModel.Primitives.ModelReaderWriterOptions" /> to consider when serializing and deserializing the model.</param>
         <summary>
             Gets the data interchange format (JSON, Xml, etc) that the model uses when communicating with the service.
-            <param name="options">The <see cref="T:System.ClientModel.Primitives.ModelReaderWriterOptions" /> to use.</param></summary>
-        <returns>The format that the model uses when communicating with the serivce.</returns>
+            </summary>
+        <returns>The format that the model uses when communicating with the service.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -199,34 +243,6 @@
         <returns>A binary representation of the written model.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.FormatException">If the model does not support the requested <see cref="P:System.ClientModel.Primitives.ModelReaderWriterOptions.Format" />.</exception>
-      </Docs>
-    </Member>
-    <Member MemberName="Value">
-      <MemberSignature Language="C#" Value="public BinaryData Value { get; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance class System.BinaryData Value" />
-      <MemberSignature Language="DocId" Value="P:Azure.Analytics.Defender.Easm.InnerError.Value" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Value As BinaryData" />
-      <MemberSignature Language="F#" Value="member this.Value : BinaryData" Usage="Azure.Analytics.Defender.Easm.InnerError.Value" />
-      <MemberType>Property</MemberType>
-      <AssemblyInfo>
-        <AssemblyName>Azure.Analytics.Defender.Easm</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <ReturnValue>
-        <ReturnType>System.BinaryData</ReturnType>
-      </ReturnValue>
-      <Docs>
-        <summary>
-            This is an additional field representing the value that caused the error to help with debugging.
-            <para>
-            To assign an object to this property use <see cref="M:System.BinaryData.FromObjectAsJson``1(``0,System.Text.Json.JsonSerializerOptions)" />.
-            </para><para>
-            To assign an already formatted json string to this property use <see cref="M:System.BinaryData.FromString(System.String)" />.
-            </para><para>
-            Examples:
-            <list type="bullet"><item><term>BinaryData.FromObjectAsJson("foo")</term><description>Creates a payload of "foo".</description></item><item><term>BinaryData.FromString("\"foo\"")</term><description>Creates a payload of "foo".</description></item><item><term>BinaryData.FromObjectAsJson(new { key = "value" })</term><description>Creates a payload of { "key": "value" }.</description></item><item><term>BinaryData.FromString("{\"key\": \"value\"}")</term><description>Creates a payload of { "key": "value" }.</description></item></list></para></summary>
-        <value>To be added.</value>
-        <remarks>To be added.</remarks>
       </Docs>
     </Member>
   </Members>

@@ -13,6 +13,7 @@
     <AssemblyVersion>4.6.0.0</AssemblyVersion>
     <AssemblyVersion>4.7.0.0</AssemblyVersion>
     <AssemblyVersion>4.8.0.0</AssemblyVersion>
+    <AssemblyVersion>4.9.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -35,6 +36,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -65,6 +67,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -95,6 +98,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -129,6 +133,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -159,6 +164,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -189,6 +195,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -223,6 +230,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -253,6 +261,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -283,6 +292,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -317,6 +327,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>
@@ -339,6 +350,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.EncryptionAlgorithm</ReturnType>
@@ -361,6 +373,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>
@@ -383,6 +396,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>
@@ -395,66 +409,6 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
-    <Member MemberName="CkmAesKeyWrapPadParameters">
-      <MemberSignature Language="C#" Value="public static Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters CkmAesKeyWrapPadParameters (byte[] ciphertext, byte[] iv);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters CkmAesKeyWrapPadParameters(unsigned int8[] ciphertext, unsigned int8[] iv) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters.CkmAesKeyWrapPadParameters(System.Byte[],System.Byte[])" />
-      <MemberSignature Language="VB.NET" Value="Public Shared Function CkmAesKeyWrapPadParameters (ciphertext As Byte(), iv As Byte()) As DecryptParameters" />
-      <MemberSignature Language="F#" Value="static member CkmAesKeyWrapPadParameters : byte[] * byte[] -&gt; Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters" Usage="Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters.CkmAesKeyWrapPadParameters (ciphertext, iv)" />
-      <MemberType>Method</MemberType>
-      <AssemblyInfo>
-        <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <ReturnValue>
-        <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
-      </ReturnValue>
-      <Parameters>
-        <Parameter Name="ciphertext" Type="System.Byte[]" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="iv" Type="System.Byte[]" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-      </Parameters>
-      <Docs>
-        <param name="ciphertext">The ciphertext to decrypt.</param>
-        <param name="iv">The initialization vector used during encryption.</param>
-        <summary>
-            Creates an instance of the <see cref="T:Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters" /> class for the <see cref="P:Azure.Security.KeyVault.Keys.Cryptography.EncryptionAlgorithm.CkmAesKeyWrapPad" /> encryption algorithm with PKCS#7 padding.
-            </summary>
-        <returns>An instance of the <see cref="T:Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters" /> class for the <see cref="P:Azure.Security.KeyVault.Keys.Cryptography.EncryptionAlgorithm.CkmAesKeyWrapPad" /> encryption algorithm.</returns>
-        <remarks>To be added.</remarks>
-        <exception cref="T:System.ArgumentNullException">
-          <paramref name="ciphertext" /> or <paramref name="iv" /> is null.</exception>
-      </Docs>
-    </Member>
-    <Member MemberName="CkmAesKeyWrapParameters">
-      <MemberSignature Language="C#" Value="public static Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters CkmAesKeyWrapParameters (byte[] ciphertext, byte[] iv);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters CkmAesKeyWrapParameters(unsigned int8[] ciphertext, unsigned int8[] iv) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters.CkmAesKeyWrapParameters(System.Byte[],System.Byte[])" />
-      <MemberSignature Language="VB.NET" Value="Public Shared Function CkmAesKeyWrapParameters (ciphertext As Byte(), iv As Byte()) As DecryptParameters" />
-      <MemberSignature Language="F#" Value="static member CkmAesKeyWrapParameters : byte[] * byte[] -&gt; Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters" Usage="Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters.CkmAesKeyWrapParameters (ciphertext, iv)" />
-      <MemberType>Method</MemberType>
-      <AssemblyInfo>
-        <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <ReturnValue>
-        <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
-      </ReturnValue>
-      <Parameters>
-        <Parameter Name="ciphertext" Type="System.Byte[]" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="iv" Type="System.Byte[]" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-      </Parameters>
-      <Docs>
-        <param name="ciphertext">The cipher text to decrypt.</param>
-        <param name="iv">The initialization vector used during encryption.</param>
-        <summary>
-            Creates an instance of the <see cref="T:Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters" /> class using the <see cref="P:Azure.Security.KeyVault.Keys.Cryptography.EncryptionAlgorithm.CkmAesKeyWrap" /> encryption algorithm.
-            </summary>
-        <returns>An instance of the <see cref="T:Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters" /> class using the <see cref="P:Azure.Security.KeyVault.Keys.Cryptography.EncryptionAlgorithm.CkmAesKeyWrap" /> encryption algorithm.</returns>
-        <remarks>To be added.</remarks>
-        <exception cref="T:System.ArgumentNullException">
-          <paramref name="ciphertext" /> or <paramref name="iv" /> is null.</exception>
-      </Docs>
-    </Member>
     <Member MemberName="Iv">
       <MemberSignature Language="C#" Value="public byte[] Iv { get; }" />
       <MemberSignature Language="ILAsm" Value=".property instance unsigned int8[] Iv" />
@@ -465,6 +419,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>
@@ -487,6 +442,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -515,6 +471,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>
@@ -543,6 +500,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.DecryptParameters</ReturnType>

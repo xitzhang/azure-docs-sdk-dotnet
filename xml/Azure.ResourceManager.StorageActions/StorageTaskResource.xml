@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -40,7 +41,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -57,7 +58,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;</ReturnType>
@@ -73,7 +74,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Add a tag to the current resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -89,7 +90,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;&gt;</ReturnType>
@@ -105,7 +106,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Add a tag to the current resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -121,7 +122,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -149,7 +150,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.StorageTaskData</ReturnType>
@@ -170,7 +171,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation</ReturnType>
@@ -185,7 +186,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete the storage task resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Delete</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Delete</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -199,7 +200,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt;</ReturnType>
@@ -214,7 +215,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete the storage task resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Delete</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Delete</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -228,7 +229,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;</ReturnType>
@@ -240,7 +241,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get the storage task properties
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -254,7 +255,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;&gt;</ReturnType>
@@ -266,7 +267,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get the storage task properties
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -280,7 +281,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Resources.Models.SubResource&gt;</ReturnType>
@@ -294,7 +295,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Lists Resource IDs of the Storage Task Assignments associated with this Storage Task.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/storageTaskAssignments</description></item><item><term>Operation Id</term><description>StorageTaskAssignment_List</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/storageTaskAssignments</description></item><item><term>Operation Id</term><description>StorageTasks_GetStorageTaskAssignments</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
         <returns> A collection of <see cref="T:Azure.ResourceManager.Resources.Models.SubResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -308,7 +309,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Resources.Models.SubResource&gt;</ReturnType>
@@ -322,7 +323,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Lists Resource IDs of the Storage Task Assignments associated with this Storage Task.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/storageTaskAssignments</description></item><item><term>Operation Id</term><description>StorageTaskAssignment_List</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/storageTaskAssignments</description></item><item><term>Operation Id</term><description>StorageTasks_GetStorageTaskAssignments</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
         <returns> An async collection of <see cref="T:Azure.ResourceManager.Resources.Models.SubResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -336,7 +337,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance&gt;</ReturnType>
@@ -352,7 +353,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Fetch the storage tasks run report summary for each assignment.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/reports</description></item><item><term>Operation Id</term><description>StorageTasksReport_List</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/reports</description></item><item><term>Operation Id</term><description>StorageTasks_List</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
         <returns> A collection of <see cref="T:Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -366,7 +367,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance&gt;</ReturnType>
@@ -382,7 +383,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Fetch the storage tasks run report summary for each assignment.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/reports</description></item><item><term>Operation Id</term><description>StorageTasksReport_List</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}/reports</description></item><item><term>Operation Id</term><description>StorageTasks_List</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item></list></summary>
         <returns> An async collection of <see cref="T:Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -396,7 +397,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -416,7 +417,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;</ReturnType>
@@ -430,7 +431,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Removes a tag by key from the resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -446,7 +447,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;&gt;</ReturnType>
@@ -460,7 +461,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Removes a tag by key from the resource.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -476,7 +477,7 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceType</ReturnType>
@@ -495,7 +496,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;</ReturnType>
@@ -509,7 +510,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Replace the tags on the resource with the given set.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -525,7 +526,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;&gt;</ReturnType>
@@ -539,7 +540,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Replace the tags on the resource with the given set.
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Get</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -558,7 +559,7 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.StorageTaskData</ReturnType>
@@ -590,7 +591,7 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -621,7 +622,7 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.StorageTaskData</ReturnType>
@@ -653,7 +654,7 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -666,7 +667,7 @@
         <summary>
             Gets the data interchange format (JSON, Xml, etc) that the model uses when communicating with the service.
             </summary>
-        <returns>The format that the model uses when communicating with the serivce.</returns>
+        <returns>The format that the model uses when communicating with the service.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -682,7 +683,7 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -709,7 +710,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;</ReturnType>
@@ -726,7 +727,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Update storage task properties
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Update</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Update</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -742,7 +743,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.StorageActions.StorageTaskResource&gt;&gt;</ReturnType>
@@ -759,7 +760,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Update storage task properties
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTasks_Update</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.StorageActions/storageTasks/{storageTaskName}</description></item><item><term>Operation Id</term><description>StorageTask_Update</description></item><item><term>Default Api Version</term><description>2023-01-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.StorageActions.StorageTaskResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
