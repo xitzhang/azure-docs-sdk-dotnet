@@ -1,7 +1,7 @@
 {
   "Name": "Azure.Storage.Files.Shares",
-  "Version": "12.24.0-beta.1",
-  "DevVersion": null,
+  "Version": "12.24.0-alpha.20250704.1",
+  "DevVersion": "12.24.0-alpha.20250704.1",
   "DirectoryPath": "sdk/storage/Azure.Storage.Files.Shares",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/Azure.Storage.Files.Shares/README.md",
@@ -10,21 +10,21 @@
   "SdkType": "client",
   "IsNewSdk": true,
   "ArtifactName": "Azure.Storage.Files.Shares",
-  "ReleaseStatus": "2025-06-09",
+  "ReleaseStatus": "Unreleased",
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
   "ArtifactDetails": {
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
     ],
-    "safeName": "AzureStorageFilesShares",
     "skipSmokeTests": true,
+    "safeName": "AzureStorageFilesShares",
     "name": "Azure.Storage.Files.Shares"
   },
   "CIParameters": {
+    "AOTTestInputs": null,
     "CIMatrixConfigs": [],
     "BuildSnippets": false,
-    "AOTTestInputs": null,
     "CheckAOTCompat": true
   },
   "Namespaces": [
