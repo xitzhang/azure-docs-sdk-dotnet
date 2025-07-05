@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.ArizeAIObservabilityEval</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -26,7 +27,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ArizeAIObservabilityEval</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource&gt;</ReturnType>
@@ -42,7 +43,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a OrganizationResource
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/ArizeAi.ObservabilityEval/organizations/{organizationname}</description></item><item><term>Operation Id</term><description>OrganizationResource_Get</description></item><item><term>Default Api Version</term><description>2024-10-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalResourceGroupResource.GetArizeAIObservabilityEvalOrganization(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/ArizeAi.ObservabilityEval/organizations/{organizationname}</description></item><item><term>Operation Id</term><description>OrganizationResource_Get</description></item><item><term>Default Api Version</term><description>2024-10-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalResourceGroupResource.GetArizeAIObservabilityEvalOrganization(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -60,7 +61,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ArizeAIObservabilityEval</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource&gt;&gt;</ReturnType>
@@ -76,7 +77,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a OrganizationResource
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/ArizeAi.ObservabilityEval/organizations/{organizationname}</description></item><item><term>Operation Id</term><description>OrganizationResource_Get</description></item><item><term>Default Api Version</term><description>2024-10-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalResourceGroupResource.GetArizeAIObservabilityEvalOrganizationAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/ArizeAi.ObservabilityEval/organizations/{organizationname}</description></item><item><term>Operation Id</term><description>OrganizationResource_Get</description></item><item><term>Default Api Version</term><description>2024-10-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalResourceGroupResource.GetArizeAIObservabilityEvalOrganizationAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -94,7 +95,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ArizeAIObservabilityEval</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource</ReturnType>
@@ -125,7 +126,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ArizeAIObservabilityEval</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationCollection</ReturnType>
@@ -153,7 +154,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ArizeAIObservabilityEval</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource&gt;</ReturnType>
@@ -167,7 +168,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List OrganizationResource resources by subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/ArizeAi.ObservabilityEval/organizations</description></item><item><term>Operation Id</term><description>OrganizationResource_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-10-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalSubscriptionResource.GetArizeAIObservabilityEvalOrganizations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/ArizeAi.ObservabilityEval/organizations</description></item><item><term>Operation Id</term><description>OrganizationResource_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-10-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalSubscriptionResource.GetArizeAIObservabilityEvalOrganizations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> A collection of <see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -183,7 +184,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ArizeAIObservabilityEval</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource&gt;</ReturnType>
@@ -197,7 +198,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List OrganizationResource resources by subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/ArizeAi.ObservabilityEval/organizations</description></item><item><term>Operation Id</term><description>OrganizationResource_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-10-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalSubscriptionResource.GetArizeAIObservabilityEvalOrganizations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/ArizeAi.ObservabilityEval/organizations</description></item><item><term>Operation Id</term><description>OrganizationResource_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-10-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.ArizeAIObservabilityEval.Mocking.MockableArizeAIObservabilityEvalSubscriptionResource.GetArizeAIObservabilityEvalOrganizations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> An async collection of <see cref="T:Azure.ResourceManager.ArizeAIObservabilityEval.ArizeAIObservabilityEvalOrganizationResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">

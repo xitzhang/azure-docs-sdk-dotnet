@@ -18,6 +18,8 @@
     <AssemblyVersion>1.7.0.0</AssemblyVersion>
     <AssemblyVersion>1.8.0.0</AssemblyVersion>
     <AssemblyVersion>1.9.0.0</AssemblyVersion>
+    <AssemblyVersion>1.10.0.0</AssemblyVersion>
+    <AssemblyVersion>1.11.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -51,7 +53,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -68,7 +71,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;</ReturnType>
@@ -100,7 +104,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;&gt;</ReturnType>
@@ -132,7 +137,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -164,7 +170,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryImageVersionData</ReturnType>
@@ -185,7 +192,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation</ReturnType>
@@ -214,7 +222,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt;</ReturnType>
@@ -243,7 +252,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;</ReturnType>
@@ -271,7 +281,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;&gt;</ReturnType>
@@ -299,7 +310,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -319,7 +331,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;</ReturnType>
@@ -349,7 +362,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;&gt;</ReturnType>
@@ -379,7 +393,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceType</ReturnType>
@@ -398,7 +413,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;</ReturnType>
@@ -428,7 +444,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;&gt;</ReturnType>
@@ -461,7 +478,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryImageVersionData</ReturnType>
@@ -493,7 +511,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -524,7 +543,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryImageVersionData</ReturnType>
@@ -556,7 +576,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -569,7 +590,7 @@
         <summary>
             Gets the data interchange format (JSON, Xml, etc) that the model uses when communicating with the service.
             </summary>
-        <returns>The format that the model uses when communicating with the serivce.</returns>
+        <returns>The format that the model uses when communicating with the service.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -585,7 +606,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -612,7 +634,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;</ReturnType>
@@ -645,7 +668,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Compute.GalleryImageVersionResource&gt;&gt;</ReturnType>

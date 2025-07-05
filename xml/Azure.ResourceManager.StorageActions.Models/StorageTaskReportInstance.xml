@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.Models.ResourceData</BaseTypeName>
@@ -53,6 +54,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -69,15 +71,16 @@
       </Docs>
     </Member>
     <Member MemberName="Properties">
-      <MemberSignature Language="C#" Value="public Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties Properties { get; set; }" />
+      <MemberSignature Language="C#" Value="public Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties Properties { get; }" />
       <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties Properties" />
       <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance.Properties" />
-      <MemberSignature Language="VB.NET" Value="Public Property Properties As StorageTaskReportProperties" />
-      <MemberSignature Language="F#" Value="member this.Properties : Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties with get, set" Usage="Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance.Properties" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Properties As StorageTaskReportProperties" />
+      <MemberSignature Language="F#" Value="member this.Properties : Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties" Usage="Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance.Properties" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskReportProperties</ReturnType>
@@ -101,6 +104,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance</ReturnType>
@@ -133,6 +137,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -164,6 +169,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.StorageActions.Models.StorageTaskReportInstance</ReturnType>
@@ -196,6 +202,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -208,7 +215,7 @@
         <summary>
             Gets the data interchange format (JSON, Xml, etc) that the model uses when communicating with the service.
             </summary>
-        <returns>The format that the model uses when communicating with the serivce.</returns>
+        <returns>The format that the model uses when communicating with the service.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -225,6 +232,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.StorageActions</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>

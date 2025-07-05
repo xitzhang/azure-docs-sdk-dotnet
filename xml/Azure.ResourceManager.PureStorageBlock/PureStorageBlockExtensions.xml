@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -27,6 +28,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerResource</ReturnType>
@@ -58,6 +60,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerVolumeResource</ReturnType>
@@ -89,6 +92,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmResource</ReturnType>
@@ -120,6 +124,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmVolumeResource</ReturnType>
@@ -151,6 +156,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource&gt;</ReturnType>
@@ -166,7 +172,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStoragePool(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStoragePool(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -185,6 +191,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource&gt;&gt;</ReturnType>
@@ -200,7 +207,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a storage pool
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStoragePoolAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/storagePools/{storagePoolName}</description></item><item><term>Operation Id</term><description>StoragePool_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStoragePoolAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -219,6 +226,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource</ReturnType>
@@ -250,6 +258,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStoragePoolCollection</ReturnType>
@@ -278,6 +287,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource&gt;</ReturnType>
@@ -291,7 +301,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List storage pools by Azure subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/storagePools</description></item><item><term>Operation Id</term><description>StoragePool_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStoragePools(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/storagePools</description></item><item><term>Operation Id</term><description>StoragePool_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStoragePools(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> A collection of <see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -308,6 +318,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource&gt;</ReturnType>
@@ -321,7 +332,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List storage pools by Azure subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/storagePools</description></item><item><term>Operation Id</term><description>StoragePool_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStoragePools(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/storagePools</description></item><item><term>Operation Id</term><description>StoragePool_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStoragePools(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> An async collection of <see cref="T:Azure.ResourceManager.PureStorageBlock.PureStoragePoolResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -338,6 +349,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource&gt;</ReturnType>
@@ -353,7 +365,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStorageReservation(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStorageReservation(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -372,6 +384,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource&gt;&gt;</ReturnType>
@@ -387,7 +400,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a reservation
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStorageReservationAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/PureStorage.Block/reservations/{reservationName}</description></item><item><term>Operation Id</term><description>Reservation_Get</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockResourceGroupResource.GetPureStorageReservationAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -406,6 +419,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource</ReturnType>
@@ -437,6 +451,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageReservationCollection</ReturnType>
@@ -465,6 +480,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource&gt;</ReturnType>
@@ -478,7 +494,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List reservations by Azure subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/reservations</description></item><item><term>Operation Id</term><description>Reservation_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStorageReservations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/reservations</description></item><item><term>Operation Id</term><description>Reservation_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStorageReservations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> A collection of <see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -495,6 +511,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource&gt;</ReturnType>
@@ -508,7 +525,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List reservations by Azure subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/reservations</description></item><item><term>Operation Id</term><description>Reservation_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01-preview</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStorageReservations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/PureStorage.Block/reservations</description></item><item><term>Operation Id</term><description>Reservation_ListBySubscription</description></item><item><term>Default Api Version</term><description>2024-11-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.PureStorageBlock.Mocking.MockablePureStorageBlockSubscriptionResource.GetPureStorageReservations(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> An async collection of <see cref="T:Azure.ResourceManager.PureStorageBlock.PureStorageReservationResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">

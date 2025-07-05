@@ -17,6 +17,8 @@
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
     <AssemblyVersion>1.4.1.0</AssemblyVersion>
     <AssemblyVersion>1.4.2.0</AssemblyVersion>
+    <AssemblyVersion>1.4.3.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -36,8 +38,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Storage.Models.StorageAccountNameAvailabilityResult&gt;</ReturnType>
@@ -69,8 +71,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Storage.Models.StorageAccountNameAvailabilityResult&gt;&gt;</ReturnType>
@@ -102,8 +104,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.BlobContainerResource</ReturnType>
@@ -134,8 +136,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.BlobInventoryPolicyResource</ReturnType>
@@ -166,8 +168,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.BlobServiceResource</ReturnType>
@@ -198,8 +200,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Storage.DeletedAccountResource&gt;</ReturnType>
@@ -235,8 +237,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Storage.DeletedAccountResource&gt;&gt;</ReturnType>
@@ -272,8 +274,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.DeletedAccountResource</ReturnType>
@@ -304,8 +306,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.DeletedAccountCollection</ReturnType>
@@ -333,8 +335,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Storage.DeletedAccountResource&gt;</ReturnType>
@@ -364,8 +366,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Storage.DeletedAccountResource&gt;</ReturnType>
@@ -395,8 +397,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.EncryptionScopeResource</ReturnType>
@@ -427,8 +429,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.FileServiceResource</ReturnType>
@@ -459,14 +461,15 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.FileServiceUsageResource</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" Index="0" FrameworkAlternate="azure-dotnet" RefType="this" />
-        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
       </Parameters>
       <Docs>
         <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
@@ -490,8 +493,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.FileShareResource</ReturnType>
@@ -522,8 +525,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.ImmutabilityPolicyResource</ReturnType>
@@ -554,14 +557,15 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.NetworkSecurityPerimeterConfigurationResource</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" Index="0" FrameworkAlternate="azure-dotnet" RefType="this" />
-        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
       </Parameters>
       <Docs>
         <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
@@ -585,8 +589,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.ObjectReplicationPolicyResource</ReturnType>
@@ -617,8 +621,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.QueueServiceResource</ReturnType>
@@ -649,8 +653,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Storage.Models.StorageSkuInformation&gt;</ReturnType>
@@ -680,8 +684,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Storage.Models.StorageSkuInformation&gt;</ReturnType>
@@ -711,8 +715,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Storage.StorageAccountResource&gt;</ReturnType>
@@ -748,8 +752,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Storage.StorageAccountResource&gt;&gt;</ReturnType>
@@ -785,8 +789,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StorageAccountLocalUserResource</ReturnType>
@@ -817,8 +821,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StorageAccountManagementPolicyResource</ReturnType>
@@ -849,14 +853,15 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StorageAccountMigrationResource</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" Index="0" FrameworkAlternate="azure-dotnet" RefType="this" />
-        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
       </Parameters>
       <Docs>
         <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
@@ -880,8 +885,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StorageAccountResource</ReturnType>
@@ -912,8 +917,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StorageAccountCollection</ReturnType>
@@ -941,8 +946,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Storage.StorageAccountResource&gt;</ReturnType>
@@ -972,8 +977,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Storage.StorageAccountResource&gt;</ReturnType>
@@ -1003,8 +1008,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StoragePrivateEndpointConnectionResource</ReturnType>
@@ -1035,8 +1040,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StorageQueueResource</ReturnType>
@@ -1067,14 +1072,15 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.StorageTaskAssignmentResource</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" Index="0" FrameworkAlternate="azure-dotnet" RefType="this" />
-        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
       </Parameters>
       <Docs>
         <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
@@ -1098,8 +1104,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.TableResource</ReturnType>
@@ -1130,8 +1136,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.TableServiceResource</ReturnType>
@@ -1162,8 +1168,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Storage.Models.StorageUsage&gt;</ReturnType>
@@ -1195,8 +1201,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Storage.Models.StorageUsage&gt;</ReturnType>

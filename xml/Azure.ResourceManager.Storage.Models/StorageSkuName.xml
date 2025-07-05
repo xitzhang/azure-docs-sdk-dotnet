@@ -17,6 +17,8 @@
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
     <AssemblyVersion>1.4.1.0</AssemblyVersion>
     <AssemblyVersion>1.4.2.0</AssemblyVersion>
+    <AssemblyVersion>1.4.3.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -40,8 +42,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="value" Type="System.String" />
@@ -66,8 +68,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -92,8 +94,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -124,8 +126,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -152,8 +154,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -179,8 +181,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -204,8 +206,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -231,8 +233,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -252,7 +254,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -272,7 +275,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -292,8 +296,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -313,8 +317,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -334,8 +338,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -355,8 +359,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -376,8 +380,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -397,8 +401,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -418,7 +422,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -438,7 +443,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -458,7 +464,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -478,7 +485,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -498,8 +506,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Storage.Models.StorageSkuName</ReturnType>
@@ -519,8 +527,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

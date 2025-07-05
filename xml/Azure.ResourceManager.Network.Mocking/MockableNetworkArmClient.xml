@@ -13,6 +13,7 @@
     <AssemblyVersion>1.10.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.1.0</AssemblyVersion>
+    <AssemblyVersion>1.12.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -31,8 +32,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -49,8 +50,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.AdminRuleGroupResource</ReturnType>
@@ -77,8 +78,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ApplicationGatewayPrivateEndpointConnectionResource</ReturnType>
@@ -105,8 +106,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ApplicationGatewayResource</ReturnType>
@@ -133,8 +134,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ApplicationGatewayWafDynamicManifestResource</ReturnType>
@@ -161,8 +162,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ApplicationSecurityGroupResource</ReturnType>
@@ -189,8 +190,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.AzureFirewallResource</ReturnType>
@@ -217,8 +218,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.AzureWebCategoryResource</ReturnType>
@@ -245,8 +246,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.BackendAddressPoolResource</ReturnType>
@@ -273,8 +274,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.BaseAdminRuleResource</ReturnType>
@@ -301,8 +302,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.BastionHostResource</ReturnType>
@@ -329,8 +330,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.BgpConnectionResource</ReturnType>
@@ -357,8 +358,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.CloudServiceSwapResource</ReturnType>
@@ -385,8 +386,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ConnectionMonitorResource</ReturnType>
@@ -413,8 +414,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ConnectivityConfigurationResource</ReturnType>
@@ -441,8 +442,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.CustomIPPrefixResource</ReturnType>
@@ -469,8 +470,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.DdosCustomPolicyResource</ReturnType>
@@ -497,8 +498,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.DdosProtectionPlanResource</ReturnType>
@@ -525,8 +526,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.DefaultSecurityRuleResource</ReturnType>
@@ -553,8 +554,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.DscpConfigurationResource</ReturnType>
@@ -581,8 +582,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteCircuitAuthorizationResource</ReturnType>
@@ -609,8 +610,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteCircuitConnectionResource</ReturnType>
@@ -637,8 +638,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteCircuitPeeringResource</ReturnType>
@@ -665,8 +666,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteCircuitResource</ReturnType>
@@ -693,8 +694,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteConnectionResource</ReturnType>
@@ -721,8 +722,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteCrossConnectionPeeringResource</ReturnType>
@@ -749,8 +750,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteCrossConnectionResource</ReturnType>
@@ -777,8 +778,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteGatewayResource</ReturnType>
@@ -805,8 +806,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteLinkResource</ReturnType>
@@ -833,8 +834,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRoutePortAuthorizationResource</ReturnType>
@@ -861,8 +862,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRoutePortResource</ReturnType>
@@ -889,8 +890,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRoutePortsLocationResource</ReturnType>
@@ -917,8 +918,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ExpressRouteProviderPortResource</ReturnType>
@@ -945,8 +946,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.FirewallPolicyDraftResource</ReturnType>
@@ -973,8 +974,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.FirewallPolicyResource</ReturnType>
@@ -1001,8 +1002,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.FirewallPolicyRuleCollectionGroupDraftResource</ReturnType>
@@ -1029,8 +1030,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.FirewallPolicyRuleCollectionGroupResource</ReturnType>
@@ -1057,8 +1058,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.FlowLogResource</ReturnType>
@@ -1085,8 +1086,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.FrontendIPConfigurationResource</ReturnType>
@@ -1113,8 +1114,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.HubIPConfigurationResource</ReturnType>
@@ -1141,8 +1142,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.HubRouteTableResource</ReturnType>
@@ -1169,8 +1170,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.HubVirtualNetworkConnectionResource</ReturnType>
@@ -1197,8 +1198,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.InboundNatRuleResource</ReturnType>
@@ -1225,8 +1226,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.InboundSecurityRuleResource</ReturnType>
@@ -1253,8 +1254,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.IPAllocationResource</ReturnType>
@@ -1281,8 +1282,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.IpamPoolResource</ReturnType>
@@ -1309,8 +1310,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.IPGroupResource</ReturnType>
@@ -1337,8 +1338,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.LoadBalancerResource</ReturnType>
@@ -1365,8 +1366,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.LoadBalancingRuleResource</ReturnType>
@@ -1393,8 +1394,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.LocalNetworkGatewayResource</ReturnType>
@@ -1421,8 +1422,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ManagementGroupNetworkManagerConnectionResource</ReturnType>
@@ -1449,8 +1450,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NatGatewayResource</ReturnType>
@@ -1477,8 +1478,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkGroupResource</ReturnType>
@@ -1505,8 +1506,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkGroupStaticMemberResource</ReturnType>
@@ -1533,8 +1534,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkInterfaceIPConfigurationResource</ReturnType>
@@ -1561,8 +1562,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkInterfaceResource</ReturnType>
@@ -1589,8 +1590,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkInterfaceTapConfigurationResource</ReturnType>
@@ -1617,8 +1618,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkManagerResource</ReturnType>
@@ -1645,8 +1646,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkManagerRoutingConfigurationResource</ReturnType>
@@ -1673,8 +1674,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkManagerRoutingRuleResource</ReturnType>
@@ -1701,8 +1702,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkManagerRoutingRulesResource</ReturnType>
@@ -1729,8 +1730,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkManagerSecurityUserConfigurationResource</ReturnType>
@@ -1757,8 +1758,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkManagerSecurityUserRuleResource</ReturnType>
@@ -1785,8 +1786,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkManagerSecurityUserRulesResource</ReturnType>
@@ -1813,8 +1814,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkPrivateEndpointConnectionResource</ReturnType>
@@ -1841,8 +1842,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkProfileResource</ReturnType>
@@ -1869,8 +1870,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityGroupResource</ReturnType>
@@ -1897,8 +1898,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityPerimeterAccessRuleResource</ReturnType>
@@ -1925,8 +1926,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityPerimeterAssociationResource</ReturnType>
@@ -1953,8 +1954,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityPerimeterLinkReferenceResource</ReturnType>
@@ -1981,8 +1982,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityPerimeterLinkResource</ReturnType>
@@ -2009,8 +2010,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityPerimeterLoggingConfigurationResource</ReturnType>
@@ -2037,8 +2038,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityPerimeterProfileResource</ReturnType>
@@ -2065,8 +2066,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityPerimeterResource</ReturnType>
@@ -2093,8 +2094,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkVerifierWorkspaceResource</ReturnType>
@@ -2121,8 +2122,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkVirtualApplianceConnectionResource</ReturnType>
@@ -2149,8 +2150,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkVirtualApplianceResource</ReturnType>
@@ -2177,8 +2178,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkVirtualApplianceSkuResource</ReturnType>
@@ -2205,8 +2206,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkWatcherResource</ReturnType>
@@ -2233,8 +2234,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.OutboundRuleResource</ReturnType>
@@ -2261,8 +2262,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.P2SVpnGatewayResource</ReturnType>
@@ -2289,8 +2290,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PacketCaptureResource</ReturnType>
@@ -2317,8 +2318,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PeerExpressRouteCircuitConnectionResource</ReturnType>
@@ -2345,8 +2346,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PolicySignaturesOverridesForIdpsResource</ReturnType>
@@ -2373,8 +2374,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PrivateDnsZoneGroupResource</ReturnType>
@@ -2401,8 +2402,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PrivateEndpointResource</ReturnType>
@@ -2429,8 +2430,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PrivateLinkServiceResource</ReturnType>
@@ -2457,8 +2458,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ProbeResource</ReturnType>
@@ -2485,8 +2486,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PublicIPAddressResource</ReturnType>
@@ -2513,8 +2514,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.PublicIPPrefixResource</ReturnType>
@@ -2541,8 +2542,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ReachabilityAnalysisIntentResource</ReturnType>
@@ -2569,8 +2570,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ReachabilityAnalysisRunResource</ReturnType>
@@ -2597,8 +2598,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.RouteFilterResource</ReturnType>
@@ -2625,8 +2626,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.RouteFilterRuleResource</ReturnType>
@@ -2653,8 +2654,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.RouteMapResource</ReturnType>
@@ -2681,8 +2682,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.RouteResource</ReturnType>
@@ -2709,8 +2710,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.RouteTableResource</ReturnType>
@@ -2737,8 +2738,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.RoutingIntentResource</ReturnType>
@@ -2765,8 +2766,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ScopeConnectionResource</ReturnType>
@@ -2793,8 +2794,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.SecurityAdminConfigurationResource</ReturnType>
@@ -2821,8 +2822,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.SecurityPartnerProviderResource</ReturnType>
@@ -2849,8 +2850,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.SecurityRuleResource</ReturnType>
@@ -2877,8 +2878,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ServiceEndpointPolicyDefinitionResource</ReturnType>
@@ -2905,8 +2906,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.ServiceEndpointPolicyResource</ReturnType>
@@ -2933,8 +2934,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.StaticCidrResource</ReturnType>
@@ -2961,8 +2962,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.SubnetResource</ReturnType>
@@ -2989,8 +2990,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.SubscriptionNetworkManagerConnectionResource</ReturnType>
@@ -3017,8 +3018,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualApplianceSiteResource</ReturnType>
@@ -3045,8 +3046,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualHubResource</ReturnType>
@@ -3073,8 +3074,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualHubRouteTableV2Resource</ReturnType>
@@ -3101,8 +3102,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualMachineScaleSetNetworkResource</ReturnType>
@@ -3129,8 +3130,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualMachineScaleSetVmNetworkResource</ReturnType>
@@ -3157,8 +3158,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkGatewayConnectionResource</ReturnType>
@@ -3185,8 +3186,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkGatewayNatRuleResource</ReturnType>
@@ -3213,8 +3214,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkGatewayResource</ReturnType>
@@ -3241,8 +3242,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkPeeringResource</ReturnType>
@@ -3269,8 +3270,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkResource</ReturnType>
@@ -3297,8 +3298,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkTapResource</ReturnType>
@@ -3325,8 +3326,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualRouterPeeringResource</ReturnType>
@@ -3353,8 +3354,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualRouterResource</ReturnType>
@@ -3381,8 +3382,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualWanResource</ReturnType>
@@ -3409,8 +3410,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnConnectionResource</ReturnType>
@@ -3437,8 +3438,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnGatewayNatRuleResource</ReturnType>
@@ -3465,8 +3466,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnGatewayResource</ReturnType>
@@ -3493,8 +3494,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnLinkConnectionSharedKeyResource</ReturnType>
@@ -3521,8 +3522,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnServerConfigurationPolicyGroupResource</ReturnType>
@@ -3549,8 +3550,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnServerConfigurationResource</ReturnType>
@@ -3577,8 +3578,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnSiteLinkConnectionResource</ReturnType>
@@ -3605,8 +3606,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnSiteLinkResource</ReturnType>
@@ -3633,8 +3634,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VpnSiteResource</ReturnType>
@@ -3661,8 +3662,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.WebApplicationFirewallPolicyResource</ReturnType>

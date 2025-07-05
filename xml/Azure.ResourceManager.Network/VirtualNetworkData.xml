@@ -21,6 +21,7 @@
     <AssemblyVersion>1.10.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.1.0</AssemblyVersion>
+    <AssemblyVersion>1.12.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.Network.Models.NetworkTrackedResourceData</BaseTypeName>
@@ -52,8 +53,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -70,8 +71,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -91,8 +92,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.Models.VirtualNetworkAddressSpace</ReturnType>
@@ -112,8 +113,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.Models.VirtualNetworkBgpCommunities</ReturnType>
@@ -133,8 +134,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -155,6 +156,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -174,8 +176,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -195,8 +197,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
@@ -216,8 +218,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
@@ -237,8 +239,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.Models.VirtualNetworkEncryption</ReturnType>
@@ -258,8 +260,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ETag&gt;</ReturnType>
@@ -279,8 +281,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Resources.Models.ExtendedLocation</ReturnType>
@@ -300,8 +302,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Network.FlowLogData&gt;</ReturnType>
@@ -321,8 +323,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -342,8 +344,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Resources.Models.WritableSubResource&gt;</ReturnType>
@@ -363,8 +365,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -389,8 +391,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.Network.Models.PrivateEndpointVnetPolicy&gt;</ReturnType>
@@ -410,8 +412,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.Network.Models.NetworkProvisioningState&gt;</ReturnType>
@@ -431,8 +433,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Guid&gt;</ReturnType>
@@ -452,8 +454,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Network.SubnetData&gt;</ReturnType>
@@ -476,8 +478,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkData</ReturnType>
@@ -509,8 +511,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -541,8 +543,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.VirtualNetworkData</ReturnType>
@@ -574,8 +576,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -604,8 +606,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -632,8 +634,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Network.VirtualNetworkPeeringData&gt;</ReturnType>

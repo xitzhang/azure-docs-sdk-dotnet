@@ -10,6 +10,8 @@
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
     <AssemblyVersion>1.4.1.0</AssemblyVersion>
     <AssemblyVersion>1.4.2.0</AssemblyVersion>
+    <AssemblyVersion>1.4.3.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmCollection</BaseTypeName>
@@ -32,7 +34,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -49,7 +52,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;System.Boolean&gt;</ReturnType>
@@ -77,7 +81,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;System.Boolean&gt;&gt;</ReturnType>
@@ -105,7 +110,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Storage.StorageAccountMigrationResource&gt;</ReturnType>
@@ -133,7 +139,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Storage.StorageAccountMigrationResource&gt;&gt;</ReturnType>
@@ -161,7 +168,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.NullableResponse&lt;Azure.ResourceManager.Storage.StorageAccountMigrationResource&gt;</ReturnType>
@@ -189,7 +197,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Storage</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
+        <AssemblyVersion>1.4.3.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.NullableResponse&lt;Azure.ResourceManager.Storage.StorageAccountMigrationResource&gt;&gt;</ReturnType>

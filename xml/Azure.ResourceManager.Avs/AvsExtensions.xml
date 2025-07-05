@@ -12,6 +12,8 @@
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
     <AssemblyVersion>1.3.0.0</AssemblyVersion>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
+    <AssemblyVersion>1.6.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -31,8 +33,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Avs.Models.AvsSubscriptionQuotaAvailabilityResult&gt;</ReturnType>
@@ -44,11 +46,11 @@
       </Parameters>
       <Docs>
         <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
-        <param name="location"> The name of the Azure region. </param>
+        <param name="location"> A location in a subscription. </param>
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Return quota for subscription by region
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkQuotaAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckQuotaAvailability</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsQuotaAvailability(Azure.Core.AzureLocation,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkQuotaAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckAvsQuotaAvailability</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsQuotaAvailability(Azure.Core.AzureLocation,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -64,8 +66,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Avs.Models.AvsSubscriptionQuotaAvailabilityResult&gt;&gt;</ReturnType>
@@ -77,11 +79,11 @@
       </Parameters>
       <Docs>
         <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
-        <param name="location"> The name of the Azure region. </param>
+        <param name="location"> A location in a subscription. </param>
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Return quota for subscription by region
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkQuotaAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckQuotaAvailability</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsQuotaAvailability(Azure.Core.AzureLocation,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkQuotaAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckAvsQuotaAvailability</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsQuotaAvailability(Azure.Core.AzureLocation,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -97,11 +99,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet">
+        <Attribute>
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -134,8 +136,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Avs.Models.AvsSubscriptionTrialAvailabilityResult&gt;</ReturnType>
@@ -148,12 +150,12 @@
       </Parameters>
       <Docs>
         <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
-        <param name="location"> The name of the Azure region. </param>
+        <param name="location"> A location in a subscription. </param>
         <param name="sku"> Optionally, check for a specific SKU. </param>
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Return trial status for subscription by region
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkTrialAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckTrialAvailability</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsTrialAvailability(Azure.Core.AzureLocation,Azure.ResourceManager.Avs.Models.AvsSku,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkTrialAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckAvsTrialAvailability</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsTrialAvailability(Azure.Core.AzureLocation,Azure.ResourceManager.Avs.Models.AvsSku,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -169,11 +171,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet">
+        <Attribute>
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -206,8 +208,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Avs.Models.AvsSubscriptionTrialAvailabilityResult&gt;&gt;</ReturnType>
@@ -220,12 +222,12 @@
       </Parameters>
       <Docs>
         <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
-        <param name="location"> The name of the Azure region. </param>
+        <param name="location"> A location in a subscription. </param>
         <param name="sku"> Optionally, check for a specific SKU. </param>
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Return trial status for subscription by region
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkTrialAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckTrialAvailability</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsTrialAvailability(Azure.Core.AzureLocation,Azure.ResourceManager.Avs.Models.AvsSku,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/locations/{location}/checkTrialAvailability</description></item><item><term>Operation Id</term><description>Locations_CheckAvsTrialAvailability</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.CheckAvsTrialAvailability(Azure.Core.AzureLocation,Azure.ResourceManager.Avs.Models.AvsSku,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -241,8 +243,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.AvsCloudLinkResource</ReturnType>
@@ -264,6 +266,38 @@
           <paramref name="client" /> is null. </exception>
       </Docs>
     </Member>
+    <Member MemberName="GetAvsHostResource">
+      <MemberSignature Language="C#" Value="public static Azure.ResourceManager.Avs.AvsHostResource GetAvsHostResource (this Azure.ResourceManager.ArmClient client, Azure.Core.ResourceIdentifier id);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.ResourceManager.Avs.AvsHostResource GetAvsHostResource(class Azure.ResourceManager.ArmClient client, class Azure.Core.ResourceIdentifier id) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.Avs.AvsExtensions.GetAvsHostResource(Azure.ResourceManager.ArmClient,Azure.Core.ResourceIdentifier)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetAvsHostResource (client As ArmClient, id As ResourceIdentifier) As AvsHostResource" />
+      <MemberSignature Language="F#" Value="static member GetAvsHostResource : Azure.ResourceManager.ArmClient * Azure.Core.ResourceIdentifier -&gt; Azure.ResourceManager.Avs.AvsHostResource" Usage="Azure.ResourceManager.Avs.AvsExtensions.GetAvsHostResource (client, id)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.ResourceManager.Avs.AvsHostResource</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
+      </Parameters>
+      <Docs>
+        <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
+        <param name="id"> The resource ID of the resource to get. </param>
+        <summary>
+            Gets an object representing an <see cref="T:Azure.ResourceManager.Avs.AvsHostResource" /> along with the instance operations that can be performed on it but with no data.
+            You can use <see cref="M:Azure.ResourceManager.Avs.AvsHostResource.CreateResourceIdentifier(System.String,System.String,System.String,System.String,System.String)" /> to create an <see cref="T:Azure.ResourceManager.Avs.AvsHostResource" /><see cref="T:Azure.Core.ResourceIdentifier" /> from its components.
+            <item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsArmClient.GetAvsHostResource(Azure.Core.ResourceIdentifier)" /> instead.</description></item></summary>
+        <returns> Returns a <see cref="T:Azure.ResourceManager.Avs.AvsHostResource" /> object. </returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentNullException">
+          <paramref name="client" /> is null. </exception>
+      </Docs>
+    </Member>
     <Member MemberName="GetAvsPrivateCloud">
       <MemberSignature Language="C#" Value="public static Azure.Response&lt;Azure.ResourceManager.Avs.AvsPrivateCloudResource&gt; GetAvsPrivateCloud (this Azure.ResourceManager.Resources.ResourceGroupResource resourceGroupResource, string privateCloudName, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Response`1&lt;class Azure.ResourceManager.Avs.AvsPrivateCloudResource&gt; GetAvsPrivateCloud(class Azure.ResourceManager.Resources.ResourceGroupResource resourceGroupResource, string privateCloudName, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
@@ -273,8 +307,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Avs.AvsPrivateCloudResource&gt;</ReturnType>
@@ -290,7 +324,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a PrivateCloud
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}</description></item><item><term>Operation Id</term><description>PrivateClouds_Get</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsResourceGroupResource.GetAvsPrivateCloud(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}</description></item><item><term>Operation Id</term><description>PrivateCloud_Get</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsResourceGroupResource.GetAvsPrivateCloud(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -308,8 +342,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.AvsPrivateCloudAddonResource</ReturnType>
@@ -340,8 +374,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Avs.AvsPrivateCloudResource&gt;&gt;</ReturnType>
@@ -357,7 +391,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a PrivateCloud
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}</description></item><item><term>Operation Id</term><description>PrivateClouds_Get</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsResourceGroupResource.GetAvsPrivateCloudAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}</description></item><item><term>Operation Id</term><description>PrivateCloud_Get</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsResourceGroupResource.GetAvsPrivateCloudAsync(System.String,System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -375,8 +409,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.AvsPrivateCloudClusterResource</ReturnType>
@@ -407,8 +441,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.AvsPrivateCloudClusterVirtualMachineResource</ReturnType>
@@ -439,8 +473,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.AvsPrivateCloudDatastoreResource</ReturnType>
@@ -471,8 +505,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.AvsPrivateCloudResource</ReturnType>
@@ -503,8 +537,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.AvsPrivateCloudCollection</ReturnType>
@@ -532,8 +566,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Avs.AvsPrivateCloudResource&gt;</ReturnType>
@@ -547,7 +581,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List PrivateCloud resources by subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/privateClouds</description></item><item><term>Operation Id</term><description>PrivateClouds_ListInSubscription</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.GetAvsPrivateClouds(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/privateClouds</description></item><item><term>Operation Id</term><description>PrivateCloud_ListInSubscription</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.GetAvsPrivateClouds(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> A collection of <see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -563,8 +597,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Avs.AvsPrivateCloudResource&gt;</ReturnType>
@@ -578,8 +612,134 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             List PrivateCloud resources by subscription ID
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/privateClouds</description></item><item><term>Operation Id</term><description>PrivateClouds_ListInSubscription</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.GetAvsPrivateClouds(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/privateClouds</description></item><item><term>Operation Id</term><description>PrivateCloud_ListInSubscription</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /></description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.GetAvsPrivateClouds(System.Threading.CancellationToken)" /> instead.</description></item></summary>
         <returns> An async collection of <see cref="T:Azure.ResourceManager.Avs.AvsPrivateCloudResource" /> that may take multiple service requests to iterate over. </returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentNullException">
+          <paramref name="subscriptionResource" /> is null. </exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetAvsProvisionedNetworkResource">
+      <MemberSignature Language="C#" Value="public static Azure.ResourceManager.Avs.AvsProvisionedNetworkResource GetAvsProvisionedNetworkResource (this Azure.ResourceManager.ArmClient client, Azure.Core.ResourceIdentifier id);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.ResourceManager.Avs.AvsProvisionedNetworkResource GetAvsProvisionedNetworkResource(class Azure.ResourceManager.ArmClient client, class Azure.Core.ResourceIdentifier id) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.Avs.AvsExtensions.GetAvsProvisionedNetworkResource(Azure.ResourceManager.ArmClient,Azure.Core.ResourceIdentifier)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetAvsProvisionedNetworkResource (client As ArmClient, id As ResourceIdentifier) As AvsProvisionedNetworkResource" />
+      <MemberSignature Language="F#" Value="static member GetAvsProvisionedNetworkResource : Azure.ResourceManager.ArmClient * Azure.Core.ResourceIdentifier -&gt; Azure.ResourceManager.Avs.AvsProvisionedNetworkResource" Usage="Azure.ResourceManager.Avs.AvsExtensions.GetAvsProvisionedNetworkResource (client, id)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.ResourceManager.Avs.AvsProvisionedNetworkResource</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
+      </Parameters>
+      <Docs>
+        <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
+        <param name="id"> The resource ID of the resource to get. </param>
+        <summary>
+            Gets an object representing an <see cref="T:Azure.ResourceManager.Avs.AvsProvisionedNetworkResource" /> along with the instance operations that can be performed on it but with no data.
+            You can use <see cref="M:Azure.ResourceManager.Avs.AvsProvisionedNetworkResource.CreateResourceIdentifier(System.String,System.String,System.String,System.String)" /> to create an <see cref="T:Azure.ResourceManager.Avs.AvsProvisionedNetworkResource" /><see cref="T:Azure.Core.ResourceIdentifier" /> from its components.
+            <item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsArmClient.GetAvsProvisionedNetworkResource(Azure.Core.ResourceIdentifier)" /> instead.</description></item></summary>
+        <returns> Returns a <see cref="T:Azure.ResourceManager.Avs.AvsProvisionedNetworkResource" /> object. </returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentNullException">
+          <paramref name="client" /> is null. </exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetAvsPureStoragePolicyResource">
+      <MemberSignature Language="C#" Value="public static Azure.ResourceManager.Avs.AvsPureStoragePolicyResource GetAvsPureStoragePolicyResource (this Azure.ResourceManager.ArmClient client, Azure.Core.ResourceIdentifier id);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.ResourceManager.Avs.AvsPureStoragePolicyResource GetAvsPureStoragePolicyResource(class Azure.ResourceManager.ArmClient client, class Azure.Core.ResourceIdentifier id) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.Avs.AvsExtensions.GetAvsPureStoragePolicyResource(Azure.ResourceManager.ArmClient,Azure.Core.ResourceIdentifier)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetAvsPureStoragePolicyResource (client As ArmClient, id As ResourceIdentifier) As AvsPureStoragePolicyResource" />
+      <MemberSignature Language="F#" Value="static member GetAvsPureStoragePolicyResource : Azure.ResourceManager.ArmClient * Azure.Core.ResourceIdentifier -&gt; Azure.ResourceManager.Avs.AvsPureStoragePolicyResource" Usage="Azure.ResourceManager.Avs.AvsExtensions.GetAvsPureStoragePolicyResource (client, id)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.ResourceManager.Avs.AvsPureStoragePolicyResource</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
+      </Parameters>
+      <Docs>
+        <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
+        <param name="id"> The resource ID of the resource to get. </param>
+        <summary>
+            Gets an object representing an <see cref="T:Azure.ResourceManager.Avs.AvsPureStoragePolicyResource" /> along with the instance operations that can be performed on it but with no data.
+            You can use <see cref="M:Azure.ResourceManager.Avs.AvsPureStoragePolicyResource.CreateResourceIdentifier(System.String,System.String,System.String,System.String)" /> to create an <see cref="T:Azure.ResourceManager.Avs.AvsPureStoragePolicyResource" /><see cref="T:Azure.Core.ResourceIdentifier" /> from its components.
+            <item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsArmClient.GetAvsPureStoragePolicyResource(Azure.Core.ResourceIdentifier)" /> instead.</description></item></summary>
+        <returns> Returns a <see cref="T:Azure.ResourceManager.Avs.AvsPureStoragePolicyResource" /> object. </returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentNullException">
+          <paramref name="client" /> is null. </exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetAvsSkus">
+      <MemberSignature Language="C#" Value="public static Azure.Pageable&lt;Azure.ResourceManager.Avs.Models.AvsResourceSku&gt; GetAvsSkus (this Azure.ResourceManager.Resources.SubscriptionResource subscriptionResource, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Pageable`1&lt;class Azure.ResourceManager.Avs.Models.AvsResourceSku&gt; GetAvsSkus(class Azure.ResourceManager.Resources.SubscriptionResource subscriptionResource, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.Avs.AvsExtensions.GetAvsSkus(Azure.ResourceManager.Resources.SubscriptionResource,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetAvsSkus (subscriptionResource As SubscriptionResource, Optional cancellationToken As CancellationToken = Nothing) As Pageable(Of AvsResourceSku)" />
+      <MemberSignature Language="F#" Value="static member GetAvsSkus : Azure.ResourceManager.Resources.SubscriptionResource * System.Threading.CancellationToken -&gt; Azure.Pageable&lt;Azure.ResourceManager.Avs.Models.AvsResourceSku&gt;" Usage="Azure.ResourceManager.Avs.AvsExtensions.GetAvsSkus (subscriptionResource, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Avs.Models.AvsResourceSku&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="subscriptionResource" Type="Azure.ResourceManager.Resources.SubscriptionResource" RefType="this" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+      </Parameters>
+      <Docs>
+        <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
+        <param name="cancellationToken"> The cancellation token to use. </param>
+        <summary>
+            A list of SKUs.
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/skus</description></item><item><term>Operation Id</term><description>Skus_GetAvsSkus</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.GetAvsSkus(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+        <returns> A collection of <see cref="T:Azure.ResourceManager.Avs.Models.AvsResourceSku" /> that may take multiple service requests to iterate over. </returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentNullException">
+          <paramref name="subscriptionResource" /> is null. </exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetAvsSkusAsync">
+      <MemberSignature Language="C#" Value="public static Azure.AsyncPageable&lt;Azure.ResourceManager.Avs.Models.AvsResourceSku&gt; GetAvsSkusAsync (this Azure.ResourceManager.Resources.SubscriptionResource subscriptionResource, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.AsyncPageable`1&lt;class Azure.ResourceManager.Avs.Models.AvsResourceSku&gt; GetAvsSkusAsync(class Azure.ResourceManager.Resources.SubscriptionResource subscriptionResource, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.Avs.AvsExtensions.GetAvsSkusAsync(Azure.ResourceManager.Resources.SubscriptionResource,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetAvsSkusAsync (subscriptionResource As SubscriptionResource, Optional cancellationToken As CancellationToken = Nothing) As AsyncPageable(Of AvsResourceSku)" />
+      <MemberSignature Language="F#" Value="static member GetAvsSkusAsync : Azure.ResourceManager.Resources.SubscriptionResource * System.Threading.CancellationToken -&gt; Azure.AsyncPageable&lt;Azure.ResourceManager.Avs.Models.AvsResourceSku&gt;" Usage="Azure.ResourceManager.Avs.AvsExtensions.GetAvsSkusAsync (subscriptionResource, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Avs.Models.AvsResourceSku&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="subscriptionResource" Type="Azure.ResourceManager.Resources.SubscriptionResource" RefType="this" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+      </Parameters>
+      <Docs>
+        <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
+        <param name="cancellationToken"> The cancellation token to use. </param>
+        <summary>
+            A list of SKUs.
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/providers/Microsoft.AVS/skus</description></item><item><term>Operation Id</term><description>Skus_GetAvsSkus</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item></list><item><term>Mocking</term><description>To mock this method, please mock <see cref="M:Azure.ResourceManager.Avs.Mocking.MockableAvsSubscriptionResource.GetAvsSkus(System.Threading.CancellationToken)" /> instead.</description></item></summary>
+        <returns> An async collection of <see cref="T:Azure.ResourceManager.Avs.Models.AvsResourceSku" /> that may take multiple service requests to iterate over. </returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
           <paramref name="subscriptionResource" /> is null. </exception>
@@ -594,8 +754,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.ExpressRouteAuthorizationResource</ReturnType>
@@ -626,8 +786,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.GlobalReachConnectionResource</ReturnType>
@@ -658,8 +818,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.HcxEnterpriseSiteResource</ReturnType>
@@ -690,14 +850,15 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.IscsiPathResource</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" Index="0" FrameworkAlternate="azure-dotnet" RefType="this" />
-        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="client" Type="Azure.ResourceManager.ArmClient" RefType="this" />
+        <Parameter Name="id" Type="Azure.Core.ResourceIdentifier" />
       </Parameters>
       <Docs>
         <param name="client"> The <see cref="T:Azure.ResourceManager.ArmClient" /> instance the method will execute against. </param>
@@ -721,8 +882,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.PlacementPolicyResource</ReturnType>
@@ -753,8 +914,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.ScriptCmdletResource</ReturnType>
@@ -785,8 +946,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.ScriptExecutionResource</ReturnType>
@@ -817,8 +978,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.ScriptPackageResource</ReturnType>
@@ -849,8 +1010,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkDhcpResource</ReturnType>
@@ -881,8 +1042,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkDnsServiceResource</ReturnType>
@@ -913,8 +1074,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkDnsZoneResource</ReturnType>
@@ -945,8 +1106,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkGatewayResource</ReturnType>
@@ -977,8 +1138,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkPortMirroringProfileResource</ReturnType>
@@ -1009,8 +1170,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkPublicIPResource</ReturnType>
@@ -1041,8 +1202,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkResource</ReturnType>
@@ -1073,8 +1234,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkSegmentResource</ReturnType>
@@ -1105,8 +1266,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkVirtualMachineResource</ReturnType>
@@ -1137,8 +1298,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.WorkloadNetworkVmGroupResource</ReturnType>

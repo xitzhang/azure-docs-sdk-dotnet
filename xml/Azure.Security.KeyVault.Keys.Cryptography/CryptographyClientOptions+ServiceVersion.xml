@@ -15,6 +15,7 @@
     <AssemblyVersion>4.6.0.0</AssemblyVersion>
     <AssemblyVersion>4.7.0.0</AssemblyVersion>
     <AssemblyVersion>4.8.0.0</AssemblyVersion>
+    <AssemblyVersion>4.9.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
@@ -37,6 +38,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>
@@ -58,6 +60,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>
@@ -79,6 +82,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>
@@ -100,6 +104,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>
@@ -121,6 +126,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>
@@ -142,6 +148,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>
@@ -163,27 +170,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <ReturnValue>
-        <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>
-      </ReturnValue>
-      <MemberValue>6</MemberValue>
-      <Docs>
-        <summary>
-            The Key Vault API version 7.6-preview.2.
-            </summary>
-      </Docs>
-    </Member>
-    <Member MemberName="V7_6_Preview_2">
-      <MemberSignature Language="C#" Value="V7_6_Preview_2" />
-      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions/ServiceVersion V7_6_Preview_2 = int32(6)" />
-      <MemberSignature Language="DocId" Value="F:Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions.ServiceVersion.V7_6_Preview_2" />
-      <MemberSignature Language="VB.NET" Value="V7_6_Preview_2" />
-      <MemberSignature Language="F#" Value="V7_6_Preview_2 = 6" Usage="Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions.ServiceVersion.V7_6_Preview_2" />
-      <MemberType>Field</MemberType>
-      <AssemblyInfo>
-        <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.CryptographyClientOptions+ServiceVersion</ReturnType>

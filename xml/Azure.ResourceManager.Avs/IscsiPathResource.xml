@@ -7,6 +7,8 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
+    <AssemblyVersion>1.6.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -40,7 +42,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -57,7 +60,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Avs.IscsiPathResource&gt;</ReturnType>
@@ -74,7 +78,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Create a IscsiPath
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPaths_CreateOrUpdate</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPath_CreateOrUpdate</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -90,7 +94,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Avs.IscsiPathResource&gt;&gt;</ReturnType>
@@ -107,7 +112,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Create a IscsiPath
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPaths_CreateOrUpdate</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPath_CreateOrUpdate</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -123,7 +128,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -151,7 +157,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.IscsiPathData</ReturnType>
@@ -172,7 +179,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation</ReturnType>
@@ -187,7 +195,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete a IscsiPath
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPaths_Delete</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPath_Delete</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -201,7 +209,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt;</ReturnType>
@@ -216,7 +225,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Delete a IscsiPath
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPaths_Delete</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPath_Delete</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -230,7 +239,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Avs.IscsiPathResource&gt;</ReturnType>
@@ -242,7 +252,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a IscsiPath
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPaths_Get</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPath_Get</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -256,7 +266,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Avs.IscsiPathResource&gt;&gt;</ReturnType>
@@ -268,7 +279,7 @@
         <param name="cancellationToken"> The cancellation token to use. </param>
         <summary>
             Get a IscsiPath
-            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPaths_Get</description></item><item><term>Default Api Version</term><description>2023-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
+            <list type="bullet"><item><term>Request Path</term><description>/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AVS/privateClouds/{privateCloudName}/iscsiPaths/default</description></item><item><term>Operation Id</term><description>IscsiPath_Get</description></item><item><term>Default Api Version</term><description>2024-09-01</description></item><item><term>Resource</term><description><see cref="T:Azure.ResourceManager.Avs.IscsiPathResource" /></description></item></list></summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -282,7 +293,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -302,7 +314,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceType</ReturnType>
@@ -324,7 +337,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.IscsiPathData</ReturnType>
@@ -356,7 +370,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -387,7 +402,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Avs.IscsiPathData</ReturnType>
@@ -419,7 +435,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -432,7 +449,7 @@
         <summary>
             Gets the data interchange format (JSON, Xml, etc) that the model uses when communicating with the service.
             </summary>
-        <returns>The format that the model uses when communicating with the serivce.</returns>
+        <returns>The format that the model uses when communicating with the service.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -448,7 +465,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Avs</AssemblyName>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>

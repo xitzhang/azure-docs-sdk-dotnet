@@ -10,6 +10,7 @@
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -44,6 +45,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -61,6 +63,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -93,6 +96,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;</ReturnType>
@@ -125,6 +129,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -153,6 +158,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceData</ReturnType>
@@ -174,6 +180,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;</ReturnType>
@@ -203,6 +210,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt;</ReturnType>
@@ -232,6 +240,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;</ReturnType>
@@ -263,6 +272,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt;</ReturnType>
@@ -294,6 +304,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -320,6 +331,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;</ReturnType>
@@ -346,6 +358,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -366,6 +379,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -396,6 +410,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;</ReturnType>
@@ -426,6 +441,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceType</ReturnType>
@@ -445,6 +461,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -475,6 +492,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;</ReturnType>
@@ -508,6 +526,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceData</ReturnType>
@@ -540,6 +559,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -571,6 +591,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceData</ReturnType>
@@ -603,6 +624,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -632,6 +654,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -650,17 +673,16 @@
       </Docs>
     </Member>
     <Member MemberName="Update">
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt; Update (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt; Update (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.ResourceManager.ArmOperation`1&lt;class Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt; Update(valuetype Azure.WaitUntil waitUntil, class Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource.Update(Azure.WaitUntil,Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function Update (waitUntil As WaitUntil, patch As NetworkCloudStorageAppliancePatch, cancellationToken As CancellationToken) As ArmOperation(Of NetworkCloudStorageApplianceResource)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function Update (waitUntil As WaitUntil, patch As NetworkCloudStorageAppliancePatch, cancellationToken As CancellationToken) As ArmOperation(Of NetworkCloudStorageApplianceResource)" />
       <MemberSignature Language="F#" Value="abstract member Update : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&#xA;override this.Update : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;" Usage="networkCloudStorageApplianceResource.Update (waitUntil, patch, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt; Update (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function Update (waitUntil As WaitUntil, patch As NetworkCloudStorageAppliancePatch, Optional cancellationToken As CancellationToken = Nothing) As ArmOperation(Of NetworkCloudStorageApplianceResource)" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -694,16 +716,17 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="waitUntil" Type="Azure.WaitUntil" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifMatch" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifNoneMatch" Type="System.String" Index="3" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="4" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="waitUntil" Type="Azure.WaitUntil" />
+        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch" />
+        <Parameter Name="ifMatch" Type="System.String" />
+        <Parameter Name="ifNoneMatch" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="waitUntil">
@@ -722,17 +745,16 @@
       </Docs>
     </Member>
     <Member MemberName="UpdateAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt; UpdateAsync (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt; UpdateAsync (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.ResourceManager.ArmOperation`1&lt;class Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt; UpdateAsync(valuetype Azure.WaitUntil waitUntil, class Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource.UpdateAsync(Azure.WaitUntil,Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function UpdateAsync (waitUntil As WaitUntil, patch As NetworkCloudStorageAppliancePatch, cancellationToken As CancellationToken) As Task(Of ArmOperation(Of NetworkCloudStorageApplianceResource))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function UpdateAsync (waitUntil As WaitUntil, patch As NetworkCloudStorageAppliancePatch, cancellationToken As CancellationToken) As Task(Of ArmOperation(Of NetworkCloudStorageApplianceResource))" />
       <MemberSignature Language="F#" Value="abstract member UpdateAsync : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;&#xA;override this.UpdateAsync : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;" Usage="networkCloudStorageApplianceResource.UpdateAsync (waitUntil, patch, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt; UpdateAsync (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch patch, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function UpdateAsync (waitUntil As WaitUntil, patch As NetworkCloudStorageAppliancePatch, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ArmOperation(Of NetworkCloudStorageApplianceResource))" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;</ReturnType>
@@ -766,16 +788,17 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="waitUntil" Type="Azure.WaitUntil" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifMatch" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifNoneMatch" Type="System.String" Index="3" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="4" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="waitUntil" Type="Azure.WaitUntil" />
+        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudStorageAppliancePatch" />
+        <Parameter Name="ifMatch" Type="System.String" />
+        <Parameter Name="ifNoneMatch" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="waitUntil">

@@ -15,6 +15,7 @@
     <AssemblyVersion>4.6.0.0</AssemblyVersion>
     <AssemblyVersion>4.7.0.0</AssemblyVersion>
     <AssemblyVersion>4.8.0.0</AssemblyVersion>
+    <AssemblyVersion>4.9.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Operation&lt;Azure.Security.KeyVault.Keys.KeyVaultKey&gt;</BaseTypeName>
@@ -39,6 +40,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -56,6 +58,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -84,6 +87,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -107,6 +111,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -130,6 +135,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -155,6 +161,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -184,6 +191,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.ValueTask&lt;Azure.Response&gt;</ReturnType>
@@ -213,6 +221,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.KeyVaultKey</ReturnType>
@@ -238,6 +247,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.ValueTask&lt;Azure.Response&lt;Azure.Security.KeyVault.Keys.KeyVaultKey&gt;&gt;</ReturnType>
@@ -267,6 +277,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.ValueTask&lt;Azure.Response&lt;Azure.Security.KeyVault.Keys.KeyVaultKey&gt;&gt;</ReturnType>

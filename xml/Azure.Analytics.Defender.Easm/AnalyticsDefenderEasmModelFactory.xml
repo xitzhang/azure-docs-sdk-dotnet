@@ -197,7 +197,11 @@
         <param name="totalElements"> The total number of items available in the full result set. </param>
         <param name="mark"> The cursor mark to be used on the next request.  Not set if using paging. </param>
         <param name="nextLink"> The link to access the next page of results.  Not set if at the end of the result set. </param>
-        <param name="value"> The items in the current page of results. </param>
+        <param name="value">
+            The items in the current page of results.
+            Please note <see cref="T:Azure.Analytics.Defender.Easm.AssetResource" /> is the base class. According to the scenario, a derived class of the base class might need to be assigned here, or this property needs to be casted to one of the possible derived classes.
+            The available derived classes include <see cref="T:Azure.Analytics.Defender.Easm.AsAssetResource" />, <see cref="T:Azure.Analytics.Defender.Easm.ContactAssetResource" />, <see cref="T:Azure.Analytics.Defender.Easm.DomainAssetResource" />, <see cref="T:Azure.Analytics.Defender.Easm.HostAssetResource" />, <see cref="T:Azure.Analytics.Defender.Easm.IpAddressAssetResource" />, <see cref="T:Azure.Analytics.Defender.Easm.IpBlockAssetResource" />, <see cref="T:Azure.Analytics.Defender.Easm.PageAssetResource" /> and <see cref="T:Azure.Analytics.Defender.Easm.SslCertAssetResource" />.
+            </param>
         <summary> Initializes a new instance of <see cref="T:Azure.Analytics.Defender.Easm.AssetPageResult" />. </summary>
         <returns> A new <see cref="T:Azure.Analytics.Defender.Easm.AssetPageResult" /> instance for mocking. </returns>
         <remarks>To be added.</remarks>
@@ -234,7 +238,7 @@
         <Parameter Name="reason" Type="System.String" />
       </Parameters>
       <Docs>
-        <param name="kind"> Discriminator. </param>
+        <param name="kind"> Discriminator property for AssetResource. </param>
         <param name="id"> The system generated unique id for the resource. </param>
         <param name="name"> The caller provided unique name for the resource. </param>
         <param name="displayName"> The name that can be used for display purposes. </param>
@@ -802,7 +806,7 @@
         <Parameter Name="inactiveMessage" Type="System.String" />
       </Parameters>
       <Docs>
-        <param name="kind"> Discriminator. </param>
+        <param name="kind"> Discriminator property for DataConnection. </param>
         <param name="id"> The system generated unique id for the resource. </param>
         <param name="name"> The caller provided unique name for the resource. </param>
         <param name="displayName"> The name that can be used for display purposes. </param>
@@ -1450,11 +1454,11 @@
       </Docs>
     </Member>
     <Member MemberName="InnerError">
-      <MemberSignature Language="C#" Value="public static Azure.Analytics.Defender.Easm.InnerError InnerError (string code = default, BinaryData value = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Analytics.Defender.Easm.InnerError InnerError(string code, class System.BinaryData value) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.Analytics.Defender.Easm.AnalyticsDefenderEasmModelFactory.InnerError(System.String,System.BinaryData)" />
-      <MemberSignature Language="VB.NET" Value="Public Shared Function InnerError (Optional code As String = Nothing, Optional value As BinaryData = Nothing) As InnerError" />
-      <MemberSignature Language="F#" Value="static member InnerError : string * BinaryData -&gt; Azure.Analytics.Defender.Easm.InnerError" Usage="Azure.Analytics.Defender.Easm.AnalyticsDefenderEasmModelFactory.InnerError (code, value)" />
+      <MemberSignature Language="C#" Value="public static Azure.Analytics.Defender.Easm.InnerError InnerError (string code = default, Azure.Analytics.Defender.Easm.InnerError innererror = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Analytics.Defender.Easm.InnerError InnerError(string code, class Azure.Analytics.Defender.Easm.InnerError innererror) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Analytics.Defender.Easm.AnalyticsDefenderEasmModelFactory.InnerError(System.String,Azure.Analytics.Defender.Easm.InnerError)" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Function InnerError (Optional code As String = Nothing, Optional innererror As InnerError = Nothing) As InnerError" />
+      <MemberSignature Language="F#" Value="static member InnerError : string * Azure.Analytics.Defender.Easm.InnerError -&gt; Azure.Analytics.Defender.Easm.InnerError" Usage="Azure.Analytics.Defender.Easm.AnalyticsDefenderEasmModelFactory.InnerError (code, innererror)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Analytics.Defender.Easm</AssemblyName>
@@ -1465,11 +1469,11 @@
       </ReturnValue>
       <Parameters>
         <Parameter Name="code" Type="System.String" />
-        <Parameter Name="value" Type="System.BinaryData" />
+        <Parameter Name="innererror" Type="Azure.Analytics.Defender.Easm.InnerError" />
       </Parameters>
       <Docs>
-        <param name="code"> This is a more specific error code than was provided by the containing error. </param>
-        <param name="value"> This is an additional field representing the value that caused the error to help with debugging. </param>
+        <param name="code"> One of a server-defined set of error codes. </param>
+        <param name="innererror"> Inner error. </param>
         <summary> Initializes a new instance of <see cref="T:Azure.Analytics.Defender.Easm.InnerError" />. </summary>
         <returns> A new <see cref="T:Azure.Analytics.Defender.Easm.InnerError" /> instance for mocking. </returns>
         <remarks>To be added.</remarks>

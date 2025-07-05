@@ -18,6 +18,8 @@
     <AssemblyVersion>1.7.0.0</AssemblyVersion>
     <AssemblyVersion>1.8.0.0</AssemblyVersion>
     <AssemblyVersion>1.9.0.0</AssemblyVersion>
+    <AssemblyVersion>1.10.0.0</AssemblyVersion>
+    <AssemblyVersion>1.11.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -37,7 +39,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Compute.Models.LogAnalytics&gt;</ReturnType>
@@ -74,7 +77,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Compute.Models.LogAnalytics&gt;&gt;</ReturnType>
@@ -111,7 +115,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Compute.Models.LogAnalytics&gt;</ReturnType>
@@ -148,7 +153,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.Compute.Models.LogAnalytics&gt;&gt;</ReturnType>
@@ -185,7 +191,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.AvailabilitySetResource&gt;</ReturnType>
@@ -219,7 +226,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.AvailabilitySetResource&gt;&gt;</ReturnType>
@@ -253,7 +261,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.AvailabilitySetResource</ReturnType>
@@ -284,7 +293,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.AvailabilitySetCollection</ReturnType>
@@ -312,7 +322,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.AvailabilitySetResource&gt;</ReturnType>
@@ -344,7 +355,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.AvailabilitySetResource&gt;</ReturnType>
@@ -376,7 +388,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.CapacityReservationGroupResource&gt;</ReturnType>
@@ -412,7 +425,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.CapacityReservationGroupResource&gt;&gt;</ReturnType>
@@ -448,7 +462,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CapacityReservationGroupResource</ReturnType>
@@ -479,7 +494,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CapacityReservationGroupCollection</ReturnType>
@@ -507,7 +523,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -545,7 +562,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.CapacityReservationGroupResource&gt;</ReturnType>
@@ -579,7 +597,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -617,7 +636,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.CapacityReservationGroupResource&gt;</ReturnType>
@@ -651,7 +671,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CapacityReservationResource</ReturnType>
@@ -682,7 +703,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.CloudServiceResource&gt;</ReturnType>
@@ -716,7 +738,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.CloudServiceResource&gt;&gt;</ReturnType>
@@ -750,7 +773,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceOSFamilyCollection</ReturnType>
@@ -780,7 +804,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.CloudServiceOSFamilyResource&gt;</ReturnType>
@@ -816,7 +841,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.CloudServiceOSFamilyResource&gt;&gt;</ReturnType>
@@ -852,7 +878,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceOSFamilyResource</ReturnType>
@@ -883,7 +910,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.CloudServiceOSVersionResource&gt;</ReturnType>
@@ -919,7 +947,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.CloudServiceOSVersionResource&gt;&gt;</ReturnType>
@@ -955,7 +984,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceOSVersionResource</ReturnType>
@@ -986,7 +1016,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceOSVersionCollection</ReturnType>
@@ -1016,7 +1047,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceResource</ReturnType>
@@ -1047,7 +1079,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceRoleInstanceResource</ReturnType>
@@ -1078,7 +1111,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceRoleResource</ReturnType>
@@ -1109,7 +1143,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CloudServiceCollection</ReturnType>
@@ -1137,7 +1172,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.CloudServiceResource&gt;</ReturnType>
@@ -1167,7 +1203,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.CloudServiceResource&gt;</ReturnType>
@@ -1197,7 +1234,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CommunityGalleryCollection</ReturnType>
@@ -1225,7 +1263,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.CommunityGalleryResource&gt;</ReturnType>
@@ -1261,7 +1300,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.CommunityGalleryResource&gt;&gt;</ReturnType>
@@ -1297,7 +1337,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CommunityGalleryImageResource</ReturnType>
@@ -1328,7 +1369,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CommunityGalleryImageVersionResource</ReturnType>
@@ -1359,7 +1401,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.CommunityGalleryResource</ReturnType>
@@ -1390,7 +1433,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.ComputePrivateEndpointConnectionResource</ReturnType>
@@ -1421,7 +1465,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.ComputeResourceSku&gt;</ReturnType>
@@ -1455,7 +1500,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.ComputeResourceSku&gt;</ReturnType>
@@ -1489,7 +1535,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.DedicatedHostGroupResource&gt;</ReturnType>
@@ -1525,7 +1572,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.DedicatedHostGroupResource&gt;&gt;</ReturnType>
@@ -1561,7 +1609,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DedicatedHostGroupResource</ReturnType>
@@ -1592,7 +1641,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DedicatedHostGroupCollection</ReturnType>
@@ -1620,7 +1670,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.DedicatedHostGroupResource&gt;</ReturnType>
@@ -1650,7 +1701,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.DedicatedHostGroupResource&gt;</ReturnType>
@@ -1680,7 +1732,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DedicatedHostResource</ReturnType>
@@ -1711,7 +1764,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.DiskAccessResource&gt;</ReturnType>
@@ -1745,7 +1799,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.DiskAccessResource&gt;&gt;</ReturnType>
@@ -1779,7 +1834,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DiskAccessCollection</ReturnType>
@@ -1807,7 +1863,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.DiskAccessResource&gt;</ReturnType>
@@ -1837,7 +1894,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.DiskAccessResource&gt;</ReturnType>
@@ -1867,7 +1925,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DiskAccessResource</ReturnType>
@@ -1898,7 +1957,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.DiskEncryptionSetResource&gt;</ReturnType>
@@ -1932,7 +1992,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.DiskEncryptionSetResource&gt;&gt;</ReturnType>
@@ -1966,7 +2027,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DiskEncryptionSetResource</ReturnType>
@@ -1997,7 +2059,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DiskEncryptionSetCollection</ReturnType>
@@ -2025,7 +2088,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.DiskEncryptionSetResource&gt;</ReturnType>
@@ -2055,7 +2119,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.DiskEncryptionSetResource&gt;</ReturnType>
@@ -2085,7 +2150,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.DiskImageResource&gt;</ReturnType>
@@ -2121,7 +2187,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.DiskImageResource&gt;&gt;</ReturnType>
@@ -2157,7 +2224,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DiskImageResource</ReturnType>
@@ -2188,7 +2256,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DiskImageCollection</ReturnType>
@@ -2216,7 +2285,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.DiskImageResource&gt;</ReturnType>
@@ -2246,7 +2316,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.DiskImageResource&gt;</ReturnType>
@@ -2276,7 +2347,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.DiskRestorePointResource</ReturnType>
@@ -2307,7 +2379,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryCollection</ReturnType>
@@ -2335,7 +2408,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.GalleryResource&gt;</ReturnType>
@@ -2365,7 +2439,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.GalleryResource&gt;</ReturnType>
@@ -2395,7 +2470,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.GalleryResource&gt;</ReturnType>
@@ -2433,7 +2509,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryApplicationResource</ReturnType>
@@ -2464,7 +2541,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryApplicationVersionResource</ReturnType>
@@ -2495,7 +2573,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.GalleryResource&gt;&gt;</ReturnType>
@@ -2533,7 +2612,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryImageResource</ReturnType>
@@ -2564,7 +2644,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryImageVersionResource</ReturnType>
@@ -2595,7 +2676,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryInVmAccessControlProfileResource</ReturnType>
@@ -2626,7 +2708,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryInVmAccessControlProfileVersionResource</ReturnType>
@@ -2657,7 +2740,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.GalleryResource</ReturnType>
@@ -2688,7 +2772,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.ManagedDiskResource&gt;</ReturnType>
@@ -2722,7 +2807,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.ManagedDiskResource&gt;&gt;</ReturnType>
@@ -2756,7 +2842,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.ManagedDiskResource</ReturnType>
@@ -2787,7 +2874,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.ManagedDiskCollection</ReturnType>
@@ -2815,7 +2903,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.ManagedDiskResource&gt;</ReturnType>
@@ -2845,7 +2934,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.ManagedDiskResource&gt;</ReturnType>
@@ -2875,7 +2965,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -2913,7 +3004,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -2951,7 +3043,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.ProximityPlacementGroupResource&gt;</ReturnType>
@@ -2987,7 +3080,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.ProximityPlacementGroupResource&gt;&gt;</ReturnType>
@@ -3023,7 +3117,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.ProximityPlacementGroupResource</ReturnType>
@@ -3054,7 +3149,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.ProximityPlacementGroupCollection</ReturnType>
@@ -3082,7 +3178,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.ProximityPlacementGroupResource&gt;</ReturnType>
@@ -3112,7 +3209,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.ProximityPlacementGroupResource&gt;</ReturnType>
@@ -3142,7 +3240,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -3178,7 +3277,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -3214,7 +3314,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.RestorePointGroupResource&gt;</ReturnType>
@@ -3250,7 +3351,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.RestorePointGroupResource&gt;&gt;</ReturnType>
@@ -3286,7 +3388,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.RestorePointGroupResource</ReturnType>
@@ -3317,7 +3420,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.RestorePointGroupCollection</ReturnType>
@@ -3345,7 +3449,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.RestorePointGroupResource&gt;</ReturnType>
@@ -3375,7 +3480,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.RestorePointGroupResource&gt;</ReturnType>
@@ -3405,7 +3511,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.RestorePointResource</ReturnType>
@@ -3436,7 +3543,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SharedGalleryCollection</ReturnType>
@@ -3466,7 +3574,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.SharedGalleryResource&gt;</ReturnType>
@@ -3502,7 +3611,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.SharedGalleryResource&gt;&gt;</ReturnType>
@@ -3538,7 +3648,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SharedGalleryImageResource</ReturnType>
@@ -3569,7 +3680,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SharedGalleryImageVersionResource</ReturnType>
@@ -3600,7 +3712,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SharedGalleryResource</ReturnType>
@@ -3631,7 +3744,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.SnapshotResource&gt;</ReturnType>
@@ -3665,7 +3779,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.SnapshotResource&gt;&gt;</ReturnType>
@@ -3699,7 +3814,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SnapshotResource</ReturnType>
@@ -3730,7 +3846,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SnapshotCollection</ReturnType>
@@ -3758,7 +3875,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.SnapshotResource&gt;</ReturnType>
@@ -3788,7 +3906,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.SnapshotResource&gt;</ReturnType>
@@ -3818,7 +3937,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.SshPublicKeyResource&gt;</ReturnType>
@@ -3852,7 +3972,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.SshPublicKeyResource&gt;&gt;</ReturnType>
@@ -3886,7 +4007,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SshPublicKeyResource</ReturnType>
@@ -3917,7 +4039,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.SshPublicKeyCollection</ReturnType>
@@ -3945,7 +4068,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.SshPublicKeyResource&gt;</ReturnType>
@@ -3975,7 +4099,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.SshPublicKeyResource&gt;</ReturnType>
@@ -4005,7 +4130,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.ComputeUsage&gt;</ReturnType>
@@ -4037,7 +4163,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.ComputeUsage&gt;</ReturnType>
@@ -4069,7 +4196,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.VirtualMachineResource&gt;</ReturnType>
@@ -4105,7 +4233,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.VirtualMachineResource&gt;&gt;</ReturnType>
@@ -4141,7 +4270,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.VirtualMachineExtensionImageResource&gt;</ReturnType>
@@ -4181,7 +4311,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.VirtualMachineExtensionImageResource&gt;&gt;</ReturnType>
@@ -4221,7 +4352,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineExtensionImageResource</ReturnType>
@@ -4252,7 +4384,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineExtensionImageCollection</ReturnType>
@@ -4286,7 +4419,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineExtensionResource</ReturnType>
@@ -4317,7 +4451,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;</ReturnType>
@@ -4359,7 +4494,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;&gt;</ReturnType>
@@ -4401,7 +4537,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4441,7 +4578,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4481,7 +4619,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4517,7 +4656,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4553,7 +4693,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4585,7 +4726,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4617,7 +4759,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4649,7 +4792,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4695,7 +4839,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4727,7 +4872,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4773,7 +4919,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4809,7 +4956,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -4845,7 +4993,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;</ReturnType>
@@ -4877,7 +5026,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;</ReturnType>
@@ -4921,7 +5071,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;&gt;</ReturnType>
@@ -4953,7 +5104,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;&gt;</ReturnType>
@@ -4997,7 +5149,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -5029,7 +5182,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -5077,7 +5231,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -5109,7 +5264,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -5157,7 +5313,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -5195,7 +5352,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImageBase&gt;</ReturnType>
@@ -5233,15 +5391,16 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="subscriptionResource" Type="Azure.ResourceManager.Resources.SubscriptionResource" Index="0" FrameworkAlternate="azure-dotnet" RefType="this" />
-        <Parameter Name="options" Type="Azure.ResourceManager.Compute.Models.SubscriptionResourceGetVirtualMachineImagesWithPropertiesOptions" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="subscriptionResource" Type="Azure.ResourceManager.Resources.SubscriptionResource" RefType="this" />
+        <Parameter Name="options" Type="Azure.ResourceManager.Compute.Models.SubscriptionResourceGetVirtualMachineImagesWithPropertiesOptions" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
@@ -5282,15 +5441,16 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineImage&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="subscriptionResource" Type="Azure.ResourceManager.Resources.SubscriptionResource" Index="0" FrameworkAlternate="azure-dotnet" RefType="this" />
-        <Parameter Name="options" Type="Azure.ResourceManager.Compute.Models.SubscriptionResourceGetVirtualMachineImagesWithPropertiesOptions" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="subscriptionResource" Type="Azure.ResourceManager.Resources.SubscriptionResource" RefType="this" />
+        <Parameter Name="options" Type="Azure.ResourceManager.Compute.Models.SubscriptionResourceGetVirtualMachineImagesWithPropertiesOptions" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="subscriptionResource"> The <see cref="T:Azure.ResourceManager.Resources.SubscriptionResource" /> instance the method will execute against. </param>
@@ -5331,7 +5491,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineResource</ReturnType>
@@ -5362,7 +5523,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.Models.RunCommandDocument&gt;</ReturnType>
@@ -5398,7 +5560,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.Models.RunCommandDocument&gt;&gt;</ReturnType>
@@ -5434,7 +5597,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineRunCommandResource</ReturnType>
@@ -5465,7 +5629,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.RunCommandDocumentBase&gt;</ReturnType>
@@ -5497,7 +5662,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.RunCommandDocumentBase&gt;</ReturnType>
@@ -5529,7 +5695,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineCollection</ReturnType>
@@ -5557,7 +5724,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -5593,7 +5761,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.VirtualMachineResource&gt;</ReturnType>
@@ -5629,7 +5798,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -5665,7 +5835,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.VirtualMachineResource&gt;</ReturnType>
@@ -5701,7 +5872,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.VirtualMachineResource&gt;</ReturnType>
@@ -5733,7 +5905,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.VirtualMachineResource&gt;</ReturnType>
@@ -5765,7 +5938,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Compute.VirtualMachineScaleSetResource&gt;</ReturnType>
@@ -5801,7 +5975,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Compute.VirtualMachineScaleSetResource&gt;&gt;</ReturnType>
@@ -5837,7 +6012,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineScaleSetExtensionResource</ReturnType>
@@ -5868,7 +6044,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineScaleSetResource</ReturnType>
@@ -5899,7 +6076,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineScaleSetRollingUpgradeResource</ReturnType>
@@ -5930,7 +6108,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineScaleSetCollection</ReturnType>
@@ -5958,7 +6137,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.VirtualMachineScaleSetResource&gt;</ReturnType>
@@ -5988,7 +6168,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.VirtualMachineScaleSetResource&gt;</ReturnType>
@@ -6018,7 +6199,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.VirtualMachineScaleSetResource&gt;</ReturnType>
@@ -6050,7 +6232,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.VirtualMachineScaleSetResource&gt;</ReturnType>
@@ -6082,7 +6265,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineScaleSetVmExtensionResource</ReturnType>
@@ -6113,7 +6297,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineScaleSetVmResource</ReturnType>
@@ -6144,7 +6329,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.VirtualMachineScaleSetVmRunCommandResource</ReturnType>
@@ -6175,7 +6361,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineSize&gt;</ReturnType>
@@ -6207,7 +6394,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
+        <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.Compute.Models.VirtualMachineSize&gt;</ReturnType>

@@ -10,6 +10,7 @@
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.Models.TrackedResourceData</BaseTypeName>
@@ -43,6 +44,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="location" Type="Azure.Core.AzureLocation" />
@@ -71,6 +73,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.Models.AdministratorConfiguration</ReturnType>
@@ -91,6 +94,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.Models.NetworkCloudAgentConfiguration</ReturnType>
@@ -111,6 +115,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.Models.AttachedNetworkConfiguration</ReturnType>
@@ -131,6 +136,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -151,6 +157,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -171,6 +178,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.NetworkCloud.Models.AgentPoolDetailedStatus&gt;</ReturnType>
@@ -191,6 +199,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -211,6 +220,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ETag&gt;</ReturnType>
@@ -231,6 +241,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.Models.ExtendedLocation</ReturnType>
@@ -251,6 +262,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -276,6 +288,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -296,6 +309,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.NetworkCloud.Models.KubernetesLabel&gt;</ReturnType>
@@ -316,6 +330,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.Models.NetworkCloudAgentPoolMode</ReturnType>
@@ -336,6 +351,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.NetworkCloud.Models.AgentPoolProvisioningState&gt;</ReturnType>
@@ -359,6 +375,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudAgentPoolData</ReturnType>
@@ -391,6 +408,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -422,6 +440,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudAgentPoolData</ReturnType>
@@ -454,6 +473,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -483,6 +503,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -510,6 +531,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.NetworkCloud.Models.KubernetesLabel&gt;</ReturnType>
@@ -530,6 +552,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -556,6 +579,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.Models.AgentPoolUpgradeSettings</ReturnType>
@@ -576,6 +600,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

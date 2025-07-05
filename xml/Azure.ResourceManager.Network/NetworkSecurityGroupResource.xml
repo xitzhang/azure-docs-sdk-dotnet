@@ -21,6 +21,7 @@
     <AssemblyVersion>1.10.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.1.0</AssemblyVersion>
+    <AssemblyVersion>1.12.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -54,8 +55,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -72,8 +73,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;</ReturnType>
@@ -105,8 +106,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;&gt;</ReturnType>
@@ -138,8 +139,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -167,8 +168,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityGroupData</ReturnType>
@@ -189,8 +190,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation</ReturnType>
@@ -219,8 +220,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt;</ReturnType>
@@ -249,8 +250,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;</ReturnType>
@@ -278,8 +279,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;&gt;</ReturnType>
@@ -307,8 +308,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Network.DefaultSecurityRuleResource&gt;</ReturnType>
@@ -340,8 +341,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Network.DefaultSecurityRuleResource&gt;&gt;</ReturnType>
@@ -373,8 +374,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.DefaultSecurityRuleCollection</ReturnType>
@@ -395,8 +396,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Network.SecurityRuleResource&gt;</ReturnType>
@@ -428,8 +429,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Network.SecurityRuleResource&gt;&gt;</ReturnType>
@@ -461,8 +462,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.SecurityRuleCollection</ReturnType>
@@ -483,8 +484,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -504,8 +505,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;</ReturnType>
@@ -535,8 +536,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;&gt;</ReturnType>
@@ -566,8 +567,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceType</ReturnType>
@@ -586,8 +587,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;</ReturnType>
@@ -617,8 +618,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;&gt;</ReturnType>
@@ -651,8 +652,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityGroupData</ReturnType>
@@ -684,8 +685,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -716,8 +717,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.NetworkSecurityGroupData</ReturnType>
@@ -749,8 +750,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -779,8 +780,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -807,8 +808,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;</ReturnType>
@@ -838,8 +839,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.Network.NetworkSecurityGroupResource&gt;&gt;</ReturnType>
