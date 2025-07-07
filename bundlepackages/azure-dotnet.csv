@@ -90,6 +90,7 @@ azureresourcemanageravs,[tfm=netstandard2.0]Azure.ResourceManager.Avs,1.5.0
 azureresourcemanagerbatch,[tfm=netstandard2.0]Azure.ResourceManager.Batch,1.5.0
 azureresourcemanagerbilling,[tfm=netstandard2.0]Azure.ResourceManager.Billing,1.2.1
 azureresourcemanagerbotservice,[tfm=netstandard2.0]Azure.ResourceManager.BotService,1.1.1
+azureresourcemanagercarbonoptimization,[tfm=netstandard2.0]Azure.ResourceManager.CarbonOptimization,1.0.0
 azureresourcemanagercdn,[tfm=netstandard2.0]Azure.ResourceManager.Cdn,1.4.0
 azureresourcemanagerchangeanalysis,[tfm=netstandard2.0]Azure.ResourceManager.ChangeAnalysis,1.1.1
 azureresourcemanagerchaos,[tfm=netstandard2.0]Azure.ResourceManager.Chaos,1.1.0
