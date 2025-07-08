@@ -1,7 +1,7 @@
 {
   "Name": "Azure.Communication.ShortCodes",
-  "Version": "1.0.0-alpha.20250708.2",
-  "DevVersion": "1.0.0-alpha.20250708.2",
+  "Version": "1.0.0-alpha.20250708.3",
+  "DevVersion": "1.0.0-alpha.20250708.3",
   "DirectoryPath": "sdk/communication/Azure.Communication.ShortCodes",
   "ServiceDirectory": "communication",
   "ReadMePath": "sdk/communication/Azure.Communication.ShortCodes/README.md",
@@ -14,18 +14,18 @@
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
   "ArtifactDetails": {
-    "name": "Azure.Communication.ShortCodes",
-    "safeName": "AzureCommunicationShortCodes",
     "triggeringPaths": [
       "/sdk/communication/ci.yml"
     ],
-    "skipReleaseStage": true
+    "safeName": "AzureCommunicationShortCodes",
+    "skipReleaseStage": true,
+    "name": "Azure.Communication.ShortCodes"
   },
   "CIParameters": {
+    "CIMatrixConfigs": [],
     "AOTTestInputs": [],
     "CheckAOTCompat": false,
-    "BuildSnippets": false,
-    "CIMatrixConfigs": []
+    "BuildSnippets": false
   },
   "Namespaces": [
     "Azure.Communication.ShortCodes",
