@@ -9,6 +9,7 @@
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -28,6 +29,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -45,6 +47,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudBareMetalMachineResource&gt;</ReturnType>
@@ -71,6 +74,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudBareMetalMachineResource&gt;</ReturnType>
@@ -97,6 +101,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudCloudServicesNetworkResource&gt;</ReturnType>
@@ -123,6 +128,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudCloudServicesNetworkResource&gt;</ReturnType>
@@ -149,6 +155,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterManagerResource&gt;</ReturnType>
@@ -175,6 +182,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterManagerResource&gt;</ReturnType>
@@ -201,6 +209,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterResource&gt;</ReturnType>
@@ -227,6 +236,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudClusterResource&gt;</ReturnType>
@@ -253,6 +263,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -279,6 +290,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -305,6 +317,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL2NetworkResource&gt;</ReturnType>
@@ -331,6 +344,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL2NetworkResource&gt;</ReturnType>
@@ -357,6 +371,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL3NetworkResource&gt;</ReturnType>
@@ -383,6 +398,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudL3NetworkResource&gt;</ReturnType>
@@ -409,6 +425,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudRackResource&gt;</ReturnType>
@@ -435,6 +452,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudRackResource&gt;</ReturnType>
@@ -461,6 +479,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudRackSkuResource&gt;</ReturnType>
@@ -493,6 +512,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudRackSkuResource&gt;&gt;</ReturnType>
@@ -525,6 +545,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudRackSkuCollection</ReturnType>
@@ -546,6 +567,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -572,6 +594,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudStorageApplianceResource&gt;</ReturnType>
@@ -598,6 +621,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudTrunkedNetworkResource&gt;</ReturnType>
@@ -624,6 +648,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudTrunkedNetworkResource&gt;</ReturnType>
@@ -650,6 +675,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVirtualMachineResource&gt;</ReturnType>
@@ -676,6 +702,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVirtualMachineResource&gt;</ReturnType>
@@ -702,6 +729,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVolumeResource&gt;</ReturnType>
@@ -728,6 +756,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudVolumeResource&gt;</ReturnType>

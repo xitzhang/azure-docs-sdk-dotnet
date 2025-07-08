@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -27,6 +28,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PerformancePolicyLimits</ReturnType>
@@ -53,6 +55,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PropertyValueRangeLimits</ReturnType>
@@ -79,6 +82,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.ProtectionPolicyLimits</ReturnType>
@@ -105,6 +109,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageAvs</ReturnType>
@@ -131,6 +136,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageAvsConnection</ReturnType>
@@ -159,6 +165,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageAvsDiskDetails</ReturnType>
@@ -195,6 +202,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageAvsStatus</ReturnType>
@@ -223,6 +231,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerData</ReturnType>
@@ -255,6 +264,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageAvsStorageContainerProperties</ReturnType>
@@ -287,6 +297,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsStorageContainerVolumeData</ReturnType>
@@ -319,6 +330,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmData</ReturnType>
@@ -351,6 +363,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageAvsVmDetails</ReturnType>
@@ -381,6 +394,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageAvsVmProperties</ReturnType>
@@ -421,6 +435,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageAvsVmVolumeData</ReturnType>
@@ -453,6 +468,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageBandwidthUsage</ReturnType>
@@ -481,6 +497,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageBillingUsageProperty</ReturnType>
@@ -517,6 +534,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageHealthAlert</ReturnType>
@@ -543,6 +561,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageHealthDetails</ReturnType>
@@ -577,6 +596,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageIopsUsage</ReturnType>
@@ -605,6 +625,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageMarketplaceDetails</ReturnType>
@@ -633,6 +654,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStoragePoolData</ReturnType>
@@ -671,6 +693,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStoragePoolProperties</ReturnType>
@@ -711,6 +734,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.PureStorageReservationData</ReturnType>
@@ -747,6 +771,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageReservationProperties</ReturnType>
@@ -777,6 +802,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageResourceLimitDetails</ReturnType>
@@ -807,6 +833,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageSoftDeletionState</ReturnType>
@@ -833,6 +860,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageSpaceUsage</ReturnType>
@@ -863,6 +891,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.PureStorageVolumeProperties</ReturnType>
@@ -907,6 +936,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.ReservationBillingStatus</ReturnType>
@@ -957,6 +987,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.ReservationBillingUsageReport</ReturnType>
@@ -985,6 +1016,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.ServiceInitializationHandle</ReturnType>
@@ -1011,6 +1043,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.StoragePoolHealthInfo</ReturnType>
@@ -1037,6 +1070,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.StoragePoolLimits</ReturnType>

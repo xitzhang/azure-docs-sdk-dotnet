@@ -12,6 +12,7 @@
     <AssemblyVersion>1.3.4.0</AssemblyVersion>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
     <AssemblyVersion>1.5.0.0</AssemblyVersion>
+    <AssemblyVersion>1.6.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -31,6 +32,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -48,6 +50,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesAccountDeploymentResource</ReturnType>
@@ -75,6 +78,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesAccountResource</ReturnType>
@@ -102,6 +106,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesCapabilityHostResource</ReturnType>
@@ -129,6 +134,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesCommitmentPlanResource</ReturnType>
@@ -156,6 +162,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesConnectionResource</ReturnType>
@@ -183,6 +190,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesDeletedAccountResource</ReturnType>
@@ -210,6 +218,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesEncryptionScopeResource</ReturnType>
@@ -237,6 +246,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesPrivateEndpointConnectionResource</ReturnType>
@@ -264,6 +274,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesProjectCapabilityHostResource</ReturnType>
@@ -291,6 +302,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesProjectConnectionResource</ReturnType>
@@ -318,6 +330,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CognitiveServicesProjectResource</ReturnType>
@@ -345,6 +358,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CommitmentPlanAccountAssociationResource</ReturnType>
@@ -372,6 +386,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.CommitmentPlanResource</ReturnType>
@@ -399,6 +414,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.DefenderForAISettingResource</ReturnType>
@@ -426,6 +442,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.NetworkSecurityPerimeterConfigurationResource</ReturnType>
@@ -453,6 +470,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.RaiBlocklistItemResource</ReturnType>
@@ -480,6 +498,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.RaiBlocklistResource</ReturnType>
@@ -507,6 +526,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.RaiContentFilterResource</ReturnType>
@@ -534,6 +554,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CognitiveServices</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CognitiveServices.RaiPolicyResource</ReturnType>

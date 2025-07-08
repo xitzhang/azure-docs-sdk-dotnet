@@ -789,6 +789,90 @@
           <paramref name="vectorStoreId" /> or <paramref name="batchId" /> is an empty string, and was expected to be non-empty. </exception>
       </Docs>
     </Member>
+    <Member MemberName="GetVectorStoreFileBatchFiles">
+      <MemberSignature Language="C#" Value="public virtual Azure.Pageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt; GetVectorStoreFileBatchFiles (string vectorStoreId, string batchId, Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter? filter = default, int? limit = default, Azure.AI.Agents.Persistent.ListSortOrder? order = default, string after = default, string before = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Pageable`1&lt;class Azure.AI.Agents.Persistent.VectorStoreFile&gt; GetVectorStoreFileBatchFiles(string vectorStoreId, string batchId, valuetype System.Nullable`1&lt;valuetype Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt; filter, valuetype System.Nullable`1&lt;int32&gt; limit, valuetype System.Nullable`1&lt;valuetype Azure.AI.Agents.Persistent.ListSortOrder&gt; order, string after, string before, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.Agents.Persistent.VectorStores.GetVectorStoreFileBatchFiles(System.String,System.String,System.Nullable{Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter},System.Nullable{System.Int32},System.Nullable{Azure.AI.Agents.Persistent.ListSortOrder},System.String,System.String,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetVectorStoreFileBatchFiles (vectorStoreId As String, batchId As String, Optional filter As Nullable(Of VectorStoreFileStatusFilter) = Nothing, Optional limit As Nullable(Of Integer) = Nothing, Optional order As Nullable(Of ListSortOrder) = Nothing, Optional after As String = Nothing, Optional before As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Pageable(Of VectorStoreFile)" />
+      <MemberSignature Language="F#" Value="abstract member GetVectorStoreFileBatchFiles : string * string * Nullable&lt;Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt; * Nullable&lt;int&gt; * Nullable&lt;Azure.AI.Agents.Persistent.ListSortOrder&gt; * string * string * System.Threading.CancellationToken -&gt; Azure.Pageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt;&#xA;override this.GetVectorStoreFileBatchFiles : string * string * Nullable&lt;Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt; * Nullable&lt;int&gt; * Nullable&lt;Azure.AI.Agents.Persistent.ListSortOrder&gt; * string * string * System.Threading.CancellationToken -&gt; Azure.Pageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt;" Usage="vectorStores.GetVectorStoreFileBatchFiles (vectorStoreId, batchId, filter, limit, order, after, before, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.Agents.Persistent</AssemblyName>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Pageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="vectorStoreId" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="batchId" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="filter" Type="System.Nullable&lt;Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt;" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="limit" Type="System.Nullable&lt;System.Int32&gt;" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="order" Type="System.Nullable&lt;Azure.AI.Agents.Persistent.ListSortOrder&gt;" Index="4" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="after" Type="System.String" Index="5" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="before" Type="System.String" Index="6" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="7" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="vectorStoreId"> Identifier of the vector store. </param>
+        <param name="batchId"> Identifier of the file batch. </param>
+        <param name="filter"> Filter by file status. </param>
+        <param name="limit"> A limit on the number of objects to be returned. Limit can range between 1 and 100, and the default is 20. </param>
+        <param name="order"> Sort order by the created_at timestamp of the objects. asc for ascending order and desc for descending order. </param>
+        <param name="after"> A cursor for use in pagination. after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 objects, ending with obj_foo, your subsequent call can include after=obj_foo in order to fetch the next page of the list. </param>
+        <param name="before"> A cursor for use in pagination. before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 objects, ending with obj_foo, your subsequent call can include before=obj_foo in order to fetch the previous page of the list. </param>
+        <param name="cancellationToken"> The cancellation token to use. </param>
+        <summary> Returns a list of vector store files in a batch. </summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentNullException">
+          <paramref name="vectorStoreId" /> or <paramref name="batchId" /> is null. </exception>
+        <exception cref="T:System.ArgumentException">
+          <paramref name="vectorStoreId" /> or <paramref name="batchId" /> is an empty string, and was expected to be non-empty. </exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetVectorStoreFileBatchFilesAsync">
+      <MemberSignature Language="C#" Value="public virtual Azure.AsyncPageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt; GetVectorStoreFileBatchFilesAsync (string vectorStoreId, string batchId, Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter? filter = default, int? limit = default, Azure.AI.Agents.Persistent.ListSortOrder? order = default, string after = default, string before = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.AsyncPageable`1&lt;class Azure.AI.Agents.Persistent.VectorStoreFile&gt; GetVectorStoreFileBatchFilesAsync(string vectorStoreId, string batchId, valuetype System.Nullable`1&lt;valuetype Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt; filter, valuetype System.Nullable`1&lt;int32&gt; limit, valuetype System.Nullable`1&lt;valuetype Azure.AI.Agents.Persistent.ListSortOrder&gt; order, string after, string before, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.Agents.Persistent.VectorStores.GetVectorStoreFileBatchFilesAsync(System.String,System.String,System.Nullable{Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter},System.Nullable{System.Int32},System.Nullable{Azure.AI.Agents.Persistent.ListSortOrder},System.String,System.String,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetVectorStoreFileBatchFilesAsync (vectorStoreId As String, batchId As String, Optional filter As Nullable(Of VectorStoreFileStatusFilter) = Nothing, Optional limit As Nullable(Of Integer) = Nothing, Optional order As Nullable(Of ListSortOrder) = Nothing, Optional after As String = Nothing, Optional before As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As AsyncPageable(Of VectorStoreFile)" />
+      <MemberSignature Language="F#" Value="abstract member GetVectorStoreFileBatchFilesAsync : string * string * Nullable&lt;Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt; * Nullable&lt;int&gt; * Nullable&lt;Azure.AI.Agents.Persistent.ListSortOrder&gt; * string * string * System.Threading.CancellationToken -&gt; Azure.AsyncPageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt;&#xA;override this.GetVectorStoreFileBatchFilesAsync : string * string * Nullable&lt;Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt; * Nullable&lt;int&gt; * Nullable&lt;Azure.AI.Agents.Persistent.ListSortOrder&gt; * string * string * System.Threading.CancellationToken -&gt; Azure.AsyncPageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt;" Usage="vectorStores.GetVectorStoreFileBatchFilesAsync (vectorStoreId, batchId, filter, limit, order, after, before, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.Agents.Persistent</AssemblyName>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.AsyncPageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="vectorStoreId" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="batchId" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="filter" Type="System.Nullable&lt;Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt;" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="limit" Type="System.Nullable&lt;System.Int32&gt;" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="order" Type="System.Nullable&lt;Azure.AI.Agents.Persistent.ListSortOrder&gt;" Index="4" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="after" Type="System.String" Index="5" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="before" Type="System.String" Index="6" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="7" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="vectorStoreId"> Identifier of the vector store. </param>
+        <param name="batchId"> Identifier of the file batch. </param>
+        <param name="filter"> Filter by file status. </param>
+        <param name="limit"> A limit on the number of objects to be returned. Limit can range between 1 and 100, and the default is 20. </param>
+        <param name="order"> Sort order by the created_at timestamp of the objects. asc for ascending order and desc for descending order. </param>
+        <param name="after"> A cursor for use in pagination. after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 objects, ending with obj_foo, your subsequent call can include after=obj_foo in order to fetch the next page of the list. </param>
+        <param name="before"> A cursor for use in pagination. before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 objects, ending with obj_foo, your subsequent call can include before=obj_foo in order to fetch the previous page of the list. </param>
+        <param name="cancellationToken"> The cancellation token to use. </param>
+        <summary> Returns a list of vector store files in a batch. </summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentNullException">
+          <paramref name="vectorStoreId" /> or <paramref name="batchId" /> is null. </exception>
+        <exception cref="T:System.ArgumentException">
+          <paramref name="vectorStoreId" /> or <paramref name="batchId" /> is an empty string, and was expected to be non-empty. </exception>
+      </Docs>
+    </Member>
     <Member MemberName="GetVectorStoreFiles">
       <MemberSignature Language="C#" Value="public virtual Azure.Pageable&lt;Azure.AI.Agents.Persistent.VectorStoreFile&gt; GetVectorStoreFiles (string vectorStoreId, Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter? filter = default, int? limit = default, Azure.AI.Agents.Persistent.ListSortOrder? order = default, string after = default, string before = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Pageable`1&lt;class Azure.AI.Agents.Persistent.VectorStoreFile&gt; GetVectorStoreFiles(string vectorStoreId, valuetype System.Nullable`1&lt;valuetype Azure.AI.Agents.Persistent.VectorStoreFileStatusFilter&gt; filter, valuetype System.Nullable`1&lt;int32&gt; limit, valuetype System.Nullable`1&lt;valuetype Azure.AI.Agents.Persistent.ListSortOrder&gt; order, string after, string before, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />

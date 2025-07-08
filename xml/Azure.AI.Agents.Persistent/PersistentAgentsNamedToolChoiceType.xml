@@ -17,6 +17,12 @@
       <InterfaceName>System.IEquatable&lt;Azure.AI.Agents.Persistent.PersistentAgentsNamedToolChoiceType&gt;</InterfaceName>
     </Interface>
   </Interfaces>
+  <Attributes>
+    <Attribute FrameworkAlternate="azure-dotnet-preview">
+      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Azure.AI.Agents.Persistent.PersistentAgentsNamedToolChoiceTypeConverter))]</AttributeName>
+      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Azure.AI.Agents.Persistent.PersistentAgentsNamedToolChoiceTypeConverter))&gt;]</AttributeName>
+    </Attribute>
+  </Attributes>
   <Docs>
     <summary> Available tool types for agents named tools. </summary>
     <remarks>To be added.</remarks>

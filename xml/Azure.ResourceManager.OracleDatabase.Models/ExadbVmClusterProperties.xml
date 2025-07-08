@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -37,6 +38,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="vnetId" Type="Azure.Core.ResourceIdentifier" />
@@ -79,6 +81,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -99,6 +102,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -119,6 +123,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -139,6 +144,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.Models.DiagnosticCollectionConfig</ReturnType>
@@ -159,6 +165,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -179,6 +186,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -199,6 +207,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -219,6 +228,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -239,6 +249,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -259,6 +270,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -279,6 +291,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.OracleDatabase.Models.GridImageType&gt;</ReturnType>
@@ -299,6 +312,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -319,6 +333,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.Models.ExadataIormConfig</ReturnType>
@@ -339,6 +354,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -364,6 +380,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.OracleDatabase.Models.OracleLicenseModel&gt;</ReturnType>
@@ -384,6 +401,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -404,6 +422,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.OracleDatabase.Models.ExadbVmClusterLifecycleState&gt;</ReturnType>
@@ -424,6 +443,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -444,6 +464,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -464,6 +485,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -484,6 +506,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.OracleDatabase.Models.CloudVmClusterNsgCidr&gt;</ReturnType>
@@ -504,6 +527,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -524,6 +548,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -544,6 +569,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -564,6 +590,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -584,6 +611,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.OracleDatabase.Models.OracleDatabaseProvisioningState&gt;</ReturnType>
@@ -604,6 +632,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -624,6 +653,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -644,6 +674,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IReadOnlyList&lt;System.String&gt;</ReturnType>
@@ -664,6 +695,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -684,6 +716,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -704,6 +737,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -724,6 +758,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -744,6 +779,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -764,6 +800,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -784,6 +821,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -807,6 +845,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.Models.ExadbVmClusterProperties</ReturnType>
@@ -839,6 +878,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -870,6 +910,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.Models.ExadbVmClusterProperties</ReturnType>
@@ -902,6 +943,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -931,6 +973,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -958,6 +1001,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -978,6 +1022,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -998,6 +1043,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -1018,6 +1064,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -1038,6 +1085,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IReadOnlyList&lt;System.String&gt;</ReturnType>
@@ -1058,6 +1106,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -1078,6 +1127,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -1098,6 +1148,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
