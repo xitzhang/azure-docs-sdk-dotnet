@@ -1,7 +1,7 @@
 {
   "Name": "Azure.Storage.Files.DataLake",
-  "Version": "12.24.0-alpha.20250708.1",
-  "DevVersion": "12.24.0-alpha.20250708.1",
+  "Version": "12.24.0-alpha.20250709.2",
+  "DevVersion": "12.24.0-alpha.20250709.2",
   "DirectoryPath": "sdk/storage/Azure.Storage.Files.DataLake",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/Azure.Storage.Files.DataLake/README.md",
@@ -14,18 +14,18 @@
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
   "ArtifactDetails": {
-    "safeName": "AzureStorageFilesDataLake",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
     ],
+    "safeName": "AzureStorageFilesDataLake",
     "skipSmokeTests": true,
     "name": "Azure.Storage.Files.DataLake"
   },
   "CIParameters": {
-    "CIMatrixConfigs": [],
-    "CheckAOTCompat": true,
     "BuildSnippets": false,
-    "AOTTestInputs": null
+    "CIMatrixConfigs": [],
+    "AOTTestInputs": null,
+    "CheckAOTCompat": true
   },
   "Namespaces": [
     "Azure.Storage.Files.DataLake",

@@ -1,7 +1,7 @@
 {
   "Name": "Azure.Storage.Common",
-  "Version": "12.25.0-alpha.20250708.1",
-  "DevVersion": "12.25.0-alpha.20250708.1",
+  "Version": "12.25.0-alpha.20250709.2",
+  "DevVersion": "12.25.0-alpha.20250709.2",
   "DirectoryPath": "sdk/storage/Azure.Storage.Common",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/Azure.Storage.Common/README.md",
@@ -14,18 +14,18 @@
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
   "ArtifactDetails": {
-    "safeName": "AzureStorageCommon",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
     ],
+    "safeName": "AzureStorageCommon",
     "skipSmokeTests": true,
     "name": "Azure.Storage.Common"
   },
   "CIParameters": {
-    "CIMatrixConfigs": [],
-    "CheckAOTCompat": true,
     "BuildSnippets": false,
-    "AOTTestInputs": null
+    "CIMatrixConfigs": [],
+    "AOTTestInputs": null,
+    "CheckAOTCompat": true
   },
   "Namespaces": [
     "Azure.Storage",
