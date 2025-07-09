@@ -15,6 +15,7 @@
     <AssemblyVersion>4.6.0.0</AssemblyVersion>
     <AssemblyVersion>4.7.0.0</AssemblyVersion>
     <AssemblyVersion>4.8.0.0</AssemblyVersion>
+    <AssemblyVersion>4.9.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -41,6 +42,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="value" Type="System.String" />
@@ -66,6 +68,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -92,6 +95,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -124,6 +128,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -146,6 +151,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -168,6 +174,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -190,6 +197,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -212,6 +220,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -240,6 +249,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -262,6 +272,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -284,6 +295,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -306,6 +318,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -334,6 +347,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -360,6 +374,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -388,6 +403,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -410,6 +426,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -432,6 +449,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -454,6 +472,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -476,6 +495,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -498,6 +518,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Keys.Cryptography.SignatureAlgorithm</ReturnType>
@@ -520,6 +541,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Keys</AssemblyName>
         <AssemblyVersion>4.8.0.0</AssemblyVersion>
+        <AssemblyVersion>4.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

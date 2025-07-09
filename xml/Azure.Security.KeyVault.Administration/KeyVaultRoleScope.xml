@@ -13,6 +13,7 @@
     <AssemblyVersion>4.4.0.0</AssemblyVersion>
     <AssemblyVersion>4.5.0.0</AssemblyVersion>
     <AssemblyVersion>4.6.0.0</AssemblyVersion>
+    <AssemblyVersion>4.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -37,12 +38,13 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="value" Type="System.String" />
       </Parameters>
       <Docs>
-        <param name="value">To be added.</param>
+        <param name="value"> The value. </param>
         <summary> Initializes a new instance of <see cref="T:Azure.Security.KeyVault.Administration.KeyVaultRoleScope" />. </summary>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -59,6 +61,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="resourceId" Type="System.Uri" />
@@ -84,6 +87,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -109,6 +113,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -140,6 +145,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -167,6 +173,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleScope</ReturnType>
@@ -187,6 +194,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleScope</ReturnType>
@@ -207,6 +215,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -216,8 +225,8 @@
         <Parameter Name="right" Type="Azure.Security.KeyVault.Administration.KeyVaultRoleScope" />
       </Parameters>
       <Docs>
-        <param name="left">To be added.</param>
-        <param name="right">To be added.</param>
+        <param name="left"> The left value to compare. </param>
+        <param name="right"> The right value to compare. </param>
         <summary> Determines if two <see cref="T:Azure.Security.KeyVault.Administration.KeyVaultRoleScope" /> values are the same. </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -233,6 +242,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleScope</ReturnType>
@@ -241,8 +251,8 @@
         <Parameter Name="value" Type="System.String" />
       </Parameters>
       <Docs>
-        <param name="value">To be added.</param>
-        <summary> Converts a <see cref="T:System.String" /> to a <see cref="T:Azure.Security.KeyVault.Administration.KeyVaultRoleScope" />. </summary>
+        <param name="value"> The value. </param>
+        <summary> Converts a string to a <see cref="T:Azure.Security.KeyVault.Administration.KeyVaultRoleScope" />. </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -257,6 +267,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -266,8 +277,8 @@
         <Parameter Name="right" Type="Azure.Security.KeyVault.Administration.KeyVaultRoleScope" />
       </Parameters>
       <Docs>
-        <param name="left">To be added.</param>
-        <param name="right">To be added.</param>
+        <param name="left"> The left value to compare. </param>
+        <param name="right"> The right value to compare. </param>
         <summary> Determines if two <see cref="T:Azure.Security.KeyVault.Administration.KeyVaultRoleScope" /> values are not the same. </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -283,6 +294,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

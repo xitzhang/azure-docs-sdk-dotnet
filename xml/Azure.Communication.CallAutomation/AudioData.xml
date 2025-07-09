@@ -6,6 +6,7 @@
   <TypeSignature Language="F#" Value="type AudioData = class&#xA;    inherit StreamingData" />
   <AssemblyInfo>
     <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
     <AssemblyVersion>1.3.0.0</AssemblyVersion>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
     <AssemblyVersion>1.5.0.0</AssemblyVersion>
@@ -30,7 +31,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="data" Type="System.Byte[]" Index="0" FrameworkAlternate="azure-dotnet-preview" />
@@ -58,8 +59,10 @@
         <Parameter Name="data" Type="System.ReadOnlyMemory&lt;System.Byte&gt;" Index="0" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
-        <param name="data">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="data" />
+        <summary>
+            The audio data, encoded as a ReadOnlyMemory of bytes
+            </summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -76,8 +79,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType FrameworkAlternate="azure-dotnet">System.ReadOnlyMemory&lt;System.Byte&gt;</ReturnType>
@@ -85,7 +88,7 @@
       </ReturnValue>
       <Docs>
         <summary>
-            The audio data in base64 byte.
+            The audio data in ReadOnlyMemory byte.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -100,8 +103,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -123,8 +126,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CommunicationIdentifier</ReturnType>
@@ -146,8 +149,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTimeOffset</ReturnType>

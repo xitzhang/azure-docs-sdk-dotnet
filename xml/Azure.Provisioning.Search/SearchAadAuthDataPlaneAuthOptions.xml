@@ -105,8 +105,7 @@
       <MemberSignature Language="ILAsm" Value=".method familyhidebysig virtual instance void DefineProvisionableProperties() cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Provisioning.Search.SearchAadAuthDataPlaneAuthOptions.DefineProvisionableProperties" />
       <MemberSignature Language="VB.NET" Value="Protected Overrides Sub DefineProvisionableProperties ()" />
-      <MemberSignature Language="F#" Value="override this.DefineProvisionableProperties : unit -&gt; unit" Usage="searchAadAuthDataPlaneAuthOptions.DefineProvisionableProperties " FrameworkAlternate="azure-dotnet" />
-      <MemberSignature Language="F#" Value="abstract member DefineProvisionableProperties : unit -&gt; unit&#xA;override this.DefineProvisionableProperties : unit -&gt; unit" Usage="searchAadAuthDataPlaneAuthOptions.DefineProvisionableProperties " FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="F#" Value="override this.DefineProvisionableProperties : unit -&gt; unit" Usage="searchAadAuthDataPlaneAuthOptions.DefineProvisionableProperties " />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning.Search</AssemblyName>

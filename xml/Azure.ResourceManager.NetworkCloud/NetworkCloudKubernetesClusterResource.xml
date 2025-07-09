@@ -10,6 +10,7 @@
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
     <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -44,6 +45,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -61,6 +63,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -93,6 +96,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;</ReturnType>
@@ -125,6 +129,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -153,6 +158,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterData</ReturnType>
@@ -165,17 +171,16 @@
       </Docs>
     </Member>
     <Member MemberName="Delete">
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation Delete (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation Delete (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.ResourceManager.ArmOperation Delete(valuetype Azure.WaitUntil waitUntil, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource.Delete(Azure.WaitUntil,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function Delete (waitUntil As WaitUntil, cancellationToken As CancellationToken) As ArmOperation" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function Delete (waitUntil As WaitUntil, cancellationToken As CancellationToken) As ArmOperation" />
       <MemberSignature Language="F#" Value="abstract member Delete : Azure.WaitUntil * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation&#xA;override this.Delete : Azure.WaitUntil * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation" Usage="networkCloudKubernetesClusterResource.Delete (waitUntil, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation Delete (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function Delete (waitUntil As WaitUntil, Optional cancellationToken As CancellationToken = Nothing) As ArmOperation" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -211,15 +216,16 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="waitUntil" Type="Azure.WaitUntil" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifMatch" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifNoneMatch" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="waitUntil" Type="Azure.WaitUntil" />
+        <Parameter Name="ifMatch" Type="System.String" />
+        <Parameter Name="ifNoneMatch" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="waitUntil">
@@ -235,17 +241,16 @@
       </Docs>
     </Member>
     <Member MemberName="DeleteAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt; DeleteAsync (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt; DeleteAsync (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.ResourceManager.ArmOperation&gt; DeleteAsync(valuetype Azure.WaitUntil waitUntil, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource.DeleteAsync(Azure.WaitUntil,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteAsync (waitUntil As WaitUntil, cancellationToken As CancellationToken) As Task(Of ArmOperation)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteAsync (waitUntil As WaitUntil, cancellationToken As CancellationToken) As Task(Of ArmOperation)" />
       <MemberSignature Language="F#" Value="abstract member DeleteAsync : Azure.WaitUntil * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt;&#xA;override this.DeleteAsync : Azure.WaitUntil * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt;" Usage="networkCloudKubernetesClusterResource.DeleteAsync (waitUntil, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&gt; DeleteAsync (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteAsync (waitUntil As WaitUntil, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ArmOperation)" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -281,15 +286,16 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="waitUntil" Type="Azure.WaitUntil" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifMatch" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifNoneMatch" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="waitUntil" Type="Azure.WaitUntil" />
+        <Parameter Name="ifMatch" Type="System.String" />
+        <Parameter Name="ifNoneMatch" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="waitUntil">
@@ -305,17 +311,16 @@
       </Docs>
     </Member>
     <Member MemberName="DeleteWithResponse">
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt; DeleteWithResponse (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt; DeleteWithResponse (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.ResourceManager.ArmOperation`1&lt;class Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt; DeleteWithResponse(valuetype Azure.WaitUntil waitUntil, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource.DeleteWithResponse(Azure.WaitUntil,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteWithResponse (waitUntil As WaitUntil, cancellationToken As CancellationToken) As ArmOperation(Of NetworkCloudOperationStatusResult)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteWithResponse (waitUntil As WaitUntil, cancellationToken As CancellationToken) As ArmOperation(Of NetworkCloudOperationStatusResult)" />
       <MemberSignature Language="F#" Value="abstract member DeleteWithResponse : Azure.WaitUntil * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&#xA;override this.DeleteWithResponse : Azure.WaitUntil * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;" Usage="networkCloudKubernetesClusterResource.DeleteWithResponse (waitUntil, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt; DeleteWithResponse (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteWithResponse (waitUntil As WaitUntil, Optional cancellationToken As CancellationToken = Nothing) As ArmOperation(Of NetworkCloudOperationStatusResult)" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;</ReturnType>
@@ -336,17 +341,16 @@
       </Docs>
     </Member>
     <Member MemberName="DeleteWithResponseAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt; DeleteWithResponseAsync (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt; DeleteWithResponseAsync (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.ResourceManager.ArmOperation`1&lt;class Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt; DeleteWithResponseAsync(valuetype Azure.WaitUntil waitUntil, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource.DeleteWithResponseAsync(Azure.WaitUntil,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteWithResponseAsync (waitUntil As WaitUntil, cancellationToken As CancellationToken) As Task(Of ArmOperation(Of NetworkCloudOperationStatusResult))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteWithResponseAsync (waitUntil As WaitUntil, cancellationToken As CancellationToken) As Task(Of ArmOperation(Of NetworkCloudOperationStatusResult))" />
       <MemberSignature Language="F#" Value="abstract member DeleteWithResponseAsync : Azure.WaitUntil * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt;&#xA;override this.DeleteWithResponseAsync : Azure.WaitUntil * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt;" Usage="networkCloudKubernetesClusterResource.DeleteWithResponseAsync (waitUntil, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt; DeleteWithResponseAsync (Azure.WaitUntil waitUntil, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function DeleteWithResponseAsync (waitUntil As WaitUntil, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ArmOperation(Of NetworkCloudOperationStatusResult))" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt;</ReturnType>
@@ -376,6 +380,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -402,6 +407,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;</ReturnType>
@@ -428,6 +434,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudAgentPoolResource&gt;</ReturnType>
@@ -460,6 +467,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudAgentPoolResource&gt;&gt;</ReturnType>
@@ -492,6 +500,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudAgentPoolCollection</ReturnType>
@@ -513,6 +522,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterFeatureResource&gt;</ReturnType>
@@ -545,6 +555,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterFeatureResource&gt;&gt;</ReturnType>
@@ -577,6 +588,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterFeatureCollection</ReturnType>
@@ -598,6 +610,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -618,6 +631,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -648,6 +662,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;</ReturnType>
@@ -678,6 +693,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceType</ReturnType>
@@ -697,6 +713,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;</ReturnType>
@@ -730,6 +747,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.Models.NetworkCloudOperationStatusResult&gt;&gt;</ReturnType>
@@ -763,6 +781,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -793,6 +812,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;</ReturnType>
@@ -826,6 +846,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterData</ReturnType>
@@ -858,6 +879,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -889,6 +911,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterData</ReturnType>
@@ -921,6 +944,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -950,6 +974,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -968,17 +993,16 @@
       </Docs>
     </Member>
     <Member MemberName="Update">
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt; Update (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt; Update (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.ResourceManager.ArmOperation`1&lt;class Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt; Update(valuetype Azure.WaitUntil waitUntil, class Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource.Update(Azure.WaitUntil,Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function Update (waitUntil As WaitUntil, patch As NetworkCloudKubernetesClusterPatch, cancellationToken As CancellationToken) As ArmOperation(Of NetworkCloudKubernetesClusterResource)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function Update (waitUntil As WaitUntil, patch As NetworkCloudKubernetesClusterPatch, cancellationToken As CancellationToken) As ArmOperation(Of NetworkCloudKubernetesClusterResource)" />
       <MemberSignature Language="F#" Value="abstract member Update : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&#xA;override this.Update : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch * System.Threading.CancellationToken -&gt; Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;" Usage="networkCloudKubernetesClusterResource.Update (waitUntil, patch, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt; Update (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function Update (waitUntil As WaitUntil, patch As NetworkCloudKubernetesClusterPatch, Optional cancellationToken As CancellationToken = Nothing) As ArmOperation(Of NetworkCloudKubernetesClusterResource)" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
@@ -1012,16 +1036,17 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="waitUntil" Type="Azure.WaitUntil" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifMatch" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifNoneMatch" Type="System.String" Index="3" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="4" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="waitUntil" Type="Azure.WaitUntil" />
+        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch" />
+        <Parameter Name="ifMatch" Type="System.String" />
+        <Parameter Name="ifNoneMatch" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="waitUntil">
@@ -1040,17 +1065,16 @@
       </Docs>
     </Member>
     <Member MemberName="UpdateAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt; UpdateAsync (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, System.Threading.CancellationToken cancellationToken);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt; UpdateAsync (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.ResourceManager.ArmOperation`1&lt;class Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt; UpdateAsync(valuetype Azure.WaitUntil waitUntil, class Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource.UpdateAsync(Azure.WaitUntil,Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function UpdateAsync (waitUntil As WaitUntil, patch As NetworkCloudKubernetesClusterPatch, cancellationToken As CancellationToken) As Task(Of ArmOperation(Of NetworkCloudKubernetesClusterResource))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function UpdateAsync (waitUntil As WaitUntil, patch As NetworkCloudKubernetesClusterPatch, cancellationToken As CancellationToken) As Task(Of ArmOperation(Of NetworkCloudKubernetesClusterResource))" />
       <MemberSignature Language="F#" Value="abstract member UpdateAsync : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;&#xA;override this.UpdateAsync : Azure.WaitUntil * Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;" Usage="networkCloudKubernetesClusterResource.UpdateAsync (waitUntil, patch, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt; UpdateAsync (Azure.WaitUntil waitUntil, Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch patch, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function UpdateAsync (waitUntil As WaitUntil, patch As NetworkCloudKubernetesClusterPatch, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ArmOperation(Of NetworkCloudKubernetesClusterResource))" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;</ReturnType>
@@ -1084,16 +1108,17 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.NetworkCloud</AssemblyName>
         <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.ResourceManager.ArmOperation&lt;Azure.ResourceManager.NetworkCloud.NetworkCloudKubernetesClusterResource&gt;&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="waitUntil" Type="Azure.WaitUntil" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch" Index="1" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifMatch" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="ifNoneMatch" Type="System.String" Index="3" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="4" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="waitUntil" Type="Azure.WaitUntil" />
+        <Parameter Name="patch" Type="Azure.ResourceManager.NetworkCloud.Models.NetworkCloudKubernetesClusterPatch" />
+        <Parameter Name="ifMatch" Type="System.String" />
+        <Parameter Name="ifNoneMatch" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="waitUntil">

@@ -49,18 +49,23 @@
       </Docs>
     </Member>
     <Member MemberName="ExpiresOn">
-      <MemberSignature Language="C#" Value="public DateTimeOffset ExpiresOn { get; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.DateTimeOffset ExpiresOn" />
+      <MemberSignature Language="C#" Value="public DateTimeOffset? ExpiresOn { get; }" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Nullable`1&lt;valuetype System.DateTimeOffset&gt; ExpiresOn" FrameworkAlternate="azure-dotnet" />
       <MemberSignature Language="DocId" Value="P:System.ClientModel.Primitives.AuthenticationToken.ExpiresOn" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property ExpiresOn As DateTimeOffset" />
-      <MemberSignature Language="F#" Value="member this.ExpiresOn : DateTimeOffset" Usage="System.ClientModel.Primitives.AuthenticationToken.ExpiresOn" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property ExpiresOn As Nullable(Of DateTimeOffset)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="member this.ExpiresOn : Nullable&lt;DateTimeOffset&gt;" Usage="System.ClientModel.Primitives.AuthenticationToken.ExpiresOn" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public DateTimeOffset ExpiresOn { get; }" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.DateTimeOffset ExpiresOn" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property ExpiresOn As DateTimeOffset" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="F#" Value="member this.ExpiresOn : DateTimeOffset" Usage="System.ClientModel.Primitives.AuthenticationToken.ExpiresOn" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType>System.DateTimeOffset</ReturnType>
+        <ReturnType FrameworkAlternate="azure-dotnet">System.Nullable&lt;System.DateTimeOffset&gt;</ReturnType>
+        <ReturnType FrameworkAlternate="azure-dotnet-preview">System.DateTimeOffset</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>

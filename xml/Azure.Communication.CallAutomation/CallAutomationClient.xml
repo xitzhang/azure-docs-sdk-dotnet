@@ -32,8 +32,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -50,8 +50,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="connectionString" Type="System.String" />
@@ -71,8 +71,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="connectionString" Type="System.String" />
@@ -94,8 +94,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="endpoint" Type="System.Uri" />
@@ -110,6 +110,56 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public CallAutomationClient (Uri pmaEndpoint, string connectionString, Azure.Communication.CallAutomation.CallAutomationClientOptions options = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class System.Uri pmaEndpoint, string connectionString, class Azure.Communication.CallAutomation.CallAutomationClientOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Communication.CallAutomation.CallAutomationClient.#ctor(System.Uri,System.String,Azure.Communication.CallAutomation.CallAutomationClientOptions)" />
+      <MemberSignature Language="VB.NET" Value="Public Sub New (pmaEndpoint As Uri, connectionString As String, Optional options As CallAutomationClientOptions = Nothing)" />
+      <MemberSignature Language="F#" Value="new Azure.Communication.CallAutomation.CallAutomationClient : Uri * string * Azure.Communication.CallAutomation.CallAutomationClientOptions -&gt; Azure.Communication.CallAutomation.CallAutomationClient" Usage="new Azure.Communication.CallAutomation.CallAutomationClient (pmaEndpoint, connectionString, options)" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters>
+        <Parameter Name="pmaEndpoint" Type="System.Uri" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="connectionString" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.Communication.CallAutomation.CallAutomationClientOptions" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="pmaEndpoint">To be added.</param>
+        <param name="connectionString">To be added.</param>
+        <param name="options">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public CallAutomationClient (Uri pmaEndpoint, Uri acsEndpoint, Azure.Core.TokenCredential credential, Azure.Communication.CallAutomation.CallAutomationClientOptions options = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class System.Uri pmaEndpoint, class System.Uri acsEndpoint, class Azure.Core.TokenCredential credential, class Azure.Communication.CallAutomation.CallAutomationClientOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Communication.CallAutomation.CallAutomationClient.#ctor(System.Uri,System.Uri,Azure.Core.TokenCredential,Azure.Communication.CallAutomation.CallAutomationClientOptions)" />
+      <MemberSignature Language="VB.NET" Value="Public Sub New (pmaEndpoint As Uri, acsEndpoint As Uri, credential As TokenCredential, Optional options As CallAutomationClientOptions = Nothing)" />
+      <MemberSignature Language="F#" Value="new Azure.Communication.CallAutomation.CallAutomationClient : Uri * Uri * Azure.Core.TokenCredential * Azure.Communication.CallAutomation.CallAutomationClientOptions -&gt; Azure.Communication.CallAutomation.CallAutomationClient" Usage="new Azure.Communication.CallAutomation.CallAutomationClient (pmaEndpoint, acsEndpoint, credential, options)" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters>
+        <Parameter Name="pmaEndpoint" Type="System.Uri" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="acsEndpoint" Type="System.Uri" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="credential" Type="Azure.Core.TokenCredential" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.Communication.CallAutomation.CallAutomationClientOptions" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="pmaEndpoint">To be added.</param>
+        <param name="acsEndpoint">To be added.</param>
+        <param name="credential">To be added.</param>
+        <param name="options">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="AnswerCall">
       <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.Communication.CallAutomation.AnswerCallResult&gt; AnswerCall (Azure.Communication.CallAutomation.AnswerCallOptions options, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.Communication.CallAutomation.AnswerCallResult&gt; AnswerCall(class Azure.Communication.CallAutomation.AnswerCallOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
@@ -119,8 +169,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Communication.CallAutomation.AnswerCallResult&gt;</ReturnType>
@@ -153,8 +203,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Communication.CallAutomation.AnswerCallResult&gt;</ReturnType>
@@ -187,8 +237,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Communication.CallAutomation.AnswerCallResult&gt;&gt;</ReturnType>
@@ -221,8 +271,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Communication.CallAutomation.AnswerCallResult&gt;&gt;</ReturnType>
@@ -255,8 +305,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Communication.CallAutomation.ConnectCallResult&gt;</ReturnType>
@@ -289,8 +339,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Communication.CallAutomation.ConnectCallResult&gt;</ReturnType>
@@ -325,8 +375,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Communication.CallAutomation.ConnectCallResult&gt;&gt;</ReturnType>
@@ -359,8 +409,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Communication.CallAutomation.ConnectCallResult&gt;&gt;</ReturnType>
@@ -395,8 +445,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Communication.CallAutomation.CreateCallResult&gt;</ReturnType>
@@ -429,8 +479,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Communication.CallAutomation.CreateCallResult&gt;</ReturnType>
@@ -465,8 +515,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Communication.CallAutomation.CreateCallResult&gt;&gt;</ReturnType>
@@ -499,8 +549,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Communication.CallAutomation.CreateCallResult&gt;&gt;</ReturnType>
@@ -535,8 +585,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Communication.CallAutomation.CreateCallResult&gt;</ReturnType>
@@ -569,8 +619,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Communication.CallAutomation.CreateCallResult&gt;&gt;</ReturnType>
@@ -603,8 +653,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.CallConnection</ReturnType>
@@ -628,8 +678,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.CallRecording</ReturnType>
@@ -650,8 +700,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.CallAutomationEventProcessor</ReturnType>
@@ -672,8 +722,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -704,8 +754,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -736,8 +786,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -768,8 +818,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -800,8 +850,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -832,8 +882,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -862,8 +912,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -894,8 +944,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -924,8 +974,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CommunicationUserIdentifier</ReturnType>

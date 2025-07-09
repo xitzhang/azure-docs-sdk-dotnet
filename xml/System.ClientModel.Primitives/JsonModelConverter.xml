@@ -40,7 +40,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -60,7 +59,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -83,7 +81,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -108,7 +105,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -128,15 +124,15 @@
       </Docs>
     </Member>
     <Member MemberName="Read">
-      <MemberSignature Language="C#" Value="public override System.ClientModel.Primitives.IJsonModel&lt;object&gt; Read (ref System.Text.Json.Utf8JsonReader reader, Type typeToConvert, System.Text.Json.JsonSerializerOptions options);" />
+      <MemberSignature Language="C#" Value="public override System.ClientModel.Primitives.IJsonModel&lt;object&gt;? Read (ref System.Text.Json.Utf8JsonReader reader, Type typeToConvert, System.Text.Json.JsonSerializerOptions options);" FrameworkAlternate="azure-dotnet" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance class System.ClientModel.Primitives.IJsonModel`1&lt;object&gt; Read(valuetype System.Text.Json.Utf8JsonReader&amp; reader, class System.Type typeToConvert, class System.Text.Json.JsonSerializerOptions options) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.ClientModel.Primitives.JsonModelConverter.Read(System.Text.Json.Utf8JsonReader@,System.Type,System.Text.Json.JsonSerializerOptions)" />
       <MemberSignature Language="VB.NET" Value="Public Overrides Function Read (ByRef reader As Utf8JsonReader, typeToConvert As Type, options As JsonSerializerOptions) As IJsonModel(Of Object)" />
       <MemberSignature Language="F#" Value="override this.Read : Utf8JsonReader * Type * System.Text.Json.JsonSerializerOptions -&gt; System.ClientModel.Primitives.IJsonModel&lt;obj&gt;" Usage="jsonModelConverter.Read (reader, typeToConvert, options)" />
+      <MemberSignature Language="C#" Value="public override System.ClientModel.Primitives.IJsonModel&lt;object&gt; Read (ref System.Text.Json.Utf8JsonReader reader, Type typeToConvert, System.Text.Json.JsonSerializerOptions options);" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -168,7 +164,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

@@ -6,6 +6,7 @@
   <TypeSignature Language="F#" Value="type IncomingCall = class&#xA;    inherit CallAutomationEventBase" />
   <AssemblyInfo>
     <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
     <AssemblyVersion>1.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -28,7 +29,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -48,7 +49,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.CustomCallingContext</ReturnType>
@@ -68,7 +69,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.IncomingCall</ReturnType>
@@ -94,7 +95,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CommunicationIdentifier</ReturnType>
@@ -114,7 +115,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -134,7 +135,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CommunicationIdentifier</ReturnType>
@@ -154,7 +155,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CommunicationIdentifier</ReturnType>

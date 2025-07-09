@@ -1,9 +1,13 @@
 <Type Name="KeyVaultRoleDefinition" FullName="Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition">
-  <TypeSignature Language="C#" Value="public class KeyVaultRoleDefinition" />
-  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit KeyVaultRoleDefinition extends System.Object" />
+  <TypeSignature Language="C#" Value="public class KeyVaultRoleDefinition" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit KeyVaultRoleDefinition extends System.Object" FrameworkAlternate="azure-dotnet" />
   <TypeSignature Language="DocId" Value="T:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" />
-  <TypeSignature Language="VB.NET" Value="Public Class KeyVaultRoleDefinition" />
-  <TypeSignature Language="F#" Value="type KeyVaultRoleDefinition = class" />
+  <TypeSignature Language="VB.NET" Value="Public Class KeyVaultRoleDefinition" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="F#" Value="type KeyVaultRoleDefinition = class" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="C#" Value="public class KeyVaultRoleDefinition : System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;, System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit KeyVaultRoleDefinition extends System.Object implements class System.ClientModel.Primitives.IJsonModel`1&lt;class Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;, class System.ClientModel.Primitives.IPersistableModel`1&lt;class Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="VB.NET" Value="Public Class KeyVaultRoleDefinition&#xA;Implements IJsonModel(Of KeyVaultRoleDefinition), IPersistableModel(Of KeyVaultRoleDefinition)" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="F#" Value="type KeyVaultRoleDefinition = class&#xA;    interface IJsonModel&lt;KeyVaultRoleDefinition&gt;&#xA;    interface IPersistableModel&lt;KeyVaultRoleDefinition&gt;" FrameworkAlternate="azure-dotnet-preview" />
   <AssemblyInfo>
     <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
     <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -13,11 +17,22 @@
     <AssemblyVersion>4.4.0.0</AssemblyVersion>
     <AssemblyVersion>4.5.0.0</AssemblyVersion>
     <AssemblyVersion>4.6.0.0</AssemblyVersion>
+    <AssemblyVersion>4.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
   </Base>
-  <Interfaces />
+  <Interfaces>
+    <Interface FrameworkAlternate="azure-dotnet-preview">
+      <InterfaceName>System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;</InterfaceName>
+    </Interface>
+    <Interface FrameworkAlternate="azure-dotnet-preview">
+      <InterfaceName>System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;</InterfaceName>
+    </Interface>
+    <Interface FrameworkAlternate="azure-dotnet-preview">
+      <InterfaceName>System.ClientModel.Primitives.IPersistableModel&lt;T&gt;</InterfaceName>
+    </Interface>
+  </Interfaces>
   <Docs>
     <summary> Role definition. </summary>
     <remarks>To be added.</remarks>
@@ -33,6 +48,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -50,6 +66,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleScope&gt;</ReturnType>
@@ -70,6 +87,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -90,6 +108,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -97,6 +116,57 @@
       <Docs>
         <summary> The role definition ID. </summary>
         <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="JsonModelCreateCore">
+      <MemberSignature Language="C#" Value="protected virtual Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition JsonModelCreateCore (ref System.Text.Json.Utf8JsonReader reader, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition JsonModelCreateCore(valuetype System.Text.Json.Utf8JsonReader&amp; reader, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.JsonModelCreateCore(System.Text.Json.Utf8JsonReader@,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Function JsonModelCreateCore (ByRef reader As Utf8JsonReader, options As ModelReaderWriterOptions) As KeyVaultRoleDefinition" />
+      <MemberSignature Language="F#" Value="abstract member JsonModelCreateCore : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&#xA;override this.JsonModelCreateCore : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" Usage="keyVaultRoleDefinition.JsonModelCreateCore (reader, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="reader" Type="System.Text.Json.Utf8JsonReader" RefType="ref" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="reader"> The JSON reader. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="JsonModelWriteCore">
+      <MemberSignature Language="C#" Value="protected virtual void JsonModelWriteCore (System.Text.Json.Utf8JsonWriter writer, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance void JsonModelWriteCore(class System.Text.Json.Utf8JsonWriter writer, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.JsonModelWriteCore(System.Text.Json.Utf8JsonWriter,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Sub JsonModelWriteCore (writer As Utf8JsonWriter, options As ModelReaderWriterOptions)" />
+      <MemberSignature Language="F#" Value="abstract member JsonModelWriteCore : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit&#xA;override this.JsonModelWriteCore : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit" Usage="keyVaultRoleDefinition.JsonModelWriteCore (writer, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="writer" Type="System.Text.Json.Utf8JsonWriter" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="writer"> The JSON writer. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -110,6 +180,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -117,6 +188,30 @@
       <Docs>
         <summary> The role definition name. </summary>
         <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="op_Explicit">
+      <MemberSignature Language="C#" Value="public static explicit operator Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition (Azure.Response result);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig specialname class Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition op_Explicit(class Azure.Response result) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.op_Explicit(Azure.Response)~Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Narrowing Operator CType (result As Response) As KeyVaultRoleDefinition" />
+      <MemberSignature Language="F#" Value="static member op_Explicit : Azure.Response -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" Usage="Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.op_Explicit result" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="result" Type="Azure.Response" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="result"> The <see cref="T:Azure.Response" /> to deserialize the <see cref="T:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" /> from. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -130,6 +225,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;</ReturnType>
@@ -137,6 +233,56 @@
       <Docs>
         <summary> Role definition permissions. </summary>
         <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="PersistableModelCreateCore">
+      <MemberSignature Language="C#" Value="protected virtual Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition PersistableModelCreateCore (BinaryData data, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition PersistableModelCreateCore(class System.BinaryData data, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.PersistableModelCreateCore(System.BinaryData,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Function PersistableModelCreateCore (data As BinaryData, options As ModelReaderWriterOptions) As KeyVaultRoleDefinition" />
+      <MemberSignature Language="F#" Value="abstract member PersistableModelCreateCore : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&#xA;override this.PersistableModelCreateCore : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" Usage="keyVaultRoleDefinition.PersistableModelCreateCore (data, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="data" Type="System.BinaryData" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="data"> The data to parse. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="PersistableModelWriteCore">
+      <MemberSignature Language="C#" Value="protected virtual BinaryData PersistableModelWriteCore (System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance class System.BinaryData PersistableModelWriteCore(class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.PersistableModelWriteCore(System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Function PersistableModelWriteCore (options As ModelReaderWriterOptions) As BinaryData" />
+      <MemberSignature Language="F#" Value="abstract member PersistableModelWriteCore : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData&#xA;override this.PersistableModelWriteCore : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData" Usage="keyVaultRoleDefinition.PersistableModelWriteCore options" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.BinaryData</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -150,6 +296,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -170,6 +317,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleType&gt;</ReturnType>
@@ -177,6 +325,146 @@
       <Docs>
         <summary> The role type. </summary>
         <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create">
+      <MemberSignature Language="C#" Value="Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition IJsonModel&lt;KeyVaultRoleDefinition&gt;.Create (ref System.Text.Json.Utf8JsonReader reader, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create(valuetype System.Text.Json.Utf8JsonReader&amp; reader, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.System#ClientModel#Primitives#IJsonModel&lt;Azure#Security#KeyVault#Administration#KeyVaultRoleDefinition&gt;#Create(System.Text.Json.Utf8JsonReader@,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function Create (ByRef reader As Utf8JsonReader, options As ModelReaderWriterOptions) As KeyVaultRoleDefinition Implements IJsonModel(Of KeyVaultRoleDefinition).Create" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&#xA;override this.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" Usage="keyVaultRoleDefinition.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create (reader, options)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IJsonModel`1.Create(System.Text.Json.Utf8JsonReader@,System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="reader" Type="System.Text.Json.Utf8JsonReader" RefType="ref" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="reader"> The JSON reader. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write">
+      <MemberSignature Language="C#" Value="void IJsonModel&lt;KeyVaultRoleDefinition&gt;.Write (System.Text.Json.Utf8JsonWriter writer, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance void System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write(class System.Text.Json.Utf8JsonWriter writer, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.System#ClientModel#Primitives#IJsonModel&lt;Azure#Security#KeyVault#Administration#KeyVaultRoleDefinition&gt;#Write(System.Text.Json.Utf8JsonWriter,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Sub Write (writer As Utf8JsonWriter, options As ModelReaderWriterOptions) Implements IJsonModel(Of KeyVaultRoleDefinition).Write" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit&#xA;override this.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit" Usage="keyVaultRoleDefinition.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write (writer, options)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IJsonModel`1.Write(System.Text.Json.Utf8JsonWriter,System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="writer" Type="System.Text.Json.Utf8JsonWriter" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="writer"> The JSON writer. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create">
+      <MemberSignature Language="C#" Value="Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition IPersistableModel&lt;KeyVaultRoleDefinition&gt;.Create (BinaryData data, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create(class System.BinaryData data, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.System#ClientModel#Primitives#IPersistableModel&lt;Azure#Security#KeyVault#Administration#KeyVaultRoleDefinition&gt;#Create(System.BinaryData,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function Create (data As BinaryData, options As ModelReaderWriterOptions) As KeyVaultRoleDefinition Implements IPersistableModel(Of KeyVaultRoleDefinition).Create" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&#xA;override this.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition" Usage="keyVaultRoleDefinition.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Create (data, options)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IPersistableModel`1.Create(System.BinaryData,System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="data" Type="System.BinaryData" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="data"> The data to parse. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.GetFormatFromOptions">
+      <MemberSignature Language="C#" Value="string IPersistableModel&lt;KeyVaultRoleDefinition&gt;.GetFormatFromOptions (System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance string System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.GetFormatFromOptions(class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.System#ClientModel#Primitives#IPersistableModel&lt;Azure#Security#KeyVault#Administration#KeyVaultRoleDefinition&gt;#GetFormatFromOptions(System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function GetFormatFromOptions (options As ModelReaderWriterOptions) As String Implements IPersistableModel(Of KeyVaultRoleDefinition).GetFormatFromOptions" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.GetFormatFromOptions : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; string&#xA;override this.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.GetFormatFromOptions : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; string" Usage="keyVaultRoleDefinition.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.GetFormatFromOptions options" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IPersistableModel`1.GetFormatFromOptions(System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write">
+      <MemberSignature Language="C#" Value="BinaryData IPersistableModel&lt;KeyVaultRoleDefinition&gt;.Write (System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance class System.BinaryData System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write(class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition.System#ClientModel#Primitives#IPersistableModel&lt;Azure#Security#KeyVault#Administration#KeyVaultRoleDefinition&gt;#Write(System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function Write (options As ModelReaderWriterOptions) As BinaryData Implements IPersistableModel(Of KeyVaultRoleDefinition).Write" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData&#xA;override this.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData" Usage="keyVaultRoleDefinition.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinition&gt;.Write options" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IPersistableModel`1.Write(System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.BinaryData</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -190,6 +478,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.Security.KeyVault.Administration.KeyVaultRoleDefinitionType&gt;</ReturnType>

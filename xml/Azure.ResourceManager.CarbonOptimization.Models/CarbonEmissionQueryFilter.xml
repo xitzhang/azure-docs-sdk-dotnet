@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -47,6 +48,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="dateRange" Type="Azure.ResourceManager.CarbonOptimization.Models.CarbonEmissionQueryDateRange" />
@@ -73,6 +75,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.CarbonOptimization.Models.CarbonEmissionScope&gt;</ReturnType>
@@ -93,6 +96,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CarbonOptimization.Models.CarbonEmissionQueryDateRange</ReturnType>
@@ -113,6 +117,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -138,6 +143,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Core.AzureLocation&gt;</ReturnType>
@@ -158,6 +164,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -178,6 +185,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Core.ResourceType&gt;</ReturnType>
@@ -198,6 +206,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -221,6 +230,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CarbonOptimization.Models.CarbonEmissionQueryFilter</ReturnType>
@@ -253,6 +263,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -284,6 +295,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.CarbonOptimization.Models.CarbonEmissionQueryFilter</ReturnType>
@@ -316,6 +328,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -345,6 +358,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.CarbonOptimization</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>

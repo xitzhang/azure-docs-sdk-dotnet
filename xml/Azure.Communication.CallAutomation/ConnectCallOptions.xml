@@ -6,6 +6,7 @@
   <TypeSignature Language="F#" Value="type ConnectCallOptions = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
     <AssemblyVersion>1.3.0.0</AssemblyVersion>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
     <AssemblyVersion>1.5.0.0</AssemblyVersion>
@@ -30,8 +31,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="callLocator" Type="Azure.Communication.CallAutomation.CallLocator" />
@@ -55,8 +56,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -78,8 +79,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.CallIntelligenceOptions</ReturnType>
@@ -101,8 +102,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.CallLocator</ReturnType>
@@ -111,6 +112,26 @@
         <summary>
             Either a GroupCallLocator or ServerCallLocator or RoomCallLocator for locating the call.
             </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="EnableLoopbackAudio">
+      <MemberSignature Language="C#" Value="public bool? EnableLoopbackAudio { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Nullable`1&lt;bool&gt; EnableLoopbackAudio" />
+      <MemberSignature Language="DocId" Value="P:Azure.Communication.CallAutomation.ConnectCallOptions.EnableLoopbackAudio" />
+      <MemberSignature Language="VB.NET" Value="Public Property EnableLoopbackAudio As Nullable(Of Boolean)" />
+      <MemberSignature Language="F#" Value="member this.EnableLoopbackAudio : Nullable&lt;bool&gt; with get, set" Usage="Azure.Communication.CallAutomation.ConnectCallOptions.EnableLoopbackAudio" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>
@@ -124,8 +145,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.MediaStreamingOptions</ReturnType>
@@ -147,8 +168,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -170,8 +191,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.TranscriptionOptions</ReturnType>

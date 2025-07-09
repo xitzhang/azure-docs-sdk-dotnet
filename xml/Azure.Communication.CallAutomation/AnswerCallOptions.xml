@@ -33,8 +33,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="incomingCallContext" Type="System.String" />
@@ -58,8 +58,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CommunicationUserIdentifier</ReturnType>
@@ -81,8 +81,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -104,8 +104,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.CallIntelligenceOptions</ReturnType>
@@ -114,6 +114,46 @@
         <summary>
             AI options for the call such as endpoint URI of the Azure Cognitive Services resource
             </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="CustomCallingContext">
+      <MemberSignature Language="C#" Value="public Azure.Communication.CallAutomation.CustomCallingContext CustomCallingContext { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.Communication.CallAutomation.CustomCallingContext CustomCallingContext" />
+      <MemberSignature Language="DocId" Value="P:Azure.Communication.CallAutomation.AnswerCallOptions.CustomCallingContext" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property CustomCallingContext As CustomCallingContext" />
+      <MemberSignature Language="F#" Value="member this.CustomCallingContext : Azure.Communication.CallAutomation.CustomCallingContext" Usage="Azure.Communication.CallAutomation.AnswerCallOptions.CustomCallingContext" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Communication.CallAutomation.CustomCallingContext</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="EnableLoopbackAudio">
+      <MemberSignature Language="C#" Value="public bool? EnableLoopbackAudio { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Nullable`1&lt;bool&gt; EnableLoopbackAudio" />
+      <MemberSignature Language="DocId" Value="P:Azure.Communication.CallAutomation.AnswerCallOptions.EnableLoopbackAudio" />
+      <MemberSignature Language="VB.NET" Value="Public Property EnableLoopbackAudio As Nullable(Of Boolean)" />
+      <MemberSignature Language="F#" Value="member this.EnableLoopbackAudio : Nullable&lt;bool&gt; with get, set" Usage="Azure.Communication.CallAutomation.AnswerCallOptions.EnableLoopbackAudio" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>
@@ -127,8 +167,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -150,8 +190,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.MediaStreamingOptions</ReturnType>
@@ -173,8 +213,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -196,8 +236,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Communication.CallAutomation.TranscriptionOptions</ReturnType>

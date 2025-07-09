@@ -39,7 +39,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -57,7 +56,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -87,7 +85,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -117,7 +114,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -149,6 +145,109 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="CreateJson">
+      <MemberSignature Language="C#" Value="public static System.ClientModel.BinaryContent CreateJson (string jsonString, bool validate = false);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.ClientModel.BinaryContent CreateJson(string jsonString, bool validate) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.ClientModel.BinaryContent.CreateJson(System.String,System.Boolean)" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Function CreateJson (jsonString As String, Optional validate As Boolean = false) As BinaryContent" />
+      <MemberSignature Language="F#" Value="static member CreateJson : string * bool -&gt; System.ClientModel.BinaryContent" Usage="System.ClientModel.BinaryContent.CreateJson (jsonString, validate)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.ClientModel</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.ClientModel.BinaryContent</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="jsonString" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="validate" Type="System.Boolean" Index="1" FrameworkAlternate="azure-dotnet" />
+      </Parameters>
+      <Docs>
+        <param name="jsonString">The JSON string to be used as the content.</param>
+        <param name="validate">Whether to validate that the string contains valid JSON.
+            If true, the method will validate the JSON format and throw an exception if invalid.
+            Defaults to false for backwards compatibility.</param>
+        <summary>
+            Creates an instance of <see cref="T:System.ClientModel.BinaryContent" /> that contains the
+            provided JSON string.
+            </summary>
+        <returns>An instance of <see cref="T:System.ClientModel.BinaryContent" /> that contains the
+            provided JSON string.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentException">Thrown when <paramref name="validate" /> is true and
+            <paramref name="jsonString" /> is not valid JSON.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="CreateJson&lt;T&gt;">
+      <MemberSignature Language="C#" Value="public static System.ClientModel.BinaryContent CreateJson&lt;T&gt; (T jsonSerializable, System.Text.Json.JsonSerializerOptions? options = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.ClientModel.BinaryContent CreateJson&lt;T&gt;(!!T jsonSerializable, class System.Text.Json.JsonSerializerOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.ClientModel.BinaryContent.CreateJson``1(``0,System.Text.Json.JsonSerializerOptions)" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Function CreateJson(Of T) (jsonSerializable As T, Optional options As JsonSerializerOptions = Nothing) As BinaryContent" />
+      <MemberSignature Language="F#" Value="static member CreateJson : 'T * System.Text.Json.JsonSerializerOptions -&gt; System.ClientModel.BinaryContent" Usage="System.ClientModel.BinaryContent.CreateJson (jsonSerializable, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.ClientModel</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.ClientModel.BinaryContent</ReturnType>
+      </ReturnValue>
+      <TypeParameters>
+        <TypeParameter Name="T" />
+      </TypeParameters>
+      <Parameters>
+        <Parameter Name="jsonSerializable" Type="T" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="options" Type="System.Text.Json.JsonSerializerOptions" Index="1" FrameworkAlternate="azure-dotnet" />
+      </Parameters>
+      <Docs>
+        <typeparam name="T">The type of the object to serialize.</typeparam>
+        <param name="jsonSerializable">The object to serialize to JSON.</param>
+        <param name="options">The <see cref="T:System.Text.Json.JsonSerializerOptions" /> to use for serialization.
+            If not provided, the default options will be used.</param>
+        <summary>
+            Creates an instance of <see cref="T:System.ClientModel.BinaryContent" /> that contains the
+            JSON representation of the provided object.
+            </summary>
+        <returns>An instance of <see cref="T:System.ClientModel.BinaryContent" /> that contains the
+            JSON representation of the provided object.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="CreateJson&lt;T&gt;">
+      <MemberSignature Language="C#" Value="public static System.ClientModel.BinaryContent CreateJson&lt;T&gt; (T jsonSerializable, System.Text.Json.Serialization.Metadata.JsonTypeInfo&lt;T&gt; jsonTypeInfo);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.ClientModel.BinaryContent CreateJson&lt;T&gt;(!!T jsonSerializable, class System.Text.Json.Serialization.Metadata.JsonTypeInfo`1&lt;!!T&gt; jsonTypeInfo) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.ClientModel.BinaryContent.CreateJson``1(``0,System.Text.Json.Serialization.Metadata.JsonTypeInfo{``0})" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Function CreateJson(Of T) (jsonSerializable As T, jsonTypeInfo As JsonTypeInfo(Of T)) As BinaryContent" />
+      <MemberSignature Language="F#" Value="static member CreateJson : 'T * System.Text.Json.Serialization.Metadata.JsonTypeInfo&lt;'T&gt; -&gt; System.ClientModel.BinaryContent" Usage="System.ClientModel.BinaryContent.CreateJson (jsonSerializable, jsonTypeInfo)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.ClientModel</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.ClientModel.BinaryContent</ReturnType>
+      </ReturnValue>
+      <TypeParameters>
+        <TypeParameter Name="T" />
+      </TypeParameters>
+      <Parameters>
+        <Parameter Name="jsonSerializable" Type="T" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="jsonTypeInfo" Type="System.Text.Json.Serialization.Metadata.JsonTypeInfo&lt;T&gt;" Index="1" FrameworkAlternate="azure-dotnet" />
+      </Parameters>
+      <Docs>
+        <typeparam name="T">The type of the object to serialize.</typeparam>
+        <param name="jsonSerializable">The object to serialize to JSON.</param>
+        <param name="jsonTypeInfo">The <see cref="T:System.Text.Json.Serialization.Metadata.JsonTypeInfo`1" /> to use for serialization.</param>
+        <summary>
+            Creates an instance of <see cref="T:System.ClientModel.BinaryContent" /> that contains the
+            JSON representation of the provided object using the specified JSON type information.
+            </summary>
+        <returns>An instance of <see cref="T:System.ClientModel.BinaryContent" /> that contains the
+            JSON representation of the provided object.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="Dispose">
       <MemberSignature Language="C#" Value="public abstract void Dispose ();" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance void Dispose() cil managed" />
@@ -161,7 +260,6 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -170,6 +268,28 @@
       <Parameters />
       <Docs>
         <summary>Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="MediaType">
+      <MemberSignature Language="C#" Value="public string? MediaType { get; protected set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string MediaType" />
+      <MemberSignature Language="DocId" Value="P:System.ClientModel.BinaryContent.MediaType" />
+      <MemberSignature Language="VB.NET" Value="Public Property MediaType As String" />
+      <MemberSignature Language="F#" Value="member this.MediaType : string with get, set" Usage="System.ClientModel.BinaryContent.MediaType" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.ClientModel</AssemblyName>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Gets the media type of the content.
+            </summary>
+        <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -182,7 +302,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -209,7 +328,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -239,7 +357,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
-        <AssemblyVersion>1.4.2.0</AssemblyVersion>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

@@ -13,6 +13,7 @@
     <AssemblyVersion>1.2.2.0</AssemblyVersion>
     <AssemblyVersion>1.2.3.0</AssemblyVersion>
     <AssemblyVersion>1.3.0.0</AssemblyVersion>
+    <AssemblyVersion>1.4.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.Models.TrackedResourceData</BaseTypeName>
@@ -43,6 +44,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="location" Type="Azure.Core.AzureLocation" />
@@ -63,12 +65,33 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Guid&gt;</ReturnType>
       </ReturnValue>
       <Docs>
         <summary> The id of the app associated with the identity. This is a random generated UUID by MSI. </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="IsolationScope">
+      <MemberSignature Language="C#" Value="public Azure.ResourceManager.ManagedServiceIdentities.Models.IsolationScope? IsolationScope { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Nullable`1&lt;valuetype Azure.ResourceManager.ManagedServiceIdentities.Models.IsolationScope&gt; IsolationScope" />
+      <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.ManagedServiceIdentities.Models.UserAssignedIdentityPatch.IsolationScope" />
+      <MemberSignature Language="VB.NET" Value="Public Property IsolationScope As Nullable(Of IsolationScope)" />
+      <MemberSignature Language="F#" Value="member this.IsolationScope : Nullable&lt;Azure.ResourceManager.ManagedServiceIdentities.Models.IsolationScope&gt; with get, set" Usage="Azure.ResourceManager.ManagedServiceIdentities.Models.UserAssignedIdentityPatch.IsolationScope" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Nullable&lt;Azure.ResourceManager.ManagedServiceIdentities.Models.IsolationScope&gt;</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary> Enum to configure regional restrictions on identity assignment, as necessary. </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>
@@ -83,6 +106,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -108,6 +132,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Guid&gt;</ReturnType>
@@ -131,6 +156,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ManagedServiceIdentities.Models.UserAssignedIdentityPatch</ReturnType>
@@ -163,6 +189,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -194,6 +221,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.ManagedServiceIdentities.Models.UserAssignedIdentityPatch</ReturnType>
@@ -226,6 +254,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -255,6 +284,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -282,6 +312,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.ManagedServiceIdentities</AssemblyName>
         <AssemblyVersion>1.3.0.0</AssemblyVersion>
+        <AssemblyVersion>1.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Guid&gt;</ReturnType>
