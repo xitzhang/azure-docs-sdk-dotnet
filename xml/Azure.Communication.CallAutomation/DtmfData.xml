@@ -7,13 +7,16 @@
   <AssemblyInfo>
     <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
     <AssemblyVersion>1.4.0.0</AssemblyVersion>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Communication.CallAutomation.StreamingData</BaseTypeName>
   </Base>
   <Interfaces />
   <Docs>
-    <summary>To be added.</summary>
+    <summary>
+            Streaming dtmf data.
+            </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
@@ -27,13 +30,16 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="data" Type="System.String" />
       </Parameters>
       <Docs>
-        <param name="data">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="data" />
+        <summary>
+            The dtmf data, encoded as a base64 string
+            </summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -47,12 +53,15 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Communication.CallAutomation</AssemblyName>
         <AssemblyVersion>1.4.0.0</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>
+            The dtmf data in base64 string.
+            </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>

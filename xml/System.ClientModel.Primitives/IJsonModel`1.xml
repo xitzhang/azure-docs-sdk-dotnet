@@ -15,6 +15,7 @@
     <AssemblyVersion>1.4.1.0</AssemblyVersion>
     <AssemblyVersion>1.4.2.0</AssemblyVersion>
     <AssemblyVersion>1.5.0.0</AssemblyVersion>
+    <AssemblyVersion>1.6.0.0</AssemblyVersion>
   </AssemblyInfo>
   <TypeParameters>
     <TypeParameter Name="T">
@@ -37,16 +38,16 @@
   </Docs>
   <Members>
     <Member MemberName="Create">
-      <MemberSignature Language="C#" Value="public T? Create (ref System.Text.Json.Utf8JsonReader reader, System.ClientModel.Primitives.ModelReaderWriterOptions options);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public T? Create (ref System.Text.Json.Utf8JsonReader reader, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance !T Create(valuetype System.Text.Json.Utf8JsonReader&amp; reader, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.ClientModel.Primitives.IJsonModel`1.Create(System.Text.Json.Utf8JsonReader@,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
       <MemberSignature Language="VB.NET" Value="Public Function Create (ByRef reader As Utf8JsonReader, options As ModelReaderWriterOptions) As T" />
       <MemberSignature Language="F#" Value="abstract member Create : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; 'T" Usage="iJsonModel.Create (reader, options)" />
-      <MemberSignature Language="C#" Value="public T Create (ref System.Text.Json.Utf8JsonReader reader, System.ClientModel.Primitives.ModelReaderWriterOptions options);" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -76,6 +77,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

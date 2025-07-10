@@ -9,6 +9,7 @@
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.ArmResource</BaseTypeName>
@@ -27,8 +28,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -45,8 +46,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.OracleDatabase.AutonomousDatabaseResource&gt;</ReturnType>
@@ -78,8 +79,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.OracleDatabase.AutonomousDatabaseResource&gt;&gt;</ReturnType>
@@ -111,8 +112,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.AutonomousDatabaseCollection</ReturnType>
@@ -133,8 +134,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.OracleDatabase.CloudExadataInfrastructureResource&gt;</ReturnType>
@@ -166,8 +167,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.OracleDatabase.CloudExadataInfrastructureResource&gt;&gt;</ReturnType>
@@ -199,8 +200,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.CloudExadataInfrastructureCollection</ReturnType>
@@ -221,8 +222,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.OracleDatabase.CloudVmClusterResource&gt;</ReturnType>
@@ -254,8 +255,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.OracleDatabase.CloudVmClusterResource&gt;&gt;</ReturnType>
@@ -287,8 +288,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.CloudVmClusterCollection</ReturnType>
@@ -310,13 +311,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.OracleDatabase.ExadbVmClusterResource&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="exadbVmClusterName" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="exadbVmClusterName" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="exadbVmClusterName"> The name of the ExadbVmCluster. </param>
@@ -342,13 +344,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.OracleDatabase.ExadbVmClusterResource&gt;&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="exadbVmClusterName" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="exadbVmClusterName" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="exadbVmClusterName"> The name of the ExadbVmCluster. </param>
@@ -374,6 +377,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.ExadbVmClusterCollection</ReturnType>
@@ -395,13 +399,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.ResourceManager.OracleDatabase.ExascaleDBStorageVaultResource&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="exascaleDbStorageVaultName" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="exascaleDbStorageVaultName" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="exascaleDbStorageVaultName"> The name of the ExascaleDbStorageVault. </param>
@@ -427,13 +432,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.ResourceManager.OracleDatabase.ExascaleDBStorageVaultResource&gt;&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="exascaleDbStorageVaultName" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="exascaleDbStorageVaultName" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="exascaleDbStorageVaultName"> The name of the ExascaleDbStorageVault. </param>
@@ -459,6 +465,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.OracleDatabase</AssemblyName>
         <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.OracleDatabase.ExascaleDBStorageVaultCollection</ReturnType>

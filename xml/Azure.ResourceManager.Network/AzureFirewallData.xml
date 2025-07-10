@@ -21,6 +21,7 @@
     <AssemblyVersion>1.10.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.0.0</AssemblyVersion>
     <AssemblyVersion>1.11.1.0</AssemblyVersion>
+    <AssemblyVersion>1.12.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.ResourceManager.Network.Models.NetworkTrackedResourceData</BaseTypeName>
@@ -52,8 +53,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -70,8 +71,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;</ReturnType>
@@ -91,8 +92,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Network.Models.AzureFirewallApplicationRuleCollectionData&gt;</ReturnType>
@@ -112,8 +113,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.Models.AzureFirewallAutoscaleConfiguration</ReturnType>
@@ -133,8 +134,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ETag&gt;</ReturnType>
@@ -154,8 +155,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -175,8 +176,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.Models.HubIPAddresses</ReturnType>
@@ -196,8 +197,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Network.Models.AzureFirewallIPConfiguration&gt;</ReturnType>
@@ -217,8 +218,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Network.Models.AzureFirewallIPGroups&gt;</ReturnType>
@@ -238,8 +239,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -264,8 +265,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.Models.AzureFirewallIPConfiguration</ReturnType>
@@ -285,8 +286,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Network.Models.AzureFirewallNatRuleCollectionData&gt;</ReturnType>
@@ -306,8 +307,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Network.Models.AzureFirewallNetworkRuleCollectionData&gt;</ReturnType>
@@ -327,8 +328,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.Network.Models.NetworkProvisioningState&gt;</ReturnType>
@@ -348,8 +349,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.Models.AzureFirewallSku</ReturnType>
@@ -372,8 +373,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.AzureFirewallData</ReturnType>
@@ -405,8 +406,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -437,8 +438,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Network.AzureFirewallData</ReturnType>
@@ -470,8 +471,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -500,8 +501,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -528,8 +529,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.Network.Models.AzureFirewallThreatIntelMode&gt;</ReturnType>
@@ -549,8 +550,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -570,8 +571,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
         <AssemblyVersion>1.11.1.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>

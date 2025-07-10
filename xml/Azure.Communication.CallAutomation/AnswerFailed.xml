@@ -16,7 +16,7 @@
   <Interfaces />
   <Docs>
     <summary>
-            The answer failed event.
+            The failed to answer call event.
             </summary>
     <remarks>To be added.</remarks>
   </Docs>

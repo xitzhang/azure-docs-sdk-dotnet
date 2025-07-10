@@ -1,9 +1,13 @@
 <Type Name="KeyVaultPermission" FullName="Azure.Security.KeyVault.Administration.KeyVaultPermission">
-  <TypeSignature Language="C#" Value="public class KeyVaultPermission" />
-  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit KeyVaultPermission extends System.Object" />
+  <TypeSignature Language="C#" Value="public class KeyVaultPermission" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit KeyVaultPermission extends System.Object" FrameworkAlternate="azure-dotnet" />
   <TypeSignature Language="DocId" Value="T:Azure.Security.KeyVault.Administration.KeyVaultPermission" />
-  <TypeSignature Language="VB.NET" Value="Public Class KeyVaultPermission" />
-  <TypeSignature Language="F#" Value="type KeyVaultPermission = class" />
+  <TypeSignature Language="VB.NET" Value="Public Class KeyVaultPermission" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="F#" Value="type KeyVaultPermission = class" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="C#" Value="public class KeyVaultPermission : System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;, System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit KeyVaultPermission extends System.Object implements class System.ClientModel.Primitives.IJsonModel`1&lt;class Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;, class System.ClientModel.Primitives.IPersistableModel`1&lt;class Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="VB.NET" Value="Public Class KeyVaultPermission&#xA;Implements IJsonModel(Of KeyVaultPermission), IPersistableModel(Of KeyVaultPermission)" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="F#" Value="type KeyVaultPermission = class&#xA;    interface IJsonModel&lt;KeyVaultPermission&gt;&#xA;    interface IPersistableModel&lt;KeyVaultPermission&gt;" FrameworkAlternate="azure-dotnet-preview" />
   <AssemblyInfo>
     <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
     <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -13,11 +17,22 @@
     <AssemblyVersion>4.4.0.0</AssemblyVersion>
     <AssemblyVersion>4.5.0.0</AssemblyVersion>
     <AssemblyVersion>4.6.0.0</AssemblyVersion>
+    <AssemblyVersion>4.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
   </Base>
-  <Interfaces />
+  <Interfaces>
+    <Interface FrameworkAlternate="azure-dotnet-preview">
+      <InterfaceName>System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;</InterfaceName>
+    </Interface>
+    <Interface FrameworkAlternate="azure-dotnet-preview">
+      <InterfaceName>System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;</InterfaceName>
+    </Interface>
+    <Interface FrameworkAlternate="azure-dotnet-preview">
+      <InterfaceName>System.ClientModel.Primitives.IPersistableModel&lt;T&gt;</InterfaceName>
+    </Interface>
+  </Interfaces>
   <Docs>
     <summary> Role definition permissions. </summary>
     <remarks>To be added.</remarks>
@@ -33,6 +48,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -50,6 +66,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -70,6 +87,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Security.KeyVault.Administration.KeyVaultDataAction&gt;</ReturnType>
@@ -77,6 +95,57 @@
       <Docs>
         <summary> Data action permissions that are granted. </summary>
         <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="JsonModelCreateCore">
+      <MemberSignature Language="C#" Value="protected virtual Azure.Security.KeyVault.Administration.KeyVaultPermission JsonModelCreateCore (ref System.Text.Json.Utf8JsonReader reader, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultPermission JsonModelCreateCore(valuetype System.Text.Json.Utf8JsonReader&amp; reader, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.JsonModelCreateCore(System.Text.Json.Utf8JsonReader@,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Function JsonModelCreateCore (ByRef reader As Utf8JsonReader, options As ModelReaderWriterOptions) As KeyVaultPermission" />
+      <MemberSignature Language="F#" Value="abstract member JsonModelCreateCore : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission&#xA;override this.JsonModelCreateCore : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission" Usage="keyVaultPermission.JsonModelCreateCore (reader, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultPermission</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="reader" Type="System.Text.Json.Utf8JsonReader" RefType="ref" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="reader"> The JSON reader. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="JsonModelWriteCore">
+      <MemberSignature Language="C#" Value="protected virtual void JsonModelWriteCore (System.Text.Json.Utf8JsonWriter writer, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance void JsonModelWriteCore(class System.Text.Json.Utf8JsonWriter writer, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.JsonModelWriteCore(System.Text.Json.Utf8JsonWriter,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Sub JsonModelWriteCore (writer As Utf8JsonWriter, options As ModelReaderWriterOptions)" />
+      <MemberSignature Language="F#" Value="abstract member JsonModelWriteCore : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit&#xA;override this.JsonModelWriteCore : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit" Usage="keyVaultPermission.JsonModelWriteCore (writer, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="writer" Type="System.Text.Json.Utf8JsonWriter" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="writer"> The JSON writer. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -90,6 +159,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;System.String&gt;</ReturnType>
@@ -110,6 +180,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
         <AssemblyVersion>4.6.0.0</AssemblyVersion>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Security.KeyVault.Administration.KeyVaultDataAction&gt;</ReturnType>
@@ -117,6 +188,196 @@
       <Docs>
         <summary> Data action permissions that are excluded but not denied. They may be granted by other role definitions assigned to a principal. </summary>
         <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="PersistableModelCreateCore">
+      <MemberSignature Language="C#" Value="protected virtual Azure.Security.KeyVault.Administration.KeyVaultPermission PersistableModelCreateCore (BinaryData data, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultPermission PersistableModelCreateCore(class System.BinaryData data, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.PersistableModelCreateCore(System.BinaryData,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Function PersistableModelCreateCore (data As BinaryData, options As ModelReaderWriterOptions) As KeyVaultPermission" />
+      <MemberSignature Language="F#" Value="abstract member PersistableModelCreateCore : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission&#xA;override this.PersistableModelCreateCore : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission" Usage="keyVaultPermission.PersistableModelCreateCore (data, options)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultPermission</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="data" Type="System.BinaryData" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="data"> The data to parse. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="PersistableModelWriteCore">
+      <MemberSignature Language="C#" Value="protected virtual BinaryData PersistableModelWriteCore (System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig newslot virtual instance class System.BinaryData PersistableModelWriteCore(class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.PersistableModelWriteCore(System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Protected Overridable Function PersistableModelWriteCore (options As ModelReaderWriterOptions) As BinaryData" />
+      <MemberSignature Language="F#" Value="abstract member PersistableModelWriteCore : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData&#xA;override this.PersistableModelWriteCore : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData" Usage="keyVaultPermission.PersistableModelWriteCore options" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.BinaryData</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create">
+      <MemberSignature Language="C#" Value="Azure.Security.KeyVault.Administration.KeyVaultPermission IJsonModel&lt;KeyVaultPermission&gt;.Create (ref System.Text.Json.Utf8JsonReader reader, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultPermission System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create(valuetype System.Text.Json.Utf8JsonReader&amp; reader, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.System#ClientModel#Primitives#IJsonModel&lt;Azure#Security#KeyVault#Administration#KeyVaultPermission&gt;#Create(System.Text.Json.Utf8JsonReader@,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function Create (ByRef reader As Utf8JsonReader, options As ModelReaderWriterOptions) As KeyVaultPermission Implements IJsonModel(Of KeyVaultPermission).Create" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission&#xA;override this.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create : Utf8JsonReader * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission" Usage="keyVaultPermission.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create (reader, options)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IJsonModel`1.Create(System.Text.Json.Utf8JsonReader@,System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultPermission</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="reader" Type="System.Text.Json.Utf8JsonReader" RefType="ref" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="reader"> The JSON reader. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write">
+      <MemberSignature Language="C#" Value="void IJsonModel&lt;KeyVaultPermission&gt;.Write (System.Text.Json.Utf8JsonWriter writer, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance void System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write(class System.Text.Json.Utf8JsonWriter writer, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.System#ClientModel#Primitives#IJsonModel&lt;Azure#Security#KeyVault#Administration#KeyVaultPermission&gt;#Write(System.Text.Json.Utf8JsonWriter,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Sub Write (writer As Utf8JsonWriter, options As ModelReaderWriterOptions) Implements IJsonModel(Of KeyVaultPermission).Write" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit&#xA;override this.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write : System.Text.Json.Utf8JsonWriter * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; unit" Usage="keyVaultPermission.System.ClientModel.Primitives.IJsonModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write (writer, options)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IJsonModel`1.Write(System.Text.Json.Utf8JsonWriter,System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="writer" Type="System.Text.Json.Utf8JsonWriter" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="writer"> The JSON writer. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create">
+      <MemberSignature Language="C#" Value="Azure.Security.KeyVault.Administration.KeyVaultPermission IPersistableModel&lt;KeyVaultPermission&gt;.Create (BinaryData data, System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance class Azure.Security.KeyVault.Administration.KeyVaultPermission System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create(class System.BinaryData data, class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.System#ClientModel#Primitives#IPersistableModel&lt;Azure#Security#KeyVault#Administration#KeyVaultPermission&gt;#Create(System.BinaryData,System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function Create (data As BinaryData, options As ModelReaderWriterOptions) As KeyVaultPermission Implements IPersistableModel(Of KeyVaultPermission).Create" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission&#xA;override this.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create : BinaryData * System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; Azure.Security.KeyVault.Administration.KeyVaultPermission" Usage="keyVaultPermission.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Create (data, options)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IPersistableModel`1.Create(System.BinaryData,System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Security.KeyVault.Administration.KeyVaultPermission</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="data" Type="System.BinaryData" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="data"> The data to parse. </param>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.GetFormatFromOptions">
+      <MemberSignature Language="C#" Value="string IPersistableModel&lt;KeyVaultPermission&gt;.GetFormatFromOptions (System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance string System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.GetFormatFromOptions(class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.System#ClientModel#Primitives#IPersistableModel&lt;Azure#Security#KeyVault#Administration#KeyVaultPermission&gt;#GetFormatFromOptions(System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function GetFormatFromOptions (options As ModelReaderWriterOptions) As String Implements IPersistableModel(Of KeyVaultPermission).GetFormatFromOptions" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.GetFormatFromOptions : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; string&#xA;override this.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.GetFormatFromOptions : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; string" Usage="keyVaultPermission.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.GetFormatFromOptions options" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IPersistableModel`1.GetFormatFromOptions(System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write">
+      <MemberSignature Language="C#" Value="BinaryData IPersistableModel&lt;KeyVaultPermission&gt;.Write (System.ClientModel.Primitives.ModelReaderWriterOptions options);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance class System.BinaryData System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write(class System.ClientModel.Primitives.ModelReaderWriterOptions options) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Security.KeyVault.Administration.KeyVaultPermission.System#ClientModel#Primitives#IPersistableModel&lt;Azure#Security#KeyVault#Administration#KeyVaultPermission&gt;#Write(System.ClientModel.Primitives.ModelReaderWriterOptions)" />
+      <MemberSignature Language="VB.NET" Value="Function Write (options As ModelReaderWriterOptions) As BinaryData Implements IPersistableModel(Of KeyVaultPermission).Write" />
+      <MemberSignature Language="F#" Value="abstract member System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData&#xA;override this.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write : System.ClientModel.Primitives.ModelReaderWriterOptions -&gt; BinaryData" Usage="keyVaultPermission.System.ClientModel.Primitives.IPersistableModel&lt;Azure.Security.KeyVault.Administration.KeyVaultPermission&gt;.Write options" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.ClientModel.Primitives.IPersistableModel`1.Write(System.ClientModel.Primitives.ModelReaderWriterOptions)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Security.KeyVault.Administration</AssemblyName>
+        <AssemblyVersion>4.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.BinaryData</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="options" Type="System.ClientModel.Primitives.ModelReaderWriterOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="options"> The client options for reading and writing models. </param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>

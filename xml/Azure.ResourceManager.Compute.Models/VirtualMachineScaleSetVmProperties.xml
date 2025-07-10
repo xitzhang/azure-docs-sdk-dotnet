@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
     <AssemblyVersion>1.10.0.0</AssemblyVersion>
+    <AssemblyVersion>1.11.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -36,6 +37,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -53,6 +55,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.AdditionalCapabilities</ReturnType>
@@ -73,6 +76,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.BinaryData&gt;</ReturnType>
@@ -101,6 +105,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResourceIdentifier</ReturnType>
@@ -121,6 +126,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.BootDiagnostics</ReturnType>
@@ -141,6 +147,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineHardwareProfile</ReturnType>
@@ -161,6 +168,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineScaleSetVmInstanceView</ReturnType>
@@ -181,6 +189,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -206,6 +215,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
@@ -226,6 +236,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -246,6 +257,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -266,6 +278,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.ResourceManager.Compute.Models.VirtualMachineScaleSetNetworkConfiguration&gt;</ReturnType>
@@ -286,6 +299,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineNetworkProfile</ReturnType>
@@ -306,6 +320,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineOSProfile</ReturnType>
@@ -326,6 +341,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineScaleSetVmProtectionPolicy</ReturnType>
@@ -346,6 +362,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -366,6 +383,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ResourceManager.Compute.Models.ResilientVmDeletionStatus&gt;</ReturnType>
@@ -386,6 +404,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.SecurityProfile</ReturnType>
@@ -406,6 +425,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineStorageProfile</ReturnType>
@@ -429,6 +449,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineScaleSetVmProperties</ReturnType>
@@ -461,6 +482,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -492,6 +514,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.Compute.Models.VirtualMachineScaleSetVmProperties</ReturnType>
@@ -524,6 +547,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -553,6 +577,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -580,6 +605,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.DateTimeOffset&gt;</ReturnType>
@@ -600,6 +626,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -620,6 +647,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.10.0.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

@@ -14,6 +14,7 @@
     <AssemblyVersion>1.4.1.0</AssemblyVersion>
     <AssemblyVersion>1.4.2.0</AssemblyVersion>
     <AssemblyVersion>1.5.0.0</AssemblyVersion>
+    <AssemblyVersion>1.6.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ClientModel.Primitives.PipelineTransport</BaseTypeName>
@@ -40,6 +41,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -60,6 +62,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="client" Type="System.Net.Http.HttpClient" />
@@ -85,6 +88,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="client" Type="System.Net.Http.HttpClient" />
@@ -115,6 +119,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.ClientModel.Primitives.PipelineMessage</ReturnType>
@@ -144,6 +149,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -164,6 +170,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -194,6 +201,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -229,6 +237,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -264,6 +273,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -294,6 +304,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.ValueTask</ReturnType>
@@ -325,6 +336,7 @@
       <AssemblyInfo>
         <AssemblyName>System.ClientModel</AssemblyName>
         <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <AssemblyVersion>1.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.ClientModel.Primitives.HttpClientPipelineTransport</ReturnType>

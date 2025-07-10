@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.LambdaTestHyperExecute</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -27,6 +28,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.LambdaTestHyperExecute</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.LambdaTestHyperExecute.Models.LambdaTestHyperExecuteMarketplaceDetails</ReturnType>
@@ -55,6 +57,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.LambdaTestHyperExecute</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.LambdaTestHyperExecute.LambdaTestHyperExecuteOrganizationData</ReturnType>
@@ -93,6 +96,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.LambdaTestHyperExecute</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.LambdaTestHyperExecute.Models.LambdaTestHyperExecuteOrganizationProperties</ReturnType>

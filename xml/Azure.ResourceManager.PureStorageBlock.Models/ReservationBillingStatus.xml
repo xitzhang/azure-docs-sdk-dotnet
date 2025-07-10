@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -37,6 +38,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Double</ReturnType>
@@ -57,6 +59,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -77,6 +80,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -97,6 +101,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -117,6 +122,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -142,6 +148,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -165,6 +172,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.ReservationBillingStatus</ReturnType>
@@ -197,6 +205,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -228,6 +237,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.ResourceManager.PureStorageBlock.Models.ReservationBillingStatus</ReturnType>
@@ -260,6 +270,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -289,6 +300,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -316,6 +328,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -336,6 +349,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -356,6 +370,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -376,6 +391,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -396,6 +412,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -416,6 +433,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -436,6 +454,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -456,6 +475,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -476,6 +496,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.PureStorageBlock</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>

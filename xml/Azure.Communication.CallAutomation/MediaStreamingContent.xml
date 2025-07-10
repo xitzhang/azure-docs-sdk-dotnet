@@ -25,7 +25,7 @@
     </Attribute>
   </Attributes>
   <Docs>
-    <summary> Content type to stream, eg. audio. </summary>
+    <summary> The MediaStreamingContentType. </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>

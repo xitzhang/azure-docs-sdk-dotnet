@@ -7,6 +7,8 @@
   <AssemblyInfo>
     <AssemblyName>Azure.Provisioning</AssemblyName>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Provisioning.Primitives.ProvisionableResource</BaseTypeName>
@@ -28,7 +30,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="bicepIdentifier" Type="System.String" />
@@ -57,7 +60,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.ActionOnUnmanage</ReturnType>
@@ -80,7 +84,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.Boolean&gt;</ReturnType>
@@ -103,7 +108,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.String&gt;</ReturnType>
@@ -126,7 +132,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.String&gt;</ReturnType>
@@ -155,7 +162,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -177,7 +185,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepList&lt;Azure.Provisioning.Resources.SubResource&gt;</ReturnType>
@@ -201,7 +210,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.DenySettings</ReturnType>
@@ -223,7 +233,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.String&gt;</ReturnType>
@@ -246,7 +257,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.String&gt;</ReturnType>
@@ -274,7 +286,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.String&gt;</ReturnType>
@@ -296,7 +309,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepList&lt;Azure.Provisioning.Resources.SubResource&gt;</ReturnType>
@@ -322,7 +336,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.TimeSpan&gt;</ReturnType>
@@ -344,7 +359,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.ResponseError&gt;</ReturnType>
@@ -366,7 +382,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepList&lt;Azure.Provisioning.Resources.ResourceReferenceExtended&gt;</ReturnType>
@@ -389,7 +406,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.DeploymentStack</ReturnType>
@@ -422,7 +440,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Core.ResourceIdentifier&gt;</ReturnType>
@@ -444,7 +463,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Core.AzureLocation&gt;</ReturnType>
@@ -467,7 +487,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.String&gt;</ReturnType>
@@ -489,7 +510,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.BinaryData&gt;</ReturnType>
@@ -524,7 +546,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepDictionary&lt;Azure.Provisioning.Resources.DeploymentParameter&gt;</ReturnType>
@@ -550,7 +573,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.DeploymentStacksParametersLink</ReturnType>
@@ -574,7 +598,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;Azure.Provisioning.Resources.DeploymentStackProvisioningState&gt;</ReturnType>
@@ -596,7 +621,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepList&lt;Azure.Provisioning.Resources.ManagedResourceReference&gt;</ReturnType>
@@ -618,7 +644,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.SystemData</ReturnType>
@@ -640,7 +667,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepDictionary&lt;System.String&gt;</ReturnType>
@@ -662,7 +690,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.BicepValue&lt;System.BinaryData&gt;</ReturnType>
@@ -700,7 +729,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Provisioning</AssemblyName>
-        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.2.0.0</AssemblyVersion>
+        <AssemblyVersion>1.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Provisioning.Resources.DeploymentStacksTemplateLink</ReturnType>
