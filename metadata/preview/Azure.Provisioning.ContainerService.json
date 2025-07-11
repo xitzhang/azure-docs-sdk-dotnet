@@ -1,7 +1,7 @@
 {
   "Name": "Azure.Provisioning.ContainerService",
-  "Version": "1.0.0-beta.4",
-  "DevVersion": null,
+  "Version": "1.0.0-alpha.20250710.1",
+  "DevVersion": "1.0.0-alpha.20250710.1",
   "DirectoryPath": "sdk/provisioning/Azure.Provisioning.ContainerService",
   "ServiceDirectory": "provisioning",
   "ReadMePath": "sdk/provisioning/Azure.Provisioning.ContainerService/README.md",
@@ -10,7 +10,7 @@
   "SdkType": "mgmt",
   "IsNewSdk": true,
   "ArtifactName": "Azure.Provisioning.ContainerService",
-  "ReleaseStatus": "2025-06-25",
+  "ReleaseStatus": "Unreleased",
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
   "ArtifactDetails": {
@@ -21,10 +21,10 @@
     "safeName": "AzureProvisioningContainerService"
   },
   "CIParameters": {
-    "CheckAOTCompat": false,
-    "CIMatrixConfigs": [],
+    "AOTTestInputs": [],
     "BuildSnippets": true,
-    "AOTTestInputs": []
+    "CheckAOTCompat": false,
+    "CIMatrixConfigs": []
   },
   "Namespaces": [
     "Azure.Provisioning.ContainerService"
